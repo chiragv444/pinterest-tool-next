@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Pinterest 影片下載器 – 高清下載 Pinterest 視頻",
+    "description": "Pinterest 影片下載器，輕鬆下載 Pinterest 上的高畫質影片。可在包括電腦、手機和平板電腦在內的所有裝置上安全運作。",
+    "keywords": "Pinterest 视频下载器，下载 Pinterest 视频，Pinterest 视频下载，Pin 视频下载"
+  },
+  "hero": {
+    "title": "Pinterest 影片下載器",
+    "subtitle": "快速、免费且安全地下载高清 MP4 格式的 Pinterest 视频。"
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste video URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pinterest 影片下載器 - Pinvideodown</h2><p><a href='/zh/' class='internal-link'>Pinterest 影片下載器</a> 是一個簡單、快速且可靠的平台。它旨在幫助用戶直接從 Pinterest 下載他們喜愛的影片、靈感圖片和 GIF 動圖。只需一個 Pinterest 鏈接，即可轉換並下載高清媒體文件，無需額外軟體或登入帳戶。</p><p>我們的 下載 Pinterest 視頻工具支援所有類型的 Pinterest 媒體，並可在所有裝置上運行，包括手機、平板電腦和桌上型電腦。無論您是想保存內容以供離線觀看、為個人專案尋找靈感，還是將影片用於教育用途，這款下載器都能讓整個過程變得輕鬆便捷。</p>"
+  },
+  "what_section": {
+    "text": "<h2>什麼是Pinterest 影片下載器？</h2><p>Pinterest 影片下載器是一種工具、網站或應用程序，可讓用戶將 Pinterest 上的影片儲存到自己的裝置上。這些工具通常透過從 Pinterest 貼文 URL 中提取影片檔案並提供下載連結來運作。一些常用的方法包括使用線上下載網站、瀏覽器擴充功能和行動應用程式。</p>"
+  },
+  "why_section": {
+    "title": "為什麼要使用Pinterest 影片下載器？",
+    "intro": "Pinterest 不提供影片內容的直接下載選項，這使得儲存媒體檔案變得困難。這款工具透過提供一種用戶友好、安全高效的方式，讓您離線保存喜愛的視覺靈感，從而解決了這個問題。無論您是內容創作者、設計師、教育工作者或 Pinterest 的普通用戶，它都能幫助您隨時隨地整理和存取靈感。它可以將影片轉換為 MP4、MOV 或 GIF 等可下載格式。您只需要提供 Pin 圖的 URL，剩下的工作都由這款工具自動完成。",
+    "feature_1": {
+      "title": "離線觀賞",
+      "text": "對於網路存取受限地區的用戶，或想要在不消耗流量的情況下觀看影片的用戶來說，下載影片非常有用。"
+    },
+    "feature_2": {
+      "title": "輕鬆分享",
+      "text": "某些平台或即時通訊應用程式對 Pinterest 連結的支援並不完善。下載影片可以讓跨裝置或應用程式分享更加便利可靠。"
+    },
+    "feature_3": {
+      "title": "高品質視訊輸出",
+      "text": "下載或存取全高清、2K 或 4K 解析度的內容。與其他許多僅提供低品質格式的服務不同，我們為您提供最佳體驗。"
+    }
+  },
+  "how_section": {
+    "title": "如何下載 Pinterest 視頻？",
+    "intro": "這些網站旨在幫助用戶無需安裝任何軟體即可下載 Pinterest 視頻。以下是具體步驟：",
+    "steps": [
+      "打開 Pinterest，複製你想儲存的影片或圖釘的網址。",
+      "將複製的 Pinterest 影片 URL 貼上到下載網站的輸入框中。點擊“下載”按鈕分析連結。",
+      "選擇您喜歡的下載格式或品質。將文件儲存到您的裝置。"
+    ]
+  },
+  "features": {
+    "title": "下載 Pinterest 視頻的功能",
+    "items": [
+      {
+        "title": "支援所有 Pinterest 媒體類型",
+        "text": "Pinterest 影片下載器 可以使用 pinvideodown 儲存影片、GIF、故事圖釘，甚至是創意圖釘。",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "完全免費使用",
+        "text": "我們的平台完全免費。我們秉持簡單透明的原則，沒有任何隱藏費用，也沒有付費會員等級。我們可能會展示少量廣告以維持運營，但您無需支付任何費用。",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "下載速度快",
+        "text": "優質的工具應該能夠快速處理URL，並在幾秒鐘內保存視頻，無需長時間等待。",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "無需安裝軟體或註冊",
+        "text": "您無需安裝任何軟體、擴充功能或外掛程式。下載 Pinterest 視頻工具完全在瀏覽器中運作。",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "跨平台支援",
+        "text": "無論您使用的是 Chrome、Safari、Firefox 還是 Edge，PinVideoDown 都能在所有瀏覽器和裝置（如桌上型電腦、平板電腦和手機）上完美運作。",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "快速安全的處理",
+        "text": "此工具可即時處理鏈接，且不會儲存您下載的檔案。您的隱私和瀏覽安全將受到全面保護。",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題 (FAQ)",
+    "items": [
+      {
+        "question": "我可以免費下載Pinterest影片嗎？",
+        "answer": "是的！ PinVideoDown 完全免費，沒有任何隱藏費用或下載限制。"
+      },
+      {
+        "question": "使用 PinVideoDown 安全嗎？",
+        "answer": "當然。我們使用安全的HTTPS連接，絕不儲存任何用戶資料或影片。"
+      },
+      {
+        "question": "它能在行動裝置上運作嗎？",
+        "answer": "是的，在所有智慧型手機、平板電腦和桌面瀏覽器上都能完美運作。"
+      },
+      {
+        "question": "可以下載Pinterest上的創意圖釘和故事圖釘嗎？",
+        "answer": "是的，Pinterest 影片下載器支援所有 Pinterest 媒體格式，包括影片、創意圖釘和故事圖釘。"
+      },
+      {
+        "question": "我需要安裝應用程式嗎？",
+        "answer": "無需安裝。 PinVideoDown 是一款基於網頁的 Pinterest 下載器，可隨時透過瀏覽器存取。"
+      }
+    ]
+  }
+}

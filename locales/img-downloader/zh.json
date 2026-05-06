@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Pinterest 圖片下載器 | 下載高清與 4K Pinterest 圖片",
+    "description": "立即下載高清原下載 Pinterest 圖片。免費Pinterest 圖片下載器，無需登入。快速、安全，支援所有設備。",
+    "keywords": "Pinterest 图片下载器，下载 Pinterest 图片，Pinterest 图片下载，Pin 图片下载，Pin 视频下载"
+  },
+  "hero": {
+    "title": "Pinterest 圖片下載器",
+    "subtitle": "下載高清、原圖品下載 Pinterest 圖片、圖釘和創意照片，完全免費。無需安裝任何應用，只需貼上連結並點擊下載即可。"
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste image URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pinterest 圖片下載器 - Pinvideodown</h2><p>我們的 <a href='/zh/pinterest-image-downloader/' class='internal-link'>Pinterest 圖片下載器</a> 是一款簡單可靠的線上工具，旨在幫助您將任何 Pinterest 圖片直接儲存到您的裝置。無論您需要靈感照片、精美圖片、桌布、設計圖或創意圖釘，我們的下載器都能讓整個過程快速、輕鬆且無限。</p><p>Pinterest 圖片下載器工具是基於網頁的實用程式或軟體，讓使用者可以將 Pinterest 上的圖片（或 GIF）儲存到自己的裝置上。雖然 Pinterest 本身提供了一些保存 Pin 圖的有限選項，但下載工具可以輕鬆提取高品質媒體，通常無需手動截圖或進行複雜的操作。這些工具對於設計師、部落客、研究人員或任何想要創建個人離線視覺靈感庫的人來說都特別有用。</p>"
+  },
+  "what_section": {
+    "text": "<h2>什麼是Pinterest 圖片下載器？</h2><p>PinVideoDown 出品的 Pinterest 圖片下載器是一款線上工具，旨在從 Pinterest 提取並保存高清、全高清和 4K 畫質的圖片。無論您需要靈感板、旅行照片、藝術作品、食譜或產品圖片，我們的下載器都能快速安全地保存它們。</p>"
+  },
+  "why_section": {
+    "title": "為什麼要使用Pinterest 圖片下載器？",
+    "intro": "Pinterest 不允許您直接下載全解析度圖片。我們的工具解決了這個問題，讓您可以下載任何 Pinterest 圖片或圖釘的高清、全尺寸或原始畫質版本。如果您喜歡在 Pinterest 上瀏覽尋找靈感，無論是旅行靈感、家居裝飾、DIY 項目、時尚穿搭還是食譜，您可能一直渴望找到一種簡單的方法，將您喜愛的照片直接保存到您的設備。我們的 Pinterest 圖片下載器正是為此而生。它快速、可靠且極其易用，只需幾秒鐘即可下載高品質的 Pinterest 圖片。",
+    "feature_1": {
+      "title": "超快且易於使用",
+      "text": "無需複雜步驟，無需註冊。只需貼上 Pinterest 鏈接，點擊下載，即可完成。我們的工具簡化了整個流程，讓您輕鬆儲存圖片。"
+    },
+    "feature_2": {
+      "title": "高品質下載",
+      "text": "Pinterest 會壓縮內容，但我們不會。我們的 Pinterest 圖片下載器可以保存高清、4K 和原始畫質的圖片，且不會損失清晰度，讓您獲得清晰銳利的圖像，非常適合用於設計工作、靈感板、演示文稿或個人收藏。"
+    },
+    "feature_3": {
+      "title": "安全可靠",
+      "text": "您的隱私是我們的首要任務。我們的 Pinterest 圖片下載器務不會儲存您的數據，且不含惡意軟體或侵入式廣告。"
+    }
+  },
+  "how_section": {
+    "title": "如何下載 Pinterest 圖片？",
+    "steps": [
+      "複製你想下載的Pinterest圖片的URL。",
+      "將其貼到上面的輸入框中，然後點擊“下載”。",
+      "選擇您需要的品質並立即保存。"
+    ]
+  },
+  "features": {
+    "title": "下載 Pinterest 圖片的功能",
+    "items": [
+      {
+        "title": "100% 免費且無限制",
+        "text": "沒有隱藏費用或高級套餐，也沒有數量限制。您可以完全免費下載任意數量的 Pinterest 圖片。無需 Pinterest 帳號。我們的 Pinterest 圖片下載工具免費使用，數量不限，隨時隨地可用。",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "適用於所有設備",
+        "text": "無論你使用的是安卓、iPhone、Windows 還是 Mac 系統，這款下載器都能在所有瀏覽器上流暢運行，包括 Chrome、Safari、Edge 和 Firefox。",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "多種格式選項",
+        "text": "某些工具可讓您選擇格式（例如 JPG、PNG、WebP）或選擇要下載的解析度。",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "無需安裝軟體",
+        "text": "由於這些工具通常基於網絡，因此您可以在任何裝置或瀏覽器上使用它們，而無需安裝任何軟體。",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "支援 GIF / 動態圖釘",
+        "text": "有些下載器不僅可以下載靜態圖像，還可以下載 GIF 或動畫。",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "一鍵下載",
+        "text": "只需貼上連結即可下載。無廣告，無需等待。",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題 (FAQ)",
+    "items": [
+      {
+        "question": "這個Pinterest 圖片下載器是免費的嗎？",
+        "answer": "是的！我們的工具完全免費，沒有任何隱藏費用。"
+      },
+      {
+        "question": "我需要安裝應用程式嗎？",
+        "answer": "無需安裝。可透過任何瀏覽器線上使用。"
+      },
+      {
+        "question": "我可以在Pinterest上下載高清圖片嗎？",
+        "answer": "是的，如果圖片有 4K 解析度版本，我們的工具會自動取得。"
+      },
+      {
+        "question": "我可以下載創意圖釘嗎？",
+        "answer": "是的，靜態創意圖釘可以像普通圖片一樣下載。"
+      },
+      {
+        "question": "我需要 Pinterest 帳號才能使用這些下載器嗎？",
+        "answer": "不，PinVideoDown 無需登入即可使用。對於公開的 Pin 圖，通常不需要登入。您只需要 Pin 圖的 URL 即可。"
+      },
+      {
+        "question": "這個下載器可以在手機上使用嗎？",
+        "answer": "是的，它在安卓、蘋果等裝置上都能完美運作。"
+      },
+      {
+        "question": "Pinterest 下載器 安全嗎？",
+        "answer": "當然。我們不會儲存網址、圖片或任何個人資訊。"
+      }
+    ]
+  }
+}

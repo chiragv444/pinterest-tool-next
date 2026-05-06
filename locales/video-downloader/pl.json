@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Pobieranie filmów z Pinteresta – pobieranie filmów z Pinteresta w jakości HD",
+    "description": "Pobieranie filmów z Pinteresta umożliwia łatwe pobieranie filmów z Pinteresta w wysokiej jakości. Działa bezpiecznie na wszystkich urządzeniach, w tym na komputerach PC, telefonach komórkowych i tabletach.",
+    "keywords": "Pobieranie filmów z Pinteresta, Pobierz filmy z Pinteresta, pobieranie wideo z Pinteresta, pobieranie Pinów wideo"
+  },
+  "hero": {
+    "title": "Pobieranie filmów z Pinteresta",
+    "subtitle": "Pobieraj filmy z Pinteresta w formacie HD MP4 szybko, bezpłatnie i bezpiecznie."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste video URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pobieranie filmów z Pinteresta - Pinvideodown</h2><p><a href='/pl/' class='internal-link'>Pobieranie filmów z Pinteresta</a> to prosta, szybka i niezawodna platforma. Zaprojektowana, aby pomóc użytkownikom pobierać ulubione filmy, piny z pomysłami i GIF-y bezpośrednio z Pinteresta. Wystarczy link do Pinteresta, aby konwertować i pobierać multimedia w wysokiej jakości HD bez konieczności instalowania dodatkowego oprogramowania lub logowania się na konto.</p><p>Nasze narzędzie do pobierania filmów z Pinteresta obsługuje wszystkie rodzaje multimediów z Pinteresta i działa na wszystkich urządzeniach, w tym telefonach komórkowych, tabletach i komputerach stacjonarnych. Niezależnie od tego, czy zapisujesz treści do oglądania offline, szukasz inspiracji do własnych projektów, czy ponownie wykorzystujesz filmy do celów edukacyjnych, ten program do pobierania ułatwia ten proces.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Czym jest Pobieranie filmów z Pinteresta?</h2><p>Program do Pobieranie filmów z Pinteresta to narzędzie, strona internetowa lub aplikacja, która umożliwia użytkownikom zapisywanie filmów z Pinteresta na swoich urządzeniach. Narzędzia te zazwyczaj działają poprzez wyodrębnianie pliku wideo z adresu URL posta na Pintereście i udostępnianie go do pobrania. Do popularnych metod należą witryny do pobierania online, rozszerzenia do przeglądarek i aplikacje mobilne.</p>"
+  },
+  "why_section": {
+    "title": "Dlaczego warto używać programu do Pobieranie filmów z Pinteresta?",
+    "intro": "Pinterest nie oferuje opcji bezpośredniego pobierania treści wideo, co utrudnia ich zapisywanie. To narzędzie rozwiązuje ten problem, oferując przyjazny dla użytkownika, bezpieczny i wydajny sposób na przechowywanie ulubionych inspiracji wizualnych w trybie offline. Niezależnie od tego, czy jesteś twórcą treści, projektantem, nauczycielem, czy okazjonalnym użytkownikiem Pinteresta, pomaga Ci organizować i uzyskiwać dostęp do pomysłów, kiedy tylko ich potrzebujesz. Konwertuje do formatów do pobrania, takich jak MP4, MOV lub GIF. Wystarczy adres URL Pinu – to narzędzie zajmie się resztą automatycznie.",
+    "feature_1": {
+      "title": "Oglądanie offline",
+      "text": "Pobieranie filmów może być bardzo przydatne dla użytkowników mieszkających na obszarach o ograniczonym dostępie do Internetu lub dla tych, którzy chcą oglądać filmy bez zużywania danych."
+    },
+    "feature_2": {
+      "title": "Łatwe udostępnianie",
+      "text": "Niektóre platformy i aplikacje do przesyłania wiadomości nie obsługują dobrze linków z Pinteresta. Pobranie filmu ułatwia i usprawnia udostępnianie go na różnych urządzeniach lub w aplikacjach."
+    },
+    "feature_3": {
+      "title": "Wysokiej jakości wyjście wideo",
+      "text": "Pobieraj lub korzystaj z treści w rozdzielczości Full HD, 2K lub 4K. W przeciwieństwie do wielu innych usług, które ograniczają Cię do formatów o niższej jakości, zapewniamy Ci najlepsze możliwe wrażenia."
+    }
+  },
+  "how_section": {
+    "title": "Jak Pobierz film z Pinteresta?",
+    "intro": "Strony internetowe zostały zaprojektowane tak, aby umożliwić użytkownikom pobieranie filmów z Pinteresta bez instalowania oprogramowania. Oto ogólne kroki:",
+    "steps": [
+      "Otwórz Pinterest i skopiuj adres URL filmu lub pinezki, którą chcesz zapisać.",
+      "Wklej skopiowany adres URL filmu z Pinteresta w polu tekstowym na stronie pobierania. Kliknij przycisk „Pobierz”, aby przeanalizować link.",
+      "Wybierz preferowany format lub jakość pobierania. Zapisz plik na swoim urządzeniu."
+    ]
+  },
+  "features": {
+    "title": "Funkcje Pobierz film z Pinteresta",
+    "items": [
+      {
+        "title": "Obsługuje wszystkie typy mediów Pinterest",
+        "text": "Pobieranie filmów z Pinteresta może zapisywać filmy, pliki GIF, piny z historiami, a nawet piny pomysłów za pomocą pinvideodown.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Całkowicie darmowe w użyciu",
+        "text": "Nasza platforma jest całkowicie darmowa. Dbamy o prostotę i przejrzystość, nie ma ukrytych opłat za użytkowanie ani planów premium. Możemy wyświetlać minimalne reklamy, aby pokryć koszty, ale nigdy nie zostaniesz poproszony o zapłatę.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Szybkie prędkości pobierania",
+        "text": "Dobre narzędzie powinno szybko przetwarzać adresy URL i zapisywać filmy w ciągu kilku sekund, bez długiego oczekiwania.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Nie potrzeba oprogramowania ani rejestracji",
+        "text": "Nie musisz instalować żadnego oprogramowania, rozszerzeń ani wtyczek. Narzędzie do pobierania filmów z Pinteresta działa w przeglądarce.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Cross-Platform Support",
+        "text": "Niezależnie od tego, czy używasz przeglądarki Chrome, Safari, Firefox czy Edge, PinVideoDown działa doskonale we wszystkich przeglądarkach i urządzeniach, takich jak komputery stacjonarne, tablety i urządzenia mobilne.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Szybkie i bezpieczne przetwarzanie",
+        "text": "To narzędzie przetwarza linki natychmiast i nie przechowuje pobranych plików. Twoja prywatność i bezpieczeństwo przeglądania są w pełni chronione.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Często zadawane pytania (FAQ)",
+    "items": [
+      {
+        "question": "Czy mogę bezpłatnie pobierać filmy z serwisu Pinterest?",
+        "answer": "Tak! PinVideoDown jest całkowicie darmowy, bez ukrytych opłat i limitów pobierania."
+      },
+      {
+        "question": "Czy korzystanie z PinVideoDown jest bezpieczne?",
+        "answer": "Absolutnie. Używamy bezpiecznych połączeń HTTPS i nigdy nie przechowujemy danych użytkowników ani filmów."
+      },
+      {
+        "question": "Czy działa na urządzeniach mobilnych?",
+        "answer": "Tak, działa bez zarzutu na wszystkich smartfonach, tabletach i przeglądarkach stacjonarnych."
+      },
+      {
+        "question": "Czy mogę pobrać piny z pomysłami i piny z historiami z serwisu Pinterest?",
+        "answer": "Tak, Pobieranie filmów z Pinteresta obsługuje wszystkie formaty multimediów serwisu Pinterest, w tym filmy, piny pomysłów i piny historii."
+      },
+      {
+        "question": "Czy muszę zainstalować aplikację?",
+        "answer": "Instalacja nie jest wymagana. PinVideoDown to internetowa aplikacja do pobierania treści z Pinteresta, dostępna w każdej chwili za pośrednictwem przeglądarki."
+      }
+    ]
+  }
+}

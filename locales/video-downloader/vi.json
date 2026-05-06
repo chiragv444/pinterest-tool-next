@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Trình tải xuống video Pinterest – Pinvideodown",
+    "description": "Trình tải xuống video Pinterest giúp bạn tải video chất lượng cao từ Pinterest một cách dễ dàng. Hoạt động an toàn trên mọi thiết bị, bao gồm PC, điện thoại di động hoặc máy tính bảng.",
+    "keywords": "Trình tải video Pinterest, Tải video Pinterest, Tải video từ Pinterest, Tải video Pin, pinvideodown"
+  },
+  "hero": {
+    "title": "Trình tải xuống video Pinterest",
+    "subtitle": "Tải xuống video Pinterest ở định dạng HD MP4 nhanh chóng, miễn phí và an toàn."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste video URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Trình tải xuống video Pinterest – Pinvideodown</h2><p><a href='/vi/' class='internal-link'>Trình tải xuống video Pinterest</a> là một nền tảng đơn giản, nhanh chóng và đáng tin cậy. Được thiết kế để giúp người dùng tải xuống video, ghim ý tưởng và ảnh GIF yêu thích trực tiếp từ Pinterest. Chỉ cần một liên kết Pinterest, bạn có thể chuyển đổi và tải xuống nội dung đa phương tiện ở định dạng HD chất lượng cao mà không cần phần mềm bổ sung hoặc đăng nhập tài khoản.</p><p>Công cụ Tải xuống video Pinterest của chúng tôi hỗ trợ mọi loại phương tiện Pinterest và hoạt động trên mọi thiết bị, bao gồm điện thoại di động, máy tính bảng và máy tính để bàn. Cho dù bạn đang lưu nội dung để xem ngoại tuyến, tìm kiếm cảm hứng cho các dự án cá nhân hay tái sử dụng video cho mục đích giáo dục, trình tải xuống này giúp quá trình này trở nên dễ dàng.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Trình tải xuống video Pinterest là gì?</h2><p>Trình tải xuống video Pinterest là một công cụ, trang web hoặc ứng dụng cho phép người dùng lưu video từ Pinterest vào thiết bị của họ. Các công cụ này thường hoạt động bằng cách trích xuất tệp video từ URL của bài đăng trên Pinterest và cho phép tải xuống. Một số phương pháp phổ biến bao gồm sử dụng các trang web tải xuống trực tuyến, tiện ích mở rộng trình duyệt và ứng dụng di động.</p>"
+  },
+  "why_section": {
+    "title": "Tại sao nên sử dụng trình tải xuống video Pinterest?",
+    "intro": "Pinterest không cung cấp tùy chọn tải xuống trực tiếp nội dung video, khiến việc lưu trữ trở nên khó khăn. Công cụ này giải quyết vấn đề đó bằng cách cung cấp một cách thân thiện, an toàn và hiệu quả để lưu trữ nguồn cảm hứng hình ảnh yêu thích của bạn ngoại tuyến. Cho dù bạn là người sáng tạo nội dung, nhà thiết kế, nhà giáo dục hay người dùng Pinterest thông thường, công cụ này sẽ giúp bạn sắp xếp và truy cập ý tưởng bất cứ khi nào bạn cần. Công cụ này có thể chuyển đổi sang các định dạng có thể tải xuống như MP4, MOV hoặc GIF. Bạn chỉ cần nhập URL của Ghim - công cụ này sẽ tự động xử lý phần còn lại.",
+    "feature_1": {
+      "title": "Xem ngoại tuyến",
+      "text": "Tải xuống video có thể rất hữu ích cho người dùng ở những khu vực có kết nối internet hạn chế hoặc những người muốn xem video mà không cần sử dụng dữ liệu."
+    },
+    "feature_2": {
+      "title": "Chia sẻ dễ dàng",
+      "text": "Một số nền tảng hoặc ứng dụng nhắn tin không hỗ trợ tốt liên kết Pinterest. Tải xuống video giúp việc chia sẻ trên các thiết bị hoặc ứng dụng trở nên dễ dàng và đáng tin cậy hơn."
+    },
+    "feature_3": {
+      "title": "Đầu ra video chất lượng cao",
+      "text": "Tải xuống hoặc truy cập nội dung ở độ phân giải Full HD, 2K hoặc 4K. Không giống như nhiều dịch vụ khác chỉ giới hạn bạn ở các định dạng chất lượng thấp hơn, chúng tôi mang đến cho bạn trải nghiệm tốt nhất hiện có."
+    }
+  },
+  "how_section": {
+    "title": "Làm thế nào để tải xuống video Pinterest?",
+    "intro": "Các trang web được thiết kế để giúp người dùng tải video Pinterest mà không cần cài đặt bất kỳ phần mềm nào. Dưới đây là các bước chung:",
+    "steps": [
+      "Mở Pinterest và sao chép URL của video hoặc ghim mà bạn muốn lưu.",
+      "Dán URL video Pinterest đã sao chép vào hộp nhập trên trang tải xuống. Nhấp vào nút Tải xuống để phân tích liên kết.",
+      "Chọn định dạng hoặc chất lượng tải xuống bạn muốn. Lưu tệp vào thiết bị của bạn."
+    ]
+  },
+  "features": {
+    "title": "Tính năng của Tải xuống video Pinterest",
+    "items": [
+      {
+        "title": "Hỗ trợ tất cả các loại phương tiện Pinterest",
+        "text": "Trình tải xuống video Pinterest có thể lưu video, GIF, ghim câu chuyện và thậm chí cả ghim ý tưởng bằng pinvideodown.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Hoàn toàn miễn phí sử dụng",
+        "text": "Nền tảng của chúng tôi hoàn toàn miễn phí. Chúng tôi giữ mọi thứ đơn giản và minh bạch, không có phí ẩn khi sử dụng, không có gói cao cấp. Chúng tôi có thể hiển thị quảng cáo tối thiểu để hỗ trợ chi phí, nhưng bạn sẽ không bao giờ bị yêu cầu thanh toán.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Tốc độ tải xuống nhanh",
+        "text": "Một công cụ chất lượng phải xử lý URL nhanh chóng và lưu video trong vài giây mà không cần phải chờ đợi lâu.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Không cần phần mềm hoặc đăng ký",
+        "text": "Bạn không cần cài đặt bất kỳ phần mềm, tiện ích mở rộng hay plugin nào. Công cụ Tải xuống video Pinterest hoạt động hoàn toàn trên trình duyệt của bạn.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Hỗ trợ đa nền tảng",
+        "text": "Cho dù bạn đang sử dụng Chrome, Safari, Firefox hay Edge, PinVideoDown đều hoạt động hoàn hảo trên mọi trình duyệt và thiết bị như máy tính để bàn, máy tính bảng và thiết bị di động.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Xử lý nhanh chóng và an toàn",
+        "text": "Công cụ này xử lý liên kết ngay lập tức và không lưu trữ các tệp bạn đã tải xuống. Quyền riêng tư và bảo mật duyệt web của bạn được bảo vệ hoàn toàn.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Những câu hỏi thường gặp (FAQ)",
+    "items": [
+      {
+        "question": "Tôi có thể tải video Pinterest miễn phí không?",
+        "answer": "Có! PinVideoDown hoàn toàn miễn phí, không có phí ẩn hoặc giới hạn tải xuống."
+      },
+      {
+        "question": "Sử dụng PinVideoDown có an toàn không?",
+        "answer": "Tuyệt đối. Chúng tôi sử dụng kết nối HTTPS an toàn và không bao giờ lưu trữ bất kỳ dữ liệu hoặc video nào của người dùng."
+      },
+      {
+        "question": "Nó có hoạt động trên thiết bị di động không?",
+        "answer": "Có, hoạt động hoàn hảo trên mọi điện thoại thông minh, máy tính bảng và trình duyệt máy tính để bàn."
+      },
+      {
+        "question": "Tôi có thể tải xuống ghim ý tưởng và ghim câu chuyện trên Pinterest không?",
+        "answer": "Có, Trình tải xuống video Pinterest hỗ trợ tất cả các định dạng phương tiện Pinterest, bao gồm video, ghim ý tưởng và ghim câu chuyện."
+      },
+      {
+        "question": "Tôi có cần cài đặt ứng dụng không?",
+        "answer": "Không cần cài đặt. PinVideoDown là trình tải xuống Pinterest trực tuyến, có thể truy cập bất cứ lúc nào từ trình duyệt của bạn."
+      }
+    ]
+  }
+}

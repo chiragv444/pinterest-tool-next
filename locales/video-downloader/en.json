@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "title": "Pinterest Video Downloader – Download Pinterest Videos in HD",
+    "description": "Pinterest Video Downloader to download videos from Pinterest in high quality easily. Works safely on all devices including PC, mobile or tablet.",
+    "keywords": "Pinterest Video Downloader, Download pinterest videos, pinterest video download, pin video download, pinvideodown"
+  },
+  "hero": {
+    "title": "Pinterest Video Downloader",
+    "subtitle": "Download Pinterest videos in HD MP4 format for fast, free, and secure."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste video URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pinterest Video Downloader - Pinvideodown</h2><p><a href='/' class='internal-link'>Pinterest Video Downloader</a> is a simple, fast, and reliable platform. Designed to help users download their favorite videos, idea pins, and GIFs directly from Pinterest. With just a Pinterest link, you can convert and download media in high-quality HD without the need for additional software or account login.</p><p>Our Download Pinterest video tool supports all types of Pinterest media and works on all devices, including mobile phones, tablets, and desktop computers. Whether you're saving content for offline viewing, gathering inspiration for personal projects, or reusing videos for educational use, this downloader makes the process easy.</p>"
+  },
+  "what_section": {
+    "text": "<h2>What is Pinterest Video Downloader?</h2><p>A Pinterest Video Downloader is a tool, website, or app that allows users to save videos from Pinterest onto their devices. These tools typically work by extracting the video file from the URL of a Pinterest post and making it available for download. Some popular methods include using online download sites, browser extensions, and mobile apps.</p>"
+  },
+
+  "why_section": {
+    "title": "Why Use a Pinterest Video Downloader?",
+    "intro": "Pinterest does not provide a direct download option for video content, which makes saving media difficult. This tool solves that issue by offering a user-friendly, secure, and efficient way to keep your favorite visual inspiration offline. Whether you're a content creator, designer, educator, or casual Pinterest user, it helps you organize and access ideas whenever you need them. It converts to downloadable formats like MP4, MOV, or GIF. All you need is the URL of the Pin – this tool handles the rest automatically.",
+    "feature_1": {
+      "title": "Offline viewing",
+      "text": "Downloading videos can be very useful for users in areas with limited internet access or for those who want to watch videos without using data."
+    },
+    "feature_2": {
+      "title": "Easy sharing",
+      "text": "Some platforms or messaging apps don't support Pinterest links well. Downloading the video makes sharing across devices or apps easier and more reliable."
+    },
+    "feature_3": {
+      "title": "High-Quality Video Output",
+      "text": "Download or access content in Full HD, 2K, or 4K resolution. Unlike many other services that limit you to lower quality formats, we give you the best experience available."
+    }
+  },
+  "how_section": {
+    "title": "How to Download a Pinterest Video?",
+    "intro": "Websites are designed to help users download Pinterest videos without installing any software. Here are the general steps:",
+    "steps": [
+      "Open Pinterest and copy the URL of the video or pin you want to save.",
+      "Paste the copied Pinterest video URL into the input box on the downloading site. Click the Download button to analyze the link.",
+      "Choose your preferred download format or quality. Save the file to your device."
+    ]
+  },
+  "features": {
+    "title": "Features of Download Pinterest video",
+    "items": [
+      {
+        "title": "Supports all Pinterest media types",
+        "text": "Pinterest Video Downloader can save videos, GIFs, story pins, and even idea pins with pinvideodown.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Absolutely Free to Use",
+        "text": "Our platform is completely free. We keep things simple and transparent, there are no hidden fees for use, no premium tiers. We may display minimal ads to support costs, but you will never be asked to pay.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Fast Download Speeds",
+        "text": "A quality tool should process URLs quickly and save videos in seconds without long waits.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "No Software or Signup Needed",
+        "text": "You don't need to install any software, extensions, or plugins. The Download Pinterest video tool works all in your browser.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Cross-Platform Support",
+        "text": "Whether you are using Chrome, Safari, Firefox, or Edge, PinVideoDown works perfectly across all browsers and devices like desktop, tablet, and mobile.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Fast & Secure Processing",
+        "text": "This tool processes links instantly and does not store your downloaded files. Your privacy and browsing security are completely protected.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions (FAQs)",
+    "items": [
+      {
+        "question": "Can I download Pinterest videos for free?",
+        "answer": "Yes! PinVideoDown is completely free with no hidden charges or limits on downloads."
+      },
+      {
+        "question": "Is it safe to use PinVideoDown?",
+        "answer": "Absolutely. We use secure HTTPS connections and never store any user data or videos."
+      },
+      {
+        "question": "Does it work on mobile devices?",
+        "answer": "Yes, works flawlessly on all smartphones, tablets, and desktop browsers."
+      },
+      {
+        "question": "Can I download Pinterest idea pins and story pins?",
+        "answer": "Yes, Pinterest Video Downloader supports all Pinterest media formats, including videos, idea pins, and story pins."
+      },
+      {
+        "question": "Do I need to install an app?",
+        "answer": "No installation is needed. PinVideoDown is a web-based Pinterest downloader, accessible anytime from your browser."
+      }
+    ]
+  }
+}

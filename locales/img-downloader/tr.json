@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Pinterest Resim İndirici - Pinvideodown",
+    "description": "Pinterest Görselini İndirin anında HD ve orijinal kalitede indirin. Giriş gerektirmeyen ücretsiz Pinterest Resim İndirici. Hızlı, güvenli ve tüm cihazlarda çalışır.",
+    "keywords": "Pinterest Görsel İndirici, Pinterest görseli indir, Pinterest görsel indirme, Pin görseli indirme, Pin video indirme"
+  },
+  "hero": {
+    "title": "Pinterest Resim İndirici",
+    "subtitle": "Pinterest Görselini İndirin, pinlerini ve fikir fotoğraflarını HD, orijinal kalitede ve tamamen ücretsiz indirin. Uygulamaya gerek yok, sadece bağlantıyı yapıştırın ve indir'e basın."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste image URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pinterest Resim İndirici - Pinvideodown</h2><p><a href='/tr/pinterest-image-downloader/' class='internal-link'>Pinterest Resim İndirici</a>, herhangi bir Pinterest resmini doğrudan cihazınıza kaydetmenize yardımcı olmak için tasarlanmış basit ve güvenilir bir çevrimiçi araçtır. İlham verici fotoğraflara, estetik görsellere, duvar kağıtlarına, tasarımlara veya fikir pinlerine ihtiyacınız olsun, indiricimiz süreci hızlı, kolay ve sınırsız hale getirir.</p><p>Pinterest Resim İndirici araçları, kullanıcıların Pinterest'teki resimleri (veya GIF'leri) kendi cihazlarına kaydetmelerine olanak tanıyan web tabanlı yardımcı programlar veya yazılımlardır. Pinterest, pinleri kaydetmek için bazı sınırlı yerel seçenekler sunsa da, indirme araçları genellikle manuel olarak ekran görüntüsü almaya veya karmaşık iş akışlarından geçmeye gerek kalmadan yüksek kaliteli medya dosyalarını çıkarmayı kolaylaştırır. Bu araçlar özellikle tasarımcılar, blog yazarları, araştırmacılar veya kişisel bir çevrimdışı görsel ilham koleksiyonu oluşturmak isteyen herkes için faydalıdır.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Pinterest Resim İndirici Nedir?</h2><p>PinVideoDown tarafından geliştirilen Pinterest Resim İndirici, Pinterest'ten HD, Full HD ve 4K kalitesinde görseller çıkarmak ve kaydetmek için tasarlanmış çevrimiçi bir araçtır. İlham panolarına, seyahat fotoğraflarına, sanat eserlerine, tariflere veya ürün görsellerine ihtiyacınız olsun, indiricimiz bunları hızlı ve güvenli bir şekilde kaydeder.</p>"
+  },
+  "why_section": {
+    "title": "Neden Pinterest Resim İndirici Kullanmalısınız?",
+    "intro": "Pinterest, görselleri doğrudan tam çözünürlükte indirmenize izin vermez. Aracımız, herhangi bir Pinterest görselini veya pinini HD, tam boyutlu veya orijinal kalitede indirmenize olanak tanıyarak bu sorunu çözer. Seyahat fikirleri, ev dekorasyonu, kendin yap projeleri, moda veya tarifler olsun, ilham almak için Pinterest'te gezinmeyi seviyorsanız, muhtemelen en sevdiğiniz fotoğrafları doğrudan cihazınıza kaydetmenin kolay bir yolunu özlemişsinizdir. Pinterest resim indiricimiz tam da bu amaçla tasarlandı. Hızlı, güvenilir ve kullanımı inanılmaz derecede kolay olan bu araç, yüksek kaliteli Pinterest görsellerini saniyeler içinde indirmenizi sağlar.",
+    "feature_1": {
+      "title": "Süper Hızlı ve Kullanımı Kolay",
+      "text": "Karmaşık adımlar yok. Kayıt yok. Pinterest bağlantısını yapıştırın, indir'e tıklayın ve işte bu kadar. Aracımız, tüm süreci kolaylaştırarak görselleri zahmetsizce kaydetmenizi sağlar."
+    },
+    "feature_2": {
+      "title": "Yüksek kaliteli indirmeler",
+      "text": "Pinterest içeriği sıkıştırır, ama biz sıkıştırmıyoruz. Pinterest Görselini İndirin özelliğimiz, Pinterest görüntülerini netliğini kaybetmeden HD, 4K ve orijinal kalitede kaydeder; böylece tasarım çalışmaları, ruh hali panoları, sunumlar veya kişisel koleksiyonlar için ideal, net ve temiz görüntüler elde edersiniz."
+    },
+    "feature_3": {
+      "title": "Güvenli ve Emniyetli",
+      "text": "Gizliliğiniz bizim önceliğimizdir. Pinterest Görselini İndirin özelliğimiz verilerinizi saklamaz ve kötü amaçlı yazılım veya rahatsız edici reklamlardan arındırılmıştır."
+    }
+  },
+  "how_section": {
+    "title": "Pinterest Görselini İndirin Nasıl ?",
+    "steps": [
+      "İndirmek istediğiniz Pinterest görselinin URL’sini kopyalayın.",
+      "Yukarıdaki giriş kutusuna yapıştırın ve İndir'e tıklayın.",
+      "İstediğiniz kaliteyi seçin ve anında kaydedin."
+    ]
+  },
+  "features": {
+    "title": "Pinterest Görselini İndirin Özellikleri",
+    "items": [
+      {
+        "title": "100% Ücretsiz ve Sınırsız",
+        "text": "Gizli ücretler veya premium planlar yok, sınırlama yok. İstediğiniz kadar Pinterest görselini tamamen ücretsiz indirin. Pinterest hesabı gerekmez. Pinterest Görselini İndirin aracımız ücretsiz, sınırsız ve istediğiniz zaman erişilebilir.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Tüm Cihazlarda Çalışır",
+        "text": "Android, iPhone, Windows veya Mac'te olmanız fark etmeksizin, indirici Chrome, Safari, Edge ve Firefox dahil tüm tarayıcılarda sorunsuz çalışır.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Çoklu Biçim Seçenekleri",
+        "text": "Bazı araçlar, formatlar (örneğin JPG, PNG, WebP) arasından seçim yapmanıza veya hangi çözünürlüğün indirileceğini seçmenize olanak tanır.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Yazılım Kurulumu Gerekmez",
+        "text": "Bu araçlar çoğunlukla web tabanlı olduğundan, herhangi bir cihaz veya tarayıcıda hiçbir şey yüklemeden kullanabilirsiniz.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "GIF'ler / Animasyonlu Pinler için destek",
+        "text": "Bazı indiriciler yalnızca statik resimleri değil aynı zamanda GIF'leri veya animasyonları da indirebilir.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Tek tıkla indirme",
+        "text": "Sadece bağlantıyı yapıştırın ve indirin. Reklam yok, bekleme süresi yok.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular (SSS)",
+    "items": [
+      {
+        "question": "Bu Pinterest Resim İndirici ücretsiz mi?",
+        "answer": "Evet! Aracımız hiçbir gizli ücret olmadan 100% ücretsizdir."
+      },
+      {
+        "question": "Bir uygulama yüklemem gerekiyor mu?",
+        "answer": "Kurulum gerektirmez. Herhangi bir tarayıcıdan çevrimiçi olarak kullanabilirsiniz."
+      },
+      {
+        "question": "Pinterest'ten HD görseller indirebilir miyim?",
+        "answer": "Evet, eğer bir görsel 4K çözünürlükte mevcutsa, aracımız onu otomatik olarak getirir."
+      },
+      {
+        "question": "Fikir Pinlerini indirebilir miyim?",
+        "answer": "Evet, statik Fikir Pinleri normal görseller gibi indirilebilir."
+      },
+      {
+        "question": "Bu indiricileri kullanmak için Pinterest hesabına ihtiyacım var mı?",
+        "answer": "Hayır, PinVideoDown oturum açmadan çalışır. Herkese açık pinler için genellikle oturum açmanıza gerek yoktur. Tek ihtiyacınız olan pinin URL'sidir."
+      },
+      {
+        "question": "Bu indirici mobilde çalışıyor mu?",
+        "answer": "Evet. Android, iPhone ve diğer cihazlarda mükemmel çalışıyor."
+      },
+      {
+        "question": "Pinterest İndirici kullanmak güvenli mi?",
+        "answer": "Kesinlikle. URL'leri, görselleri veya herhangi bir kişisel bilgiyi saklamıyoruz."
+      }
+    ]
+  }
+}

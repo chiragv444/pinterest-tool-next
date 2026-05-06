@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Descărcător de imagini Pinterest - Pinvideodown",
+    "description": "Descarcă imaginea Pinterest în HD și calitate originală. Program gratuit de descărcare a imaginilor Pinterest, fără a fi necesară autentificarea. Rapid, sigur și funcționează pe toate dispozitivele.",
+    "keywords": "Descărcător de imagini Pinterest, Descărcare imagine pinterest, descărcare imagine pinterest, descărcare imagine pinterest, pinvideodown"
+  },
+  "hero": {
+    "title": "Descărcător de imagini Pinterest",
+    "subtitle": "Descarcă imaginea Pinterest, pin-uri și fotografii cu idei Pinterest în HD, calitate originală și complet gratuit. Nu este nevoie de nicio aplicație, doar lipește linkul și apasă pe descărcare."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste image URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Descărcător de imagini Pinterest - Pinvideodown</h2><p>Instrumentul nostru de <a href='/ro/pinterest-image-downloader/' class='internal-link'>Descărcător de imagini Pinterest</a> este un instrument online simplu și fiabil, conceput pentru a vă ajuta să salvați orice imagine Pinterest direct pe dispozitivul dvs. Indiferent dacă aveți nevoie de fotografii de inspirație, imagini estetice, imagini de fundal, designuri sau pin-uri cu idei, instrumentul nostru de descărcare face procesul rapid, ușor și nelimitat.</p><p>Instrumentele de Descărcător de imagini Pinterest sunt utilitare sau software bazate pe web care permit utilizatorilor să salveze imagini (sau GIF-uri) de pe Pinterest pe propriile dispozitive. Deși Pinterest oferă unele opțiuni native limitate pentru salvarea pin-urilor, instrumentele de descărcare facilitează extragerea de fișiere media de înaltă calitate, adesea fără a fi nevoie de a face manual capturi de ecran sau de a parcurge fluxuri de lucru complicate. Aceste instrumente sunt deosebit de utile pentru designeri, bloggeri, cercetători sau oricine dorește să creeze o colecție personală offline de inspirație vizuală.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Ce este Descărcător de imagini Pinterest?</h2><p>Descărcător de imagini Pinterest de la PinVideoDown este un instrument online. Conceput pentru a extrage și salva imagini de pe Pinterest în calitate HD, Full HD și 4K. Indiferent dacă aveți nevoie de panouri de inspirație, fotografii de călătorie, opere de artă, rețete sau imagini de produse, instrumentul nostru de descărcare le salvează rapid și în siguranță.</p>"
+  },
+  "why_section": {
+    "title": "De ce să folosești un Descărcător de imagini Pinterest?",
+    "intro": "Pinterest nu îți permite să descarci imagini direct la rezoluție completă. Instrumentul nostru rezolvă această problemă permițându-ți să descarci orice imagine sau pin Pinterest în HD, dimensiune completă sau calitate originală. Dacă îți place să navighezi pe Pinterest pentru inspirație, fie că este vorba de idei de călătorie, decorațiuni interioare, proiecte DIY, modă sau rețete, probabil că ai tânjit după o modalitate ușoară de a salva fotografiile tale preferate direct pe dispozitiv. Instrumentul nostru de descărcare a imaginilor Pinterest este conceput exact pentru asta. Rapid, fiabil și incredibil de ușor de utilizat, îți permite să descarci imagini Pinterest de înaltă calitate în doar câteva secunde.",
+    "feature_1": {
+      "title": "Super-rapid și ușor de utilizat",
+      "text": "Fără pași complecși. Fără înscrieri. Doar lipește linkul Pinterest, dă clic pe descărcare și ai gata. Instrumentul nostru simplifică întregul proces, astfel încât să poți salva imagini fără probleme."
+    },
+    "feature_2": {
+      "title": "Descărcări de înaltă calitate",
+      "text": "Pinterest comprimă conținutul, dar noi nu. Funcția noastră „Descarcă imaginea Pinterest” salvează imaginile Pinterest în HD, 4K și calitate originală, fără a pierde din claritate, astfel încât să obții imagini clare și curate, ideale pentru lucrări de design, mood board-uri, prezentări sau colecții personale."
+    },
+    "feature_3": {
+      "title": "Sigur și protejat",
+      "text": "Confidențialitatea ta este prioritatea noastră. Imaginea noastră „Descarcă imaginea Pinterest” nu stochează datele tale și nu conține programe malware sau reclame intruzive."
+    }
+  },
+  "how_section": {
+    "title": "Cum se Descarcă imaginea Pinterest?",
+    "steps": [
+      "Copiați adresa URL a imaginii Pinterest pe care doriți să o descărcați.",
+      "Lipiți-l în caseta de introducere a textului de mai sus și faceți clic pe Descărcare.",
+      "Selectați calitatea dorită și salvați-o instantaneu."
+    ]
+  },
+  "features": {
+    "title": "Caracteristici ale Descarcă imaginea Pinterest",
+    "items": [
+      {
+        "title": "100% Gratuit și Nelimitat",
+        "text": "Fără taxe ascunse sau abonamente premium, fără limite. Descarcă oricâte imagini Pinterest dorești, absolut gratuit. Nu este necesar un cont Pinterest. Instrumentul nostru de descărcare a imaginilor Pinterest este gratuit, nelimitat și accesibil oricând.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Funcționează pe toate dispozitivele",
+        "text": "Indiferent dacă folosești Android, iPhone, Windows sau Mac, programul de descărcare funcționează fără probleme pe toate browserele, inclusiv Chrome, Safari, Edge și Firefox.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Opțiuni multiple de format",
+        "text": "Anumite instrumente vă permit să alegeți între formate (de exemplu, JPG, PNG, WebP) sau să selectați rezoluția de descărcare.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Nu este necesară instalarea de software",
+        "text": "Întrucât aceste instrumente sunt adesea bazate pe web, le puteți utiliza pe orice dispozitiv sau browser fără a instala nimic.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Suport pentru GIF-uri / Pin-uri animate",
+        "text": "Unele programe de descărcare sunt capabile să preia nu doar imagini statice, ci și GIF-uri sau animații.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Descărcare cu un singur clic",
+        "text": "Pur și simplu lipește linkul și descarcă. Fără reclame, fără timp de așteptare.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Întrebări frecvente (FAQ)",
+    "items": [
+      {
+        "question": "Este gratuit acest descărcător de imagini Pinterest?",
+        "answer": "Da! Instrumentul nostru este 100% gratuit, fără costuri ascunse."
+      },
+      {
+        "question": "Trebuie să instalez o aplicație?",
+        "answer": "Nu necesită instalare. Folosește-l online din orice browser."
+      },
+      {
+        "question": "Pot descărca imagini HD de pe Pinterest?",
+        "answer": "Da, dacă o imagine este disponibilă în rezoluție 4K, instrumentul nostru o preia automat."
+      },
+      {
+        "question": "Pot descărca Idee Pins?",
+        "answer": "Da, Pinurile statice cu idei pot fi descărcate ca imaginile obișnuite."
+      },
+      {
+        "question": "Am nevoie de un cont Pinterest pentru a folosi aceste programe de descărcare?",
+        "answer": "Nu, PinVideoDown funcționează fără autentificare. Pentru pin-urile publice, adesea nu este nevoie să vă conectați. Tot ce aveți nevoie este adresa URL a pin-ului."
+      },
+      {
+        "question": "Funcționează acest program de descărcare pe mobil?",
+        "answer": "Da. Funcționează perfect pe Android, iPhone și multe altele."
+      },
+      {
+        "question": "Este descărcător Pinterest sigur de utilizat?",
+        "answer": "Absolut. Nu stocăm adrese URL, imagini sau alte informații personale."
+      }
+    ]
+  }
+}

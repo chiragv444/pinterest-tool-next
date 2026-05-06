@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Pinterest videóletöltő – Tölts le Pinterest videókat HD minőségben",
+    "description": "Pinterest videóletöltő, amellyel könnyedén letölthetsz videókat a Pinterestről kiváló minőségben. Biztonságosan működik minden eszközön, beleértve a PC-t, mobiltelefont vagy táblagépet.",
+    "keywords": "Pinterest videóletöltő, Pinterest videók letöltése, Pinterest videó letöltése, Videó letöltése kitűzése, PinVideodown"
+  },
+  "hero": {
+    "title": "Pinterest videóletöltő",
+    "subtitle": "Töltse le a Pinterest videókat HD MP4 formátumban a gyors, ingyenes és biztonságos megoldás érdekében."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste video URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pinterest videóletöltő - Pinvideodown</h2><p>A <a href='/hu/' class='internal-link'>Pinterest videóletöltő</a> egy egyszerű, gyors és megbízható platform. Úgy tervezték, hogy segítsen a felhasználóknak letölteni kedvenc videóikat, ötletpinjeiket és GIF-jeiket közvetlenül a Pinterestről. Egyetlen Pinterest-linkkel konvertálhatsz és letölthetsz médiatartalmakat kiváló HD minőségben további szoftver vagy fiókbejelentkezés nélkül.</p><p>A Pinterest videó letöltésére szolgáló eszközünk mindenféle Pinterest médiatartalmat támogat, és minden eszközön működik, beleértve a mobiltelefonokat, táblagépeket és asztali számítógépeket is. Akár offline megtekintésre mentesz tartalmat, akár személyes projektekhez gyűjtesz inspirációt, akár oktatási célokra használsz fel videókat, ez a letöltő megkönnyíti a folyamatot.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Mi az a Pinterest videóletöltő?</h2><p>A Pinterest videóletöltő egy eszköz, weboldal vagy alkalmazás, amely lehetővé teszi a felhasználók számára, hogy videókat mentsenek a Pinterestről az eszközeikre. Ezek az eszközök jellemzően úgy működnek, hogy kinyerik a videofájlt egy Pinterest-bejegyzés URL-jéből, és letölthetővé teszik. Néhány népszerű módszer közé tartozik az online letöltőoldalak, böngészőbővítmények és mobilalkalmazások használata.</p>"
+  },
+  "why_section": {
+    "title": "Miért érdemes Pinterest videóletöltőt használni?",
+    "intro": "A Pinterest nem kínál közvetlen letöltési lehetőséget videótartalmakhoz, ami megnehezíti a média mentését. Ez az eszköz megoldja ezt a problémát azáltal, hogy felhasználóbarát, biztonságos és hatékony módot kínál kedvenc vizuális inspirációid offline tárolására. Akár tartalomkészítő, tervező, oktató vagy alkalmi Pinterest-felhasználó vagy, segít az ötletek rendszerezésében és elérésében, amikor csak szükséged van rájuk. Letölthető formátumokba, például MP4, MOV vagy GIF formátumba konvertálja a videókat. Csak a pin URL-jére van szükséged – az eszköz automatikusan kezeli a többit.",
+    "feature_1": {
+      "title": "Offline megtekintés",
+      "text": "A videók letöltése nagyon hasznos lehet a korlátozott internet-hozzáféréssel rendelkező területeken élő felhasználók, vagy azok számára, akik adatforgalom nélkül szeretnének videókat nézni."
+    },
+    "feature_2": {
+      "title": "Könnyű megosztás",
+      "text": "Néhány platform vagy üzenetküldő alkalmazás nem támogatja jól a Pinterest linkeket. A videó letöltése megkönnyíti és megbízhatóbbá teszi a megosztást az eszközök vagy alkalmazások között."
+    },
+    "feature_3": {
+      "title": "Kiváló minőségű videokimenet",
+      "text": "Tölts le vagy férj hozzá tartalmakhoz Full HD, 2K vagy 4K felbontásban. Sok más szolgáltatással ellentétben, amelyek alacsonyabb minőségű formátumokra korlátozzák a hozzáférést, mi a lehető legjobb élményt nyújtjuk."
+    }
+  },
+  "how_section": {
+    "title": "Hogyan lehet letölteni Pinterest videót?",
+    "intro": "A weboldalak célja, hogy segítsék a felhasználókat Pinterest-videók letöltésében szoftver telepítése nélkül. Íme az általános lépések:",
+    "steps": [
+      "Nyisd meg a Pinterestet, és másold ki a menteni kívánt videó vagy pin URL-jét.",
+      "Illeszd be a kimásolt Pinterest videó URL-jét a letöltő oldal beviteli mezőjébe. Kattints a Letöltés gombra a link elemzéséhez.",
+      "Válaszd ki a kívánt letöltési formátumot vagy minőséget. Mentsd el a fájlt az eszközödre."
+    ]
+  },
+  "features": {
+    "title": "A Pinterest videó letöltésének jellemzői",
+    "items": [
+      {
+        "title": "Támogatja az összes Pinterest médiatípust",
+        "text": "A Pinterest videóletöltő videókat, GIF-eket, történetpineket és akár ötletpineket is menthet a pinvideodown segítségével.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Teljesen ingyenesen használható",
+        "text": "Platformunk teljesen ingyenes. Mindent egyszerűen és átláthatóan használunk, nincsenek rejtett használati költségek, nincsenek prémium csomagok. Előfordulhat, hogy minimális hirdetéseket jelenítünk meg a költségek fedezésére, de soha nem fogunk fizetni érte.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Gyors letöltési sebesség",
+        "text": "Egy minőségi eszköznek gyorsan kell feldolgoznia az URL-eket, és másodpercek alatt, hosszú várakozási idő nélkül kell mentenie a videókat.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Nincs szükség szoftverre vagy regisztrációra",
+        "text": "Nem kell semmilyen szoftvert, bővítményt vagy bővítményt telepítened. A Pinterest videó letöltése eszköz teljesen a böngésződben működik.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Platformfüggetlen támogatás",
+        "text": "Akár Chrome-ot, Safarit, Firefoxot vagy Edge-et használsz, a PinVideoDown tökéletesen működik minden böngészőben és eszközön, például asztali számítógépen, táblagépen és mobilon.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Gyors és biztonságos feldolgozás",
+        "text": "Ez az eszköz azonnal feldolgozza a linkeket, és nem tárolja a letöltött fájlokat. Az Ön adatainak védelme és böngészési biztonsága teljes mértékben biztosított.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Gyakran Ismételt Kérdések (GYIK)",
+    "items": [
+      {
+        "question": "Ingyenesen letölthetek Pinterest videókat?",
+        "answer": "Igen! A PinVideoDown teljesen ingyenes, nincsenek rejtett költségek vagy letöltési korlátozások."
+      },
+      {
+        "question": "Biztonságos a PinVideoDown használata?",
+        "answer": "Teljesen. Biztonságos HTTPS-kapcsolatokat használunk, és soha nem tárolunk felhasználói adatokat vagy videókat."
+      },
+      {
+        "question": "Mobil eszközökön működik?",
+        "answer": "Igen, hibátlanul működik minden okostelefonon, táblagépen és asztali böngészőn."
+      },
+      {
+        "question": "Letölthetek Pinterest ötletpineket és történetpineket?",
+        "answer": "Igen, a Pinterest videóletöltő támogatja az összes Pinterest médiaformátumot, beleértve a videókat, ötletpineket és történetpineket."
+      },
+      {
+        "question": "Telepítenem kell egy alkalmazást?",
+        "answer": "Nincs szükség telepítésre. A PinVideoDown egy webalapú Pinterest letöltő, amely bármikor elérhető a böngésződből."
+      }
+    ]
+  }
+}

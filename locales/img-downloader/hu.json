@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Pinterest képletöltő | Tölts le Pinterest képeket HD és 4K minőségben",
+    "description": "Tölts le Pinterest képek letöltése HD és eredeti minőségben azonnal. Ingyenes Pinterest képletöltő bejelentkezés nélkül. Gyors, biztonságos és minden eszközön működik.",
+    "keywords": "Pinterest képletöltő, Pinterest kép letöltése, Pinterest kép letöltése, Kép letöltése kitűzése, PinVideodown"
+  },
+  "hero": {
+    "title": "Pinterest képletöltő",
+    "subtitle": "Pinterest képek letöltése, pineket és ötletfotókat HD minőségben, eredeti minőségben és teljesen ingyen. Nincs szükség alkalmazásra, csak illeszd be a linket és kattints a letöltés gombra."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste image URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pinterest képletöltő - Pinvideodown</h2><p><a href='/hu/pinterest-image-downloader/' class='internal-link'>Pinterest képletöltő</a> nk egy egyszerű és megbízható online eszköz, amely segít bármilyen Pinterest képet közvetlenül az eszközödre menteni. Akár inspirációs fotókra, esztétikus képekre, háttérképekre, dizájnokra vagy ötletpinekre van szükséged, letöltőnkkel gyors, egyszerű és korlátlan folyamatot biztosítunk.</p><p>A Pinterest képletöltő eszközei webalapú segédprogramok vagy szoftverek, amelyek lehetővé teszik a felhasználók számára, hogy képeket (vagy GIF-eket) mentsenek a Pinterestről saját eszközeikre. Bár a Pinterest korlátozott natív lehetőségeket kínál a pinek mentésére, a letöltőeszközök megkönnyítik a kiváló minőségű média kinyerését, gyakran anélkül, hogy manuálisan képernyőképeket kellene készíteni, vagy bonyolult munkafolyamatokon kellene keresztülmenni. Ezek az eszközök különösen hasznosak a tervezők, bloggerek, kutatók vagy bárki számára, aki személyes offline vizuális inspirációs gyűjteményt szeretne létrehozni.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Mi az a Pinterest képletöltő?</h2><p>A PinVideoDown Pinterest képletöltő egy online eszköz. Úgy tervezték, hogy képeket kinyerjen a Pinterestről HD, Full HD és 4K minőségben. Akár inspirációs táblákra, utazási fotókra, grafikákra, receptekre vagy termékfotókra van szüksége, letöltőnk gyorsan és biztonságosan menti el őket.</p>"
+  },
+  "why_section": {
+    "title": "Miért érdemes Pinterest képletöltőt használni?",
+    "intro": "A Pinterest nem teszi lehetővé a képek közvetlen, teljes felbontású letöltését. Eszközünk megoldja ezt a problémát azzal, hogy lehetővé teszi bármilyen Pinterest-kép vagy -pin letöltését HD, teljes méretben vagy eredeti minőségben. Ha szeretsz inspirációért böngészni a Pinteresten, legyen szó utazási ötletekről, lakberendezésről, barkácsolásról, divatról vagy receptekről, valószínűleg régóta vágytál egy egyszerű módra, amellyel kedvenc fotóidat közvetlenül az eszközödre mentheted. Pinterest képletöltőnk pontosan erre készült. Gyors, megbízható és hihetetlenül könnyen használható, lehetővé téve, hogy másodpercek alatt letöltsd a kiváló minőségű Pinterest-képeket.",
+    "feature_1": {
+      "title": "Szupergyors és könnyen használható",
+      "text": "Nincsenek bonyolult lépések. Nincs regisztráció. Csak illeszd be a Pinterest linket, kattints a letöltésre, és kész is vagy. Eszközünk leegyszerűsíti az egész folyamatot, így gond nélkül mentheted a képeket."
+    },
+    "feature_2": {
+      "title": "Kiváló minőségű letöltések",
+      "text": "A Pinterest tömöríti a tartalmat, de mi nem. A Pinterest kép letöltése funkciónk HD, 4K és eredeti minőségben menti el a Pinterest képeket az élesség elvesztése nélkül, így éles, tiszta képeket kapsz, amelyek ideálisak tervezési munkákhoz, hangulattáblákhoz, prezentációkhoz vagy személyes gyűjteményekhez."
+    },
+    "feature_3": {
+      "title": "Biztonságos és védett",
+      "text": "Az Ön adatainak védelme a legfontosabb számunkra. A Pinterest képek letöltése szolgáltatásunk nem tárolja az adatait, és mentes a rosszindulatú programoktól vagy a tolakodó hirdetésektől."
+    }
+  },
+  "how_section": {
+    "title": "Hogyan lehet Pinterest képek letöltése?",
+    "steps": [
+      "Másold ki a letölteni kívánt Pinterest kép URL-címét.",
+      "Illeszd be a fenti beviteli mezőbe, és kattints a Letöltés gombra.",
+      "Válaszd ki a kívánt minőséget, és mentsd el azonnal."
+    ]
+  },
+  "features": {
+    "title": "A Pinterest képek letöltése funkciói",
+    "items": [
+      {
+        "title": "100%-ban ingyenes és korlátlan",
+        "text": "Nincsenek rejtett költségek vagy prémium csomagok, nincsenek korlátok. Tölts le annyi Pinterest képet, amennyit csak szeretnél, teljesen ingyen. Nincs szükség Pinterest fiókra. A Pinterest képek letöltése eszközünk ingyenesen használható, korlátlanul használható és bármikor elérhető.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Minden eszközön működik",
+        "text": "Akár Androidot, iPhone-t, Windowst vagy Macet használsz, a letöltő zökkenőmentesen működik minden böngészőben, beleértve a Chrome-ot, a Safarit, az Edge-et és a Firefoxot is.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Több formátumbeállítás",
+        "text": "Bizonyos eszközök lehetővé teszik a formátumok (pl. JPG, PNG, WebP) közötti választást, vagy a letöltéshez szükséges felbontás kiválasztását.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Nincs szükség szoftvertelepítésre",
+        "text": "Mivel ezek az eszközök gyakran web alapúak, bármilyen eszközön vagy böngészőben használhatók telepítés nélkül.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "GIF-ek / animált pinek támogatása",
+        "text": "Néhány letöltőprogram nemcsak statikus képeket, hanem GIF-eket vagy animációkat is képes letölteni.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Egy kattintásos letöltés",
+        "text": "Csak másold be a linket és töltsd le. Nincsenek hirdetések, nincs várakozási idő.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Gyakran Ismételt Kérdések (GYIK)",
+    "items": [
+      {
+        "question": "Ingyenes ez a Pinterest képletöltő?",
+        "answer": "Igen! Az eszközünk 100%-ban ingyenes, rejtett költségek nélkül."
+      },
+      {
+        "question": "Telepítenem kell egy alkalmazást?",
+        "answer": "Nincs szükség telepítésre. Használható online bármilyen böngészőből."
+      },
+      {
+        "question": "Letölthetek HD képeket a Pinterestről?",
+        "answer": "Igen, ha egy kép 4K felbontásban elérhető, az eszközünk automatikusan letölti azt."
+      },
+      {
+        "question": "Letölthetek ötletpineket?",
+        "answer": "Igen, a statikus ötletpinek letölthetők a szokásos képekhez hasonlóan."
+      },
+      {
+        "question": "Szükségem van Pinterest fiókra a letöltők használatához?",
+        "answer": "Nem, a PinVideoDown bejelentkezés nélkül működik. Nyilvános pinek esetén gyakran nem kell bejelentkezni. Csak a pinek URL-címére van szükség."
+      },
+      {
+        "question": "Ez a letöltőprogram működik mobilon?",
+        "answer": "Igen. Tökéletesen működik Androidon, iPhone-on és más eszközökön."
+      },
+      {
+        "question": "Biztonságos a Pinterest letöltő használata?",
+        "answer": "Teljes mértékben. Nem tárolunk URL-eket, képeket vagy bármilyen személyes információt."
+      }
+    ]
+  }
+}

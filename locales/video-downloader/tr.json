@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Pinterest Video İndirici – Pinterest Videolarını HD olarak indirin",
+    "description": "Pinterest Video İndirici, Pinterest'ten videoları yüksek kalitede kolayca indirmenizi sağlar. PC, mobil veya tablet dahil tüm cihazlarda güvenle çalışır.",
+    "keywords": "Pinterest Video İndirici, Pinterest videoları indir, Pinterest video indirme, Pin videosu indirme, pinvideodown"
+  },
+  "hero": {
+    "title": "Pinterest Video İndirici",
+    "subtitle": "Pinterest videolarını hızlı, ücretsiz ve güvenli olarak HD MP4 formatında indirin."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste video URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pinterest Video İndirici - Pinvideodown</h2><p><a href='/tr/' class='internal-link'>Pinterest Video İndirici</a>, kullanıcıların favori videolarını, fikir pinlerini ve GIF'lerini doğrudan Pinterest'ten indirmelerine yardımcı olmak için tasarlanmış basit, hızlı ve güvenilir bir platformdur. Tek bir Pinterest bağlantısıyla, ek bir yazılıma veya hesap oturumu açmaya gerek kalmadan medyayı yüksek kaliteli HD olarak dönüştürüp indirebilirsiniz.</p><p>Pinterest videosunu indirin aracımız, her türlü Pinterest medyasını destekler ve cep telefonları, tabletler ve masaüstü bilgisayarlar dahil tüm cihazlarda çalışır. İster içeriği çevrimdışı görüntülemek üzere kaydedin, ister kişisel projeleriniz için ilham alın, ister videoları eğitim amaçlı yeniden kullanın, bu indirici işlemi kolaylaştırır.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Pinterest Video İndirici Nedir?</h2><p>Pinterest Video İndirici, kullanıcıların Pinterest'teki videoları cihazlarına kaydetmelerine olanak tanıyan bir araç, web sitesi veya uygulamadır. Bu araçlar genellikle video dosyasını bir Pinterest gönderisinin URL'sinden çıkarıp indirmeye hazır hale getirerek çalışır. Popüler yöntemler arasında çevrimiçi indirme siteleri, tarayıcı eklentileri ve mobil uygulamalar bulunur.</p>"
+  },
+  "why_section": {
+    "title": "Neden Pinterest Video İndirici Kullanmalısınız?",
+    "intro": "Pinterest, video içerikleri için doğrudan indirme seçeneği sunmadığından, medya dosyalarını kaydetmek zorlaşıyor. Bu araç, en sevdiğiniz görsel ilhamı çevrimdışı olarak saklamanın kullanıcı dostu, güvenli ve verimli bir yolunu sunarak bu sorunu çözüyor. İster içerik üreticisi, ister tasarımcı, ister eğitimci, ister sıradan bir Pinterest kullanıcısı olun, fikirlerinizi ihtiyaç duyduğunuzda düzenlemenize ve erişmenize yardımcı oluyor. MP4, MOV veya GIF gibi indirilebilir formatlara dönüştürüyor. Tek ihtiyacınız olan Pin'in URL'si; gerisini bu araç otomatik olarak hallediyor.",
+    "feature_1": {
+      "title": "Çevrimdışı görüntüleme",
+      "text": "Videoları indirmek, internet erişiminin kısıtlı olduğu bölgelerdeki kullanıcılar veya veri kullanmadan video izlemek isteyenler için oldukça faydalı olabilir."
+    },
+    "feature_2": {
+      "title": "Kolay paylaşım",
+      "text": "Bazı platformlar veya mesajlaşma uygulamaları Pinterest bağlantılarını iyi desteklemez. Videoyu indirmek, cihazlar veya uygulamalar arasında paylaşımı daha kolay ve güvenilir hale getirir."
+    },
+    "feature_3": {
+      "title": "Yüksek Kaliteli Video Çıkışı",
+      "text": "Full HD, 2K veya 4K çözünürlükte içerik indirin veya erişin. Sizi düşük kaliteli formatlarla sınırlayan diğer birçok hizmetin aksine, size mümkün olan en iyi deneyimi sunuyoruz."
+    }
+  },
+  "how_section": {
+    "title": "Pinterest Videosu Nasıl İndirilir?",
+    "intro": "Web siteleri, kullanıcıların herhangi bir yazılım yüklemeden Pinterest videolarını indirmelerine yardımcı olmak için tasarlanmıştır. Genel adımlar şunlardır:",
+    "steps": [
+      "Pinterest'i açın ve kaydetmek istediğiniz videonun veya pinin URL'sini kopyalayın.",
+      "Kopyaladığınız Pinterest video URL'sini indirme sitesindeki giriş kutusuna yapıştırın. Bağlantıyı analiz etmek için İndir düğmesine tıklayın.",
+      "Tercih ettiğiniz indirme formatını veya kalitesini seçin. Dosyayı cihazınıza kaydedin."
+    ]
+  },
+  "features": {
+    "title": "Pinterest videosunu indirin özellikleri",
+    "items": [
+      {
+        "title": "Tüm Pinterest medya türlerini destekler",
+        "text": "Pinterest Video İndirici, pinvideodown ile videoları, GIF'leri, hikaye pinlerini ve hatta fikir pinlerini kaydedebilir.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Kullanımı Tamamen Ücretsiz",
+        "text": "Platformumuz tamamen ücretsizdir. Her şeyi basit ve şeffaf tutuyoruz; kullanım için gizli ücretler veya premium seviyeler yok. Maliyetleri karşılamak için minimum düzeyde reklam gösterebiliriz, ancak sizden asla ödeme yapmanız istenmez.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Hızlı İndirme Hızları",
+        "text": "Kaliteli bir araç, URL'leri hızlı bir şekilde işlemeli ve videoları uzun beklemelere yol açmadan saniyeler içinde kaydetmelidir.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Yazılım veya Kayıt Gerekmez",
+        "text": "Herhangi bir yazılım, uzantı veya eklenti yüklemenize gerek yok. Pinterest videosunu indirin aracı tamamen tarayıcınızda çalışır.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Platformlar Arası Destek",
+        "text": "Chrome, Safari, Firefox veya Edge kullanıyor olun, PinVideoDown masaüstü, tablet ve mobil gibi tüm tarayıcılarda ve cihazlarda mükemmel şekilde çalışır.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Hızlı ve Güvenli İşlem",
+        "text": "Bu araç, bağlantıları anında işler ve indirdiğiniz dosyaları saklamaz. Gizliliğiniz ve gezinme güvenliğiniz tamamen korunur.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular (SSS)",
+    "items": [
+      {
+        "question": "Pinterest videolarını ücretsiz indirebilir miyim?",
+        "answer": "Evet! PinVideoDown tamamen ücretsizdir, gizli ücretler veya indirme sınırlamaları yoktur."
+      },
+      {
+        "question": "PinVideoDown'ı kullanmak güvenli mi?",
+        "answer": "Kesinlikle. Güvenli HTTPS bağlantıları kullanıyoruz ve hiçbir kullanıcı verisini veya videosunu saklamıyoruz."
+      },
+      {
+        "question": "Mobil cihazlarda çalışıyor mu?",
+        "answer": "Evet, tüm akıllı telefonlarda, tabletlerde ve masaüstü tarayıcılarında kusursuz çalışır."
+      },
+      {
+        "question": "Pinterest fikir pinlerini ve hikaye pinlerini indirebilir miyim?",
+        "answer": "Evet, Pinterest Video İndirici videolar, fikir pinleri ve hikaye pinleri dahil olmak üzere tüm Pinterest medya formatlarını destekler."
+      },
+      {
+        "question": "Bir uygulama yüklemem gerekiyor mu?",
+        "answer": "Kurulum gerektirmez. PinVideoDown, tarayıcınızdan istediğiniz zaman erişebileceğiniz web tabanlı bir Pinterest indiricisidir."
+      }
+    ]
+  }
+}

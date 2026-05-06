@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Pobieranie obrazów z Pinteresta - Pinvideodown",
+    "description": "Pobierz obrazy z Pinteresta w jakości HD i oryginalnej natychmiast. Darmowy program do pobierania obrazów z Pinteresta bez logowania. Szybki, bezpieczny i działający na wszystkich urządzeniach.",
+    "keywords": "Pobieranie zdjęć z Pinteresta, Pobierz zdjęcie z Pinteresta, pobieranie obrazów z Pinteresta, pobieranie pinów, pobieranie wideo z pinów"
+  },
+  "hero": {
+    "title": "Pobieranie obrazów z Pinteresta",
+    "subtitle": "Pobierz obrazy, piny i zdjęcia Pobierz obrazy z Pinteresta w jakości HD, w oryginalnej jakości, całkowicie za darmo. Nie potrzebujesz żadnej aplikacji, wystarczy wkleić link i kliknąć „Pobierz”."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste image URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pobieranie obrazów z Pinteresta - Pinvideodown</h2><p>Nasz program do <a href='/pl/pinterest-image-downloader/' class='internal-link'>pobieranie obrazów z Pinteresta</a> to proste i niezawodne narzędzie online, które pomoże Ci zapisać dowolny obraz z Pinteresta bezpośrednio na Twoim urządzeniu. Niezależnie od tego, czy potrzebujesz inspirujących zdjęć, estetycznych obrazów, tapet, projektów, czy pinów z pomysłami, nasz program do pobierania sprawia, że proces jest szybki, łatwy i nieograniczony.</p><p>Narzędzia do pobieranie obrazów z Pinteresta to internetowe narzędzia lub oprogramowanie, które umożliwiają użytkownikom zapisywanie obrazów (lub plików GIF) z Pinteresta na ich urządzeniach. Chociaż Pinterest oferuje ograniczone, natywne opcje zapisywania pinów, narzędzia do pobierania ułatwiają wyodrębnianie wysokiej jakości multimediów, często bez konieczności ręcznego wykonywania zrzutów ekranu lub przechodzenia przez skomplikowane procesy. Narzędzia te są szczególnie przydatne dla projektantów, blogerów, badaczy i każdego, kto chce stworzyć osobistą kolekcję inspiracji wizualnych w trybie offline.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Czym jest pobieranie obrazów z Pinteresta?</h2><p>Pobieranie obrazów z Pinteresta firmy PinVideoDown to narzędzie online. Zaprojektowane do pobierania i zapisywania obrazów z Pinteresta w jakości HD, Full HD i 4K. Niezależnie od tego, czy potrzebujesz tablic inspiracji, zdjęć z podróży, dzieł sztuki, przepisów kulinarnych, czy zdjęć produktów, nasz program do pobierania zapisze je szybko i bezpiecznie.</p>"
+  },
+  "why_section": {
+    "title": "Dlaczego warto korzystać z narzędzia do Pobieranie obrazów z Pinteresta?",
+    "intro": "Pinterest nie pozwala na bezpośrednie pobieranie obrazów w pełnej rozdzielczości. Nasze narzędzie rozwiązuje ten problem, umożliwiając pobranie dowolnego obrazu lub pina z Pinteresta w jakości HD, pełnowymiarowej lub oryginalnej. Jeśli uwielbiasz przeglądać Pinteresta w poszukiwaniu inspiracji, niezależnie od tego, czy szukasz pomysłów na podróże, wystroju wnętrz, projektów DIY, mody, czy przepisów kulinarnych, prawdopodobnie marzyłeś o łatwym sposobie zapisywania ulubionych zdjęć bezpośrednio na swoim urządzeniu. Nasz program do pobierania obrazów z Pinteresta został stworzony właśnie w tym celu. Szybki, niezawodny i niezwykle łatwy w obsłudze, pozwala pobrać wysokiej jakości obrazy z Pinteresta w zaledwie kilka sekund.",
+    "feature_1": {
+      "title": "Superszybki i łatwy w użyciu",
+      "text": "Żadnych skomplikowanych kroków. Żadnych rejestracji. Wystarczy wkleić link do Pinteresta, kliknąć „Pobierz” i gotowe. Nasze narzędzie usprawnia cały proces, dzięki czemu możesz zapisywać obrazy bezproblemowo."
+    },
+    "feature_2": {
+      "title": "Wysokiej jakości pliki do pobrania",
+      "text": "Pinterest kompresuje treści, ale my tego nie robimy. Nasza funkcja pobierz obrazy z Pinteresta zapisuje obrazy z Pinteresta w jakości HD, 4K i oryginalnej, bez utraty ostrości, dzięki czemu otrzymujesz ostre i czyste obrazy, idealne do projektów, tablic inspiracji, prezentacji lub osobistych kolekcji."
+    },
+    "feature_3": {
+      "title": "Bezpieczny i pewny",
+      "text": "Twoja prywatność jest dla nas priorytetem. Nasz plik „Pobierz obrazy z Pinteresta” nie przechowuje Twoich danych, jest wolny od złośliwego oprogramowania i natrętnych reklam."
+    }
+  },
+  "how_section": {
+    "title": "Jak Pobierz obrazy z Pinteresta?",
+    "steps": [
+      "Skopiuj adres URL obrazu z serwisu Pinterest, który chcesz pobrać.",
+      "Wklej go w polu tekstowym powyżej i kliknij Pobierz.",
+      "Wybierz żądaną jakość i natychmiast ją zapisz."
+    ]
+  },
+  "features": {
+    "title": "Funkcje Pobierz obrazy z Pinteresta",
+    "items": [
+      {
+        "title": "100% za darmo i bez ograniczeń",
+        "text": "Bez ukrytych opłat i planów premium, bez limitów. Pobierz dowolną liczbę obrazów z Pinteresta całkowicie za darmo. Nie jest wymagane konto na Pintereście. Nasze narzędzie do pobierz obrazy z Pinteresta jest bezpłatne, nieograniczone i dostępne w dowolnym momencie.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Działa na wszystkich urządzeniach",
+        "text": "Niezależnie od tego, czy używasz systemu Android, iPhone'a, Windowsa czy komputera Mac, program do pobierania działa płynnie we wszystkich przeglądarkach, w tym Chrome, Safari, Edge i Firefox.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Wiele opcji formatowania",
+        "text": "Niektóre narzędzia umożliwiają wybór formatu (np. JPG, PNG, WebP) lub wybranie rozdzielczości, w jakiej chcesz pobrać plik.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Instalacja oprogramowania nie jest wymagana",
+        "text": "Ponieważ narzędzia te są często oparte na sieci, możesz z nich korzystać na dowolnym urządzeniu i w dowolnej przeglądarce, bez konieczności instalowania jakichkolwiek programów.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Obsługa plików GIF/animowanych pinów",
+        "text": "Niektóre programy do pobierania potrafią pobierać nie tylko statyczne obrazy, ale także pliki GIF i animacje.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Pobieranie jednym kliknięciem",
+        "text": "Wystarczy wkleić link i pobrać. Bez reklam i czekania.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Często zadawane pytania (FAQ)",
+    "items": [
+      {
+        "question": "Czy program do pobieranie obrazów z Pinteresta jest darmowy?",
+        "answer": "Tak! Nasze narzędzie jest w 100% darmowe i nie zawiera żadnych ukrytych opłat."
+      },
+      {
+        "question": "Czy muszę zainstalować aplikację?",
+        "answer": "Nie wymaga instalacji. Korzystaj online z dowolnej przeglądarki."
+      },
+      {
+        "question": "Czy mogę pobrać obrazy HD z serwisu Pinterest?",
+        "answer": "Tak, jeśli obraz jest dostępny w rozdzielczości 4K, nasze narzędzie automatycznie go pobierze."
+      },
+      {
+        "question": "Czy mogę pobrać Idea Pins?",
+        "answer": "Tak, statyczne Idea Pins można pobrać tak jak zwykłe obrazy."
+      },
+      {
+        "question": "Czy muszę mieć konto w serwisie Pinterest, aby korzystać z tych programów do pobierania?",
+        "answer": "Nie, PinVideoDown działa bez logowania. W przypadku publicznych pinów często nie trzeba się logować. Wystarczy znać adres URL pina."
+      },
+      {
+        "question": "Czy ten program do pobierania działa na urządzeniach mobilnych?",
+        "answer": "Tak. Działa doskonale na urządzeniach z Androidem, iPhone'ach i innych."
+      },
+      {
+        "question": "Czy korzystanie z Pobieranie z Pinteresta jest bezpieczne?",
+        "answer": "Oczywiście. Nie przechowujemy adresów URL, obrazów ani żadnych danych osobowych."
+      }
+    ]
+  }
+}

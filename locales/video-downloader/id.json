@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Pengunduh Video Pinterest – Unduh Video Pinterest dalam HD",
+    "description": "Pengunduh Video Pinterest untuk mengunduh video dari Pinterest berkualitas tinggi dengan mudah. Berfungsi dengan aman di semua perangkat, termasuk PC, ponsel, atau tablet.",
+    "keywords": "Pengunduh Video Pinterest, Unduh video Pinterest, unduh video Pinterest, unduh video Pin, pinvideodown"
+  },
+  "hero": {
+    "title": "Pengunduh Video Pinterest",
+    "subtitle": "Unduh video Pinterest dalam format HD MP4 dengan cepat, gratis, dan aman."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste video URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pengunduh Video Pinterest - Pinvideodown</h2><p><a href='/id/' class='internal-link'>Pengunduh Video Pinterest</a> adalah platform yang sederhana, cepat, dan andal. Dirancang untuk membantu pengguna mengunduh video, pin ide, dan GIF favorit mereka langsung dari Pinterest. Hanya dengan tautan Pinterest, Anda dapat mengonversi dan mengunduh media dalam HD berkualitas tinggi tanpa perlu perangkat lunak tambahan atau login akun.</p><p>Alat unduh video Pinterest kami mendukung semua jenis media Pinterest dan berfungsi di semua perangkat, termasuk ponsel, tablet, dan komputer desktop. Baik Anda menyimpan konten untuk ditonton offline, mengumpulkan inspirasi untuk proyek pribadi, atau menggunakan kembali video untuk keperluan pendidikan, pengunduh ini memudahkan prosesnya.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Apa itu Pengunduh Video Pinterest?</h2><p>Pengunduh Video Pinterest adalah alat, situs web, atau aplikasi yang memungkinkan pengguna menyimpan video dari Pinterest ke perangkat mereka. Alat ini biasanya bekerja dengan mengekstrak berkas video dari URL postingan Pinterest dan membuatnya tersedia untuk diunduh. Beberapa metode populer antara lain menggunakan situs unduh daring, ekstensi peramban, dan aplikasi seluler.</p>"
+  },
+  "why_section": {
+    "title": "Mengapa Menggunakan Pengunduh Video Pinterest?",
+    "intro": "Pinterest tidak menyediakan opsi unduh langsung untuk konten video, sehingga menyulitkan penyimpanan media. Alat ini mengatasi masalah tersebut dengan menawarkan cara yang mudah digunakan, aman, dan efisien untuk menyimpan inspirasi visual favorit Anda secara offline. Baik Anda seorang kreator konten, desainer, pendidik, atau pengguna Pinterest biasa, alat ini membantu Anda mengelola dan mengakses ide kapan pun dibutuhkan. Alat ini dapat dikonversi ke format yang dapat diunduh seperti MP4, MOV, atau GIF. Anda hanya perlu URL Pin – alat ini akan menangani sisanya secara otomatis.",
+    "feature_1": {
+      "title": "Penayangan offline",
+      "text": "Mengunduh video dapat sangat berguna bagi pengguna di area dengan akses internet terbatas atau bagi mereka yang ingin menonton video tanpa menggunakan data."
+    },
+    "feature_2": {
+      "title": "Berbagi dengan mudah",
+      "text": "Beberapa platform atau aplikasi perpesanan tidak mendukung tautan Pinterest dengan baik. Mengunduh video membuat berbagi antar perangkat atau aplikasi menjadi lebih mudah dan andal."
+    },
+    "feature_3": {
+      "title": "Output Video Berkualitas Tinggi",
+      "text": "Unduh atau akses konten dalam resolusi Full HD, 2K, atau 4K. Tidak seperti banyak layanan lain yang membatasi Anda pada format kualitas rendah, kami memberikan Anda pengalaman terbaik."
+    }
+  },
+  "how_section": {
+    "title": "Bagaimana cara mengunduh video Pinterest?",
+    "intro": "Situs web dirancang untuk membantu pengguna mengunduh video Pinterest tanpa menginstal perangkat lunak apa pun. Berikut langkah-langkah umumnya:",
+    "steps": [
+      "Buka Pinterest dan salin URL video atau pin yang ingin Anda simpan.",
+      "Tempel URL video Pinterest yang telah disalin ke kotak input di situs unduhan. Klik tombol Unduh untuk menganalisis tautan.",
+      "Pilih format atau kualitas unduhan yang Anda inginkan. Simpan berkas ke perangkat Anda."
+    ]
+  },
+  "features": {
+    "title": "Fitur Unduh Video Pinterest",
+    "items": [
+      {
+        "title": "Mendukung semua jenis media Pinterest",
+        "text": "Pengunduh Video Pinterest dapat menyimpan video, GIF, pin cerita, dan bahkan pin ide dengan pinvideodown.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Benar-benar Gratis untuk Digunakan",
+        "text": "Platform kami sepenuhnya gratis. Kami menjaga semuanya tetap sederhana dan transparan, tanpa biaya tersembunyi, dan tanpa tingkatan premium. Kami mungkin menampilkan iklan minimal untuk menutupi biaya, tetapi Anda tidak akan pernah diminta membayar.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Kecepatan Unduh Cepat",
+        "text": "Alat yang berkualitas harus memproses URL dengan cepat dan menyimpan video dalam hitungan detik tanpa menunggu lama.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Tidak Perlu Perangkat Lunak atau Pendaftaran",
+        "text": "Anda tidak perlu memasang perangkat lunak, ekstensi, atau plugin apa pun. Alat Unduh video Pinterest berfungsi sepenuhnya di peramban Anda.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Dukungan Lintas Platform",
+        "text": "Baik Anda menggunakan Chrome, Safari, Firefox, atau Edge, PinVideoDown berfungsi sempurna di semua browser dan perangkat seperti desktop, tablet, dan seluler.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Pemrosesan Cepat & Aman",
+        "text": "Alat ini memproses tautan secara instan dan tidak menyimpan berkas unduhan Anda. Privasi dan keamanan penelusuran Anda sepenuhnya terlindungi.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "items": [
+      {
+        "question": "Bisakah saya mengunduh video Pinterest secara gratis?",
+        "answer": "Ya! PinVideoDown sepenuhnya gratis tanpa biaya tersembunyi atau batasan unduhan."
+      },
+      {
+        "question": "Apakah aman menggunakan PinVideoDown?",
+        "answer": "Tentu saja. Kami menggunakan koneksi HTTPS yang aman dan tidak pernah menyimpan data atau video pengguna apa pun."
+      },
+      {
+        "question": "Apakah ini berfungsi pada perangkat seluler?",
+        "answer": "Ya, berfungsi sempurna di semua telepon pintar, tablet, dan peramban desktop."
+      },
+      {
+        "question": "Bisakah saya mengunduh pin ide dan pin cerita Pinterest?",
+        "answer": "Ya, Pengunduh Video Pinterest mendukung semua format media Pinterest, termasuk video, pin ide, dan pin cerita."
+      },
+      {
+        "question": "Apakah saya perlu memasang aplikasi?",
+        "answer": "Tidak perlu instalasi. PinVideoDown adalah pengunduh Pinterest berbasis web yang dapat diakses kapan saja dari peramban Anda."
+      }
+    ]
+  }
+}

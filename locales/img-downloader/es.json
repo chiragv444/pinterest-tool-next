@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Descargador de imágenes de Pinterest - Pinvideodown",
+    "description": "Descargar imágenes de Pinterest en HD y calidad original al instante. Descargador de imágenes de Pinterest gratuito, sin necesidad de registrarse. Rápido, seguro y compatible con todos los dispositivos.",
+    "keywords": "Descargador de imágenes de Pinterest, Descargar imágenes de Pinterest, descarga de imágenes de Pinterest, descarga de imágenes de pines, descarga de videos de pines"
+  },
+  "hero": {
+    "title": "Descargador de imágenes de Pinterest",
+    "subtitle": "Descargar imágenes de Pinterest, pines y fotos de ideas de Pinterest en HD, calidad original y totalmente gratis. No necesitas ninguna aplicación, solo pega el enlace y pulsa descargar."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste image URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Descargador de imágenes de Pinterest - Pinvideodown</h2><p>Nuestro <a href='/es/pinterest-image-downloader/' class='internal-link'>descargador de imágenes de Pinterest</a> es una herramienta online sencilla y fiable diseñada para ayudarte a guardar cualquier imagen de Pinterest directamente en tu dispositivo. Tanto si necesitas fotos de inspiración, imágenes estéticas, fondos de pantalla, diseños o pines con ideas, nuestro descargador hace que el proceso sea rápido, fácil e ilimitado.</p><p>Las herramientas para Descargador de imágenes de Pinterest son utilidades web o programas que permiten guardar imágenes (o GIF) de Pinterest en dispositivos personales. Si bien Pinterest ofrece algunas opciones nativas limitadas para guardar pines, estas herramientas facilitan la extracción de contenido multimedia de alta calidad, a menudo sin necesidad de capturar pantallas manualmente ni seguir procesos complicados. Son especialmente útiles para diseñadores, blogueros, investigadores o cualquier persona que desee crear una colección personal de inspiración visual sin conexión a internet.</p>"
+  },
+  "what_section": {
+    "text": "<h2>¿Qué es Descargador de imágenes de Pinterest?</h2><p>El descargador de imágenes de Pinterest de PinVideoDown es una herramienta en línea diseñada para extraer y guardar imágenes de Pinterest en calidad HD, Full HD y 4K. Ya sea que necesites tableros de inspiración, fotos de viajes, obras de arte, recetas o imágenes de productos, nuestro descargador las guarda de forma rápida y segura.</p>"
+  },
+  "why_section": {
+    "title": "¿Por qué usar un descargador de imágenes de Pinterest?",
+    "intro": "Pinterest no permite descargar imágenes directamente en resolución completa. Nuestra herramienta soluciona este problema permitiéndote descargar cualquier imagen o pin de Pinterest en HD, tamaño completo o calidad original. Si te encanta buscar inspiración en Pinterest, ya sea para ideas de viajes, decoración del hogar, proyectos DIY, moda o recetas, seguramente has deseado una forma sencilla de guardar tus fotos favoritas directamente en tu dispositivo. Nuestro descargador de imágenes de Pinterest está diseñado precisamente para eso. Rápido, fiable e increíblemente fácil de usar, te permite descargar imágenes de Pinterest de alta calidad en cuestión de segundos.",
+    "feature_1": {
+      "title": "Super rápida y fácil de usar",
+      "text": "Sin pasos complicados. Sin registros. Simplemente pega el enlace de Pinterest, haz clic en descargar y listo. Nuestra herramienta simplifica todo el proceso para que puedas guardar imágenes sin complicaciones."
+    },
+    "feature_2": {
+      "title": "Descargas de alta calidad",
+      "text": "Pinterest comprime el contenido, pero nosotros no. Nuestra herramienta para descargar imágenes de Pinterest guarda las imágenes en HD, 4K y calidad original sin perder nitidez, para que obtengas imágenes nítidas y limpias, ideales para diseño, tableros de inspiración, presentaciones o colecciones personales."
+    },
+    "feature_3": {
+      "title": "Segura y protegida",
+      "text": "Tu privacidad es nuestra prioridad. Nuestra Descargar imágenes de Pinterest no almacena tus datos y está libre de malware o anuncios intrusivos."
+    }
+  },
+  "how_section": {
+    "title": "¿Cómo Descargar imágenes de Pinterest?",
+    "steps": [
+      "Copia la URL de la imagen de Pinterest que deseas descargar.",
+      "Pégalo en el cuadro de entrada de arriba y haz clic en Descargar.",
+      "Selecciona la calidad que prefieras y guárdala al instante."
+    ]
+  },
+  "features": {
+    "title": "Características de la Descargar imágenes de Pinterest",
+    "items": [
+      {
+        "title": "100% gratis e ilimitada",
+        "text": "Sin cargos ocultos ni planes premium, sin límites. Descarga todas las imágenes de Pinterest que quieras, totalmente gratis. No necesitas una cuenta de Pinterest. Nuestra herramienta para descargar imágenes de Pinterest es gratuita, ilimitada y accesible en cualquier momento.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Funciona en todos los dispositivos",
+        "text": "Ya sea que uses Android, iPhone, Windows o Mac, el programa de descarga funciona sin problemas en todos los navegadores, incluidos Chrome, Safari, Edge y Firefox.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Múltiples opciones de formato",
+        "text": "Algunas herramientas permiten elegir entre distintos formatos (por ejemplo, JPG, PNG, WebP) o seleccionar la resolución de descarga.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "No requiere instalación de software",
+        "text": "Como estas herramientas suelen estar basadas en la web, puedes usarlas en cualquier dispositivo o navegador sin instalar nada.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Compatibilidad con GIF / Pines animados",
+        "text": "Algunos programas de descarga son capaces de obtener no solo imágenes estáticas, sino también GIFs o animaciones.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Descarga con un solo clic",
+        "text": "Solo tienes que pegar el enlace y descargar. Sin anuncios, sin esperas.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas frecuentes (FAQ)",
+    "items": [
+      {
+        "question": "¿Este descargador de imágenes de Pinterest es gratuito?",
+        "answer": "¡Sí! Nuestra herramienta es 100% completamente gratuita, sin cargos ocultos."
+      },
+      {
+        "question": "¿Necesito instalar alguna aplicación?",
+        "answer": "No requiere instalación. Úselo en línea desde cualquier navegador."
+      },
+      {
+        "question": "¿Puedo descargar imágenes en HD de Pinterest?",
+        "answer": "Sí, si una imagen está disponible en resolución 4K, nuestra herramienta la obtiene automáticamente."
+      },
+      {
+        "question": "¿Puedo descargar Ideas Pins?",
+        "answer": "Sí, los Pines de Ideas estáticos se pueden descargar como imágenes normales."
+      },
+      {
+        "question": "¿Necesito una cuenta de Pinterest para usar estos programas de descarga?",
+        "answer": "No, PinVideoDown funciona sin iniciar sesión. Para pines públicos, normalmente no es necesario iniciar sesión. Solo necesitas la URL del pin."
+      },
+      {
+        "question": "¿Funciona este programa de descarga en dispositivos móviles?",
+        "answer": "Sí. Funciona perfectamente en Android, iPhone y más."
+      },
+      {
+        "question": "¿Es seguro usar Descargador de Pinterest?",
+        "answer": "Por supuesto. No almacenamos URL, imágenes ni ninguna información personal."
+      }
+    ]
+  }
+}

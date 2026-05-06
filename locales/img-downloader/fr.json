@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Téléchargeur d'images Pinterest - Pinvideodown",
+    "description": "Télécharger des images Pinterest des images Pinterest en HD et en qualité originale. Téléchargeur d'images Pinterest gratuit, sans inscription. Rapide, sûr et compatible avec tous les appareils.",
+    "keywords": "Téléchargeur d'images Pinterest, Télécharger une image Pinterest, Téléchargement d'images Pinterest, Téléchargement d'images de Pin, Téléchargement de vidéos Pinterest"
+  },
+  "hero": {
+    "title": "Téléchargeur d'images Pinterest",
+    "subtitle": "Télécharger des images Pinterest, des épingles et des photos d'idées Pinterest en HD, en qualité originale. Aucune application n'est requise : il vous suffit de coller le lien et de cliquer sur télécharger."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste image URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Téléchargeur d'images Pinterest - Pinvideodown</h2><p>Notre outil de <a href='/fr/pinterest-image-downloader/' class='internal-link'>téléchargeur d'images Pinterest</a> est simple et fiable. Il vous permet d'enregistrer directement sur votre appareil n'importe quelle image Pinterest. Que vous recherchiez des photos d'inspiration, des images esthétiques, des fonds d'écran, des designs ou des idées, notre outil rend le processus rapide, facile et illimité.</p><p>Les outils de téléchargeur d'images Pinterest sont des utilitaires ou logiciels en ligne permettant d'enregistrer des images (ou des GIF) de Pinterest sur vos appareils. Bien que Pinterest propose quelques options natives limitées pour enregistrer les épingles, ces outils facilitent l'extraction de médias de haute qualité, souvent sans avoir à effectuer de captures d'écran manuelles ni à suivre des procédures complexes. Ils sont particulièrement utiles aux designers, blogueurs, chercheurs et à toute personne souhaitant constituer une collection personnelle hors ligne d'inspiration visuelle.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Qu'est-ce que Téléchargeur d'images Pinterest?</h2><p>Téléchargeur d'images Pinterest de PinVideoDown est un outil en ligne conçu pour extraire et enregistrer des images de Pinterest en qualité HD, Full HD et 4K. Que vous ayez besoin de tableaux d'inspiration, de photos de voyage, d'œuvres d'art, de recettes ou d'images de produits, notre outil les enregistre rapidement et en toute sécurité.</p>"
+  },
+  "why_section": {
+    "title": "Pourquoi utiliser un téléchargeur d'images Pinterest ?",
+    "intro": "Pinterest ne permet pas de télécharger directement les images en pleine résolution. Notre outil résout ce problème en vous permettant de télécharger n'importe quelle image ou épingle Pinterest en HD, en pleine résolution ou en qualité originale. Si vous aimez parcourir Pinterest pour trouver l'inspiration, que ce soit pour des idées de voyage, de décoration, de bricolage, de mode ou de recettes, vous avez probablement déjà rêvé d'un moyen simple d'enregistrer vos photos préférées directement sur votre appareil. Notre téléchargeur d'images Pinterest est conçu précisément pour cela. Rapide, fiable et incroyablement facile à utiliser, il vous permet de télécharger des images Pinterest de haute qualité en quelques secondes seulement.",
+    "feature_1": {
+      "title": "Super rapide et facile à utiliser",
+      "text": "Aucune étape compliquée. Aucune inscription requise. Collez simplement le lien Pinterest, cliquez sur télécharger, et c'est tout. Notre outil simplifie l'ensemble du processus pour que vous puissiez enregistrer des images sans le moindre souci."
+    },
+    "feature_2": {
+      "title": "Téléchargements de haute qualité",
+      "text": "Pinterest compresse le contenu, mais pas nous. Notre fonction «Télécharger des images Pinterest» enregistre les images Pinterest en HD, 4K et en qualité originale sans perte de netteté, pour des images précises et nettes, idéales pour vos projets graphiques, moodboards, présentations ou collections personnelles."
+    },
+    "feature_3": {
+      "title": "Sûr et sécurisé",
+      "text": "Le respect de votre vie privée est notre priorité. Notre télécharger des images Pinterest ne stocke aucune donnée et est exempte de logiciels malveillants et de publicités intrusives."
+    }
+  },
+  "how_section": {
+    "title": "Comment télécharger des images Pinterest?",
+    "steps": [
+      "Copiez l'URL de l'image Pinterest que vous souhaitez télécharger.",
+      "Collez-le dans la zone de saisie ci-dessus et cliquez sur Télécharger.",
+      "Sélectionnez la qualité de votre choix et enregistrez-la instantanément."
+    ]
+  },
+  "features": {
+    "title": "Fonctionnalités du Télécharger des images Pinterest",
+    "items": [
+      {
+        "title": "100% gratuit et illimité",
+        "text": "Aucun frais caché ni abonnement premium, aucune limite. Téléchargez gratuitement autant d'images Pinterest que vous le souhaitez. Aucun compte Pinterest n'est requis. Notre outil de Téléchargeur d'images Pinterest est gratuit, illimité et accessible à tout moment.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Fonctionne sur tous les appareils",
+        "text": "Que vous soyez sur Android, iPhone, Windows ou Mac, le téléchargeur fonctionne parfaitement sur tous les navigateurs, y compris Chrome, Safari, Edge et Firefox.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Options de format multiples",
+        "text": "Certains outils vous permettent de choisir parmi les formats (par exemple, JPG, PNG, WebP) ou de sélectionner la résolution à télécharger.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Aucune installation de logiciel requise",
+        "text": "Comme ces outils sont souvent basés sur le Web, vous pouvez les utiliser sur n'importe quel appareil ou navigateur sans rien installer.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Prise en charge des GIF / épingles animées",
+        "text": "Certains logiciels de téléchargement sont capables de récupérer non seulement des images statiques, mais aussi des GIF ou des animations.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Téléchargement en un clic",
+        "text": "Il suffit de coller le lien et de télécharger. Sans publicité, sans attente.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Foire aux questions (FAQ)",
+    "items": [
+      {
+        "question": "Ce Téléchargeur d'images Pinterest est-il gratuit?",
+        "answer": "Oui ! Notre outil est 100 % gratuit, sans aucun frais caché."
+      },
+      {
+        "question": "Dois-je installer une application?",
+        "answer": "Aucune installation requise. Utilisez-le en ligne depuis n'importe quel navigateur."
+      },
+      {
+        "question": "Puis-je télécharger des images HD depuis Pinterest?",
+        "answer": "Oui, si une image est disponible en résolution 4K, notre outil la récupère automatiquement."
+      },
+      {
+        "question": "Puis-je télécharger Idea Pins?",
+        "answer": "Oui, les épingles d'idées statiques peuvent être téléchargées comme des images ordinaires."
+      },
+      {
+        "question": "Ai-je besoin d'un compte Pinterest pour utiliser ces outils de téléchargement?",
+        "answer": "Non, PinVideoDown fonctionne sans connexion. Pour les épingles publiques, il est souvent inutile de se connecter; seule l’URL de l’épingle est nécessaire."
+      },
+      {
+        "question": "Ce téléchargeur fonctionne-t-il sur mobile?",
+        "answer": "Oui. Il fonctionne parfaitement sur Android, iPhone et autres."
+      },
+      {
+        "question": "Téléchargeur Pinterest est-il sûr à utiliser?",
+        "answer": "Absolument. Nous ne conservons ni URL, ni images, ni aucune information personnelle."
+      }
+    ]
+  }
+}

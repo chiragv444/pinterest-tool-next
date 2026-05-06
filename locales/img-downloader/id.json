@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Pengunduh Gambar Pinterest | Unduh Gambar Pinterest dalam HD & 4K",
+    "description": "Unduh gambar Pinterest dalam kualitas HD dan asli secara instan. Pengunduh Gambar Pinterest gratis tanpa perlu login. Cepat, aman, dan berfungsi di semua perangkat.",
+    "keywords": "Pengunduh Gambar Pinterest, Unduh gambar Pinterest, unduh gambar Pinterest, unduh gambar Pin, unduh video Pin"
+  },
+  "hero": {
+    "title": "Pengunduh Gambar Pinterest",
+    "subtitle": "Unduh gambar Pinterest, pin, dan foto ide Pinterest dalam HD, kualitas asli, dan sepenuhnya gratis. Tanpa aplikasi, cukup tempel tautan dan tekan unduh."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste image URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Pengunduh Gambar Pinterest - Pinvideodown</h2><p><a href='/id/pinterest-image-downloader/' class='internal-link'>Pengunduh Gambar Pinterest</a> kami adalah alat daring yang sederhana dan andal yang dirancang untuk membantu Anda menyimpan gambar Pinterest apa pun langsung ke perangkat Anda. Baik Anda membutuhkan foto inspirasi, gambar estetis, wallpaper, desain, atau pin ide, pengunduh kami menjadikan prosesnya cepat, mudah, dan tanpa batas.</p><p>Alat pengunduh gambar Pinterest adalah utilitas atau perangkat lunak berbasis web yang memungkinkan pengguna menyimpan gambar (atau GIF) dari Pinterest ke perangkat mereka sendiri. Meskipun Pinterest menawarkan beberapa opsi bawaan yang terbatas untuk menyimpan pin, alat pengunduh memudahkan ekstraksi media berkualitas tinggi, seringkali tanpa perlu mengambil tangkapan layar secara manual atau melalui alur kerja yang rumit. Alat-alat ini sangat berguna bagi desainer, blogger, peneliti, atau siapa pun yang ingin membuat koleksi inspirasi visual pribadi secara offline.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Apa itu Pengunduh Gambar Pinterest?</h2><p>Pengunduh Gambar Pinterest dari PinVideoDown adalah alat daring. Dirancang untuk mengekstrak dan menyimpan gambar dari Pinterest dalam kualitas HD, Full HD, dan 4K. Baik Anda membutuhkan papan inspirasi, foto perjalanan, karya seni, resep, atau gambar produk, pengunduh kami akan menyimpannya dengan cepat dan aman.</p>"
+  },
+  "why_section": {
+    "title": "Mengapa Menggunakan Pengunduh Gambar Pinterest?",
+    "intro": "Pinterest tidak memungkinkan Anda mengunduh gambar langsung dalam resolusi penuh. Alat kami mengatasi masalah ini dengan memungkinkan Anda mengunduh gambar atau pin Pinterest apa pun dalam HD, ukuran penuh, atau kualitas asli. Jika Anda suka menjelajahi Pinterest untuk mencari inspirasi, baik itu ide perjalanan, dekorasi rumah, proyek DIY, mode, atau resep, Anda mungkin mendambakan cara mudah untuk menyimpan foto favorit langsung ke perangkat Anda. Pengunduh gambar Pinterest kami dirancang khusus untuk itu. Cepat, andal, dan sangat mudah digunakan, alat ini memungkinkan Anda mengunduh gambar Pinterest berkualitas tinggi hanya dalam hitungan detik.",
+    "feature_1": {
+      "title": "Super Cepat & Mudah Digunakan",
+      "text": "Tanpa langkah rumit. Tanpa pendaftaran. Cukup tempel tautan Pinterest, klik unduh, dan selesai. Alat kami menyederhanakan seluruh proses sehingga Anda dapat menyimpan gambar tanpa repot."
+    },
+    "feature_2": {
+      "title": "Unduhan berkualitas tinggi",
+      "text": "Pinterest mengompresi konten, tetapi kami tidak. Unduh Gambar Pinterest kami menyimpan gambar Pinterest dalam kualitas HD, 4K, dan asli tanpa kehilangan kejelasan sehingga Anda mendapatkan gambar yang tajam dan bersih, ideal untuk pekerjaan desain, papan suasana hati, presentasi, atau koleksi pribadi."
+    },
+    "feature_3": {
+      "title": "Aman & Terjamin",
+      "text": "Privasi Anda adalah prioritas kami. Unduh gambar Pinterest yang kami unduh tidak menyimpan data Anda, dan bebas dari malware atau iklan yang mengganggu."
+    }
+  },
+  "how_section": {
+    "title": "Bagaimana cara Unduh gambar Pinterest?",
+    "steps": [
+      "Salin URL gambar Pinterest yang ingin Anda unduh.",
+      "Tempelkan ke kotak input di atas dan klik Unduh.",
+      "Pilih kualitas pilihan Anda dan simpan segera."
+    ]
+  },
+  "features": {
+    "title": "Fitur Unduh Gambar Pinterest",
+    "items": [
+      {
+        "title": "100% Gratis & Tidak Terbatas",
+        "text": "Tanpa biaya tersembunyi atau paket premium, tanpa batasan. Unduh gambar Pinterest sebanyak yang Anda inginkan, sepenuhnya gratis. Tidak perlu akun Pinterest. Alat Unduh Gambar Pinterest kami gratis, tanpa batas, dan dapat diakses kapan saja.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Bekerja di Semua Perangkat",
+        "text": "Baik Anda menggunakan Android, iPhone, Windows, atau Mac, pengunduh bekerja lancar di semua peramban, termasuk Chrome, Safari, Edge, dan Firefox.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Berbagai Pilihan Format",
+        "text": "Alat tertentu memungkinkan Anda memilih di antara format (misalnya, JPG, PNG, WebP) atau memilih resolusi yang akan diunduh.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Tidak Perlu Instalasi Perangkat Lunak",
+        "text": "Karena alat-alat ini sering kali berbasis web, Anda dapat menggunakannya di perangkat atau peramban apa pun tanpa menginstal apa pun.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Dukungan untuk GIF / Pin Animasi",
+        "text": "Beberapa pengunduh tidak hanya mampu mengambil gambar statis tetapi juga GIF atau animasi.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Unduh satu klik",
+        "text": "Cukup tempel tautan dan unduh. Tanpa iklan, tanpa waktu tunggu.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "items": [
+      {
+        "question": "Apakah Pengunduh Gambar Pinterest ini gratis?",
+        "answer": "Ya! Alat kami 100% gratis tanpa biaya tersembunyi."
+      },
+      {
+        "question": "Apakah saya perlu memasang aplikasi?",
+        "answer": "Tidak perlu instalasi. Gunakan online dari peramban apa pun."
+      },
+      {
+        "question": "Bisakah saya mengunduh gambar HD dari Pinterest?",
+        "answer": "Ya, jika gambar tersedia dalam resolusi 4K, alat kami akan mengambilnya secara otomatis."
+      },
+      {
+        "question": "Bisakah saya mengunduh Pin Ide?",
+        "answer": "Ya, Pin Ide statis dapat diunduh seperti gambar biasa."
+      },
+      {
+        "question": "Apakah saya memerlukan akun Pinterest untuk menggunakan pengunduh ini?",
+        "answer": "Tidak, PinVideoDown berfungsi tanpa perlu login. Untuk pin publik, Anda seringkali tidak perlu login. Yang Anda butuhkan hanyalah URL pin tersebut."
+      },
+      {
+        "question": "Apakah pengunduh ini berfungsi di ponsel?",
+        "answer": "Ya. Berfungsi sempurna di Android, iPhone, dan lainnya."
+      },
+      {
+        "question": "Apakah Pengunduh Pinterest aman digunakan?",
+        "answer": "Tentu saja. Kami tidak menyimpan URL, gambar, atau informasi pribadi apa pun."
+      }
+    ]
+  }
+}

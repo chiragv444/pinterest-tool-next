@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "Descărcător de videoclipuri Pinterest - Pinvideodown",
+    "description": "Descărcător de videoclipuri Pinterest pentru a descărca cu ușurință videoclipuri de pe Pinterest la calitate înaltă. Funcționează în siguranță pe toate dispozitivele, inclusiv PC, mobil sau tabletă.",
+    "keywords": "Descărcător video Pinterest, Descarcă videoclipuri Pinterest, descarcă videoclipuri Pinterest, descarcă videoclipuri Pinterest, descarcă videoclipuri Pinterest, pinvideodown"
+  },
+  "hero": {
+    "title": "Descărcător de videoclipuri Pinterest",
+    "subtitle": "Descărcați videoclipuri Pinterest în format HD MP4 rapid, gratuit și sigur."
+  },
+  "nav": {
+    "video": "Pinterest Video Downloader",
+    "image": "Pinterest Image Downloader"
+  },
+  "form": {
+    "placeholder": "Paste video URL Pinterest",
+    "download_btn": "Download",
+    "paste": "Paste",
+    "clear": "Clear"
+  },
+  "home_content": {
+    "text": "<h2>Descărcător de videoclipuri Pinterest - Pinvideodown</h2><p><a href='/ro/' class='internal-link'>Descărcător de videoclipuri Pinterest</a> este o platformă simplă, rapidă și fiabilă. Concepută pentru a ajuta utilizatorii să descarce videoclipurile, pin-urile cu idei și GIF-urile preferate direct de pe Pinterest. Cu un singur link Pinterest, puteți converti și descărca fișiere media în format HD de înaltă calitate, fără a fi nevoie de software suplimentar sau de autentificare la cont.</p><p>Instrumentul nostru de descarcă videoclipul Pinterest este compatibil cu toate tipurile de media Pinterest și funcționează pe toate dispozitivele, inclusiv telefoane mobile, tablete și computere desktop. Indiferent dacă salvați conținut pentru vizualizare offline, adunați inspirație pentru proiecte personale sau reutilizați videoclipuri în scopuri educaționale, acest instrument de descărcare simplifică procesul.</p>"
+  },
+  "what_section": {
+    "text": "<h2>Ce este Descărcător de videoclipuri Pinterest?</h2><p>Un instrument Descărcător de videoclipuri Pinterest este un instrument, un site web sau o aplicație care permite utilizatorilor să salveze videoclipuri de pe Pinterest pe dispozitivele lor. Aceste instrumente funcționează de obicei prin extragerea fișierului video din adresa URL a unei postări Pinterest și punerea acestuia la dispoziție pentru descărcare. Printre metodele populare se numără utilizarea site-urilor de descărcare online, a extensiilor de browser și a aplicațiilor mobile.</p>"
+  },
+  "why_section": {
+    "title": "De ce să folosești un program de descărcător de videoclipuri Pinterest?",
+    "intro": "Pinterest nu oferă o opțiune de descărcare directă pentru conținut video, ceea ce îngreunează salvarea conținutului media. Acest instrument rezolvă această problemă oferind o modalitate ușor de utilizat, sigură și eficientă de a păstra offline inspirația vizuală preferată. Indiferent dacă ești creator de conținut, designer, educator sau utilizator ocazional de Pinterest, te ajută să organizezi și să accesezi idei oricând ai nevoie de ele. Se convertește în formate descărcabile precum MP4, MOV sau GIF. Tot ce ai nevoie este adresa URL a Pinului - acest instrument se ocupă automat de restul.",
+    "feature_1": {
+      "title": "Vizualizare offline",
+      "text": "Descărcarea videoclipurilor poate fi foarte utilă pentru utilizatorii din zonele cu acces limitat la internet sau pentru cei care doresc să vizioneze videoclipuri fără a utiliza date."
+    },
+    "feature_2": {
+      "title": "Partajare ușoară",
+      "text": "Unele platforme sau aplicații de mesagerie nu acceptă bine linkurile Pinterest. Descărcarea videoclipului face partajarea pe dispozitive sau aplicații mai ușoară și mai fiabilă."
+    },
+    "feature_3": {
+      "title": "Ieșire video de înaltă calitate",
+      "text": "Descărcați sau accesați conținut în rezoluție Full HD, 2K sau 4K. Spre deosebire de multe alte servicii care vă limitează la formate de calitate inferioară, noi vă oferim cea mai bună experiență disponibilă."
+    }
+  },
+  "how_section": {
+    "title": "Cum să Descărcător de videoclipuri Pinterest?",
+    "intro": "Site-urile web sunt concepute pentru a ajuta utilizatorii să descarce videoclipuri Pinterest fără a instala niciun software. Iată pașii generali:",
+    "steps": [
+      "Deschide Pinterest și copiază adresa URL a videoclipului sau a pin-ului pe care vrei să-l salvezi.",
+      "Lipiți adresa URL a videoclipului Pinterest copiat în caseta de introducere a textului de pe site-ul de descărcare. Faceți clic pe butonul Descărcare pentru a analiza linkul.",
+      "Alegeți formatul sau calitatea preferată pentru descărcare. Salvați fișierul pe dispozitiv."
+    ]
+  },
+  "features": {
+    "title": "Caracteristici ale Descarcă videoclipul Pinterest",
+    "items": [
+      {
+        "title": "Acceptă toate tipurile de media Pinterest",
+        "text": "Descărcător de videoclipuri Pinterest poate salva videoclipuri, GIF-uri, pin-uri de povești și chiar pin-uri de idei cu pinvideodown.",
+        "icon": "cloud-download.svg"
+      },
+      {
+        "title": "Absolut gratuit de utilizat",
+        "text": "Platforma noastră este complet gratuită. Păstrăm lucrurile simple și transparente, nu există taxe ascunse pentru utilizare, nu există niveluri premium. Este posibil să afișăm reclame minime pentru a susține costurile, dar nu ți se va cere niciodată să plătești.",
+        "icon": "mp3-audio.svg"
+      },
+      {
+        "title": "Viteze mari de descărcare",
+        "text": "Un instrument de calitate ar trebui să proceseze rapid adresele URL și să salveze videoclipurile în câteva secunde, fără așteptări lungi.",
+        "icon": "multi-platform.svg"
+      },
+      {
+        "title": "Nu este nevoie de software sau înregistrare",
+        "text": "Nu trebuie să instalați niciun software, extensii sau pluginuri. Instrumentul Descărcați videoclipuri Pinterest funcționează complet în browserul dvs.",
+        "icon": "no-register.svg"
+      },
+      {
+        "title": "Suport multi-platformă",
+        "text": "Indiferent dacă folosești Chrome, Safari, Firefox sau Edge, PinVideoDown funcționează perfect pe toate browserele și dispozitivele, cum ar fi desktop, tabletă și mobil.",
+        "icon": "watch.svg"
+      },
+      {
+        "title": "Procesare rapidă și sigură",
+        "text": "Acest instrument procesează linkurile instantaneu și nu stochează fișierele descărcate. Confidențialitatea și securitatea navigării sunt complet protejate.",
+        "icon": "security.svg"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Întrebări frecvente (FAQ)",
+    "items": [
+      {
+        "question": "Pot descărca gratuit videoclipuri de pe Pinterest?",
+        "answer": "Da! PinVideoDown este complet gratuit, fără costuri ascunse sau limite de descărcare."
+      },
+      {
+        "question": "Este sigur să utilizez PinVideoDown?",
+        "answer": "Absolut. Folosim conexiuni HTTPS securizate și nu stocăm niciodată date sau videoclipuri ale utilizatorilor."
+      },
+      {
+        "question": "Funcționează pe dispozitive mobile?",
+        "answer": "Da, funcționează perfect pe toate smartphone-urile, tabletele și browserele desktop."
+      },
+      {
+        "question": "Pot descărca pinuri de idei și pinuri de povești Pinterest?",
+        "answer": "Da, Descărcător de videoclipuri Pinterest acceptă toate formatele media Pinterest, inclusiv videoclipuri, pin-uri de idei și pin-uri de povești."
+      },
+      {
+        "question": "Trebuie să instalez o aplicație?",
+        "answer": "Nu este necesară nicio instalare. PinVideoDown este un program de descărcare Pinterest bazat pe web, accesibil oricând din browser."
+      }
+    ]
+  }
+}
