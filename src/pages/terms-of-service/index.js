@@ -1,8 +1,12 @@
 import Layout from '../../components/Layout';
 
 export default function TermsOfService() {
+  const meta = {
+    title: 'Terms of Service - Pinterest Video Downloader',
+    description: 'Review the Terms of Service for Pinterest Video Downloader. Understand the rules and guidelines for using our platform.'
+  };
   return (
-    <Layout currentRoute="/terms-of-service">
+    <Layout currentRoute="/terms-of-service" meta={meta}>
       <div className="container px-5 footer-content py-6">
         <h1>Terms and Conditions</h1>
         <p className="mb-3">Please read these terms and conditions carefully before using Our Service.</p>

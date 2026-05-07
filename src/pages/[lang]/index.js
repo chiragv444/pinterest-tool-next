@@ -4,7 +4,7 @@ import { getSupportedLanguages, getLocale, getLanguageRoute, isSupportedRoute } 
 
 export default function LocalizedHome({ locale, nav, lang }) {
   return (
-    <Layout lang={lang} nav={nav} currentRoute={`/${lang}`}>
+    <Layout lang={lang} nav={nav} currentRoute={`/${lang}`} meta={locale.meta}>
       <HomePage
         hero={locale.hero}
         form={locale.form}

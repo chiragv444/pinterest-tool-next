@@ -4,7 +4,7 @@ import { getLocale } from '../lib/i18n';
 
 export default function Home({ locale, nav }) {
   return (
-    <Layout lang="en" nav={nav} currentRoute="/">
+    <Layout lang="en" nav={nav} currentRoute="/" meta={locale.meta}>
       <HomePage
         hero={locale.hero}
         form={locale.form}

@@ -1,8 +1,12 @@
 import Layout from '../../components/Layout';
 
 export default function PrivacyPolicy() {
+  const meta = {
+    title: 'Privacy Policy - Pinterest Video Downloader',
+    description: 'Read our Privacy Policy to understand how Pinterest Video Downloader collects, uses, and protects your personal information.'
+  };
   return (
-    <Layout currentRoute="/privacy-policy">
+    <Layout currentRoute="/privacy-policy" meta={meta}>
       <div className="container px-5 footer-content py-10">
         <h1 className="text-4xl font-semibold text-slate-900">Privacy Policy</h1>
         <p className="mt-6 text-slate-700 leading-7">This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use the Service and tells you about your privacy rights and how the law protects you.</p>

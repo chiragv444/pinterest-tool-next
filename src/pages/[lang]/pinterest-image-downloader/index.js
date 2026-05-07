@@ -4,7 +4,7 @@ import { getSupportedLanguages, getLocale, isSupportedRoute } from '../../../lib
 
 export default function LocalizedImageDownloader({ locale, nav, lang }) {
   return (
-    <Layout lang={lang} nav={nav} currentRoute={`/${lang}/pinterest-image-downloader`}>
+    <Layout lang={lang} nav={nav} currentRoute={`/${lang}/pinterest-image-downloader`} meta={locale.meta}>
       <ImageDownloaderPage
         hero={locale.hero}
         form={locale.form}

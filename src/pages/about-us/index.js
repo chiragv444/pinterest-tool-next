@@ -1,8 +1,12 @@
 import Layout from '../../components/Layout';
 
 export default function AboutUs() {
+  const meta = {
+    title: 'About Us - Pinterest Video Downloader',
+    description: 'Learn more about Pinterest Video Downloader, our mission to provide fast, privacy-friendly tools for downloading Pinterest videos and images.'
+  };
   return (
-    <Layout currentRoute="/about-us">
+    <Layout currentRoute="/about-us" meta={meta}>
       <div className="container px-5 footer-content py-10">
         <h1 className="text-4xl font-semibold text-slate-900">About Us</h1>
         <p className="mt-6 text-slate-700 leading-7">Welcome to Pindown — a simple tool to help you download images and videos for personal use quickly and easily.</p>

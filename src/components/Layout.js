@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Script from 'next/script';
 import Header from './Header';
 import Footer from './Footer';
 import { getSupportedLanguages } from '../lib/i18n';
@@ -6,6 +7,11 @@ import { getSupportedLanguages } from '../lib/i18n';
 const defaultNav = {
   video: 'Pinterest Video Downloader',
   image: 'Pinterest Image Downloader'
+};
+
+const defaultMeta = {
+  title: 'Pinterest Video Downloader – Download Pinterest Videos in HD',
+  description: 'Pinterest Video Downloader to download videos from Pinterest in high quality easily. Works safely on all devices including PC, mobile or tablet.'
 };
 
 const TRANSLATABLE_ROUTES = new Set(['/', '/pinterest-image-downloader']);
@@ -28,7 +34,7 @@ function getBaseRoute(route) {
   return normalized;
 }
 
-export default function Layout({ children, lang = 'en', nav = defaultNav, currentRoute = '/' }) {
+export default function Layout({ children, lang = 'en', nav = defaultNav, currentRoute = '/', meta = defaultMeta }) {
   const supportedLanguages = getSupportedLanguages();
   const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000').replace(/\/$/, '');
   const normalizedRoute = normalizeRoute(currentRoute);
@@ -40,6 +46,16 @@ export default function Layout({ children, lang = 'en', nav = defaultNav, curren
   return (
     <>
       <Head>
+        <title>{meta.title}</title>
+        <meta name="description" content={meta.description} />
+        <meta property="og:title" content={meta.title} />
+        <meta property="og:description" content={meta.description} />
+        <meta name="robots" content="index, follow" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png" />
+        <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+        <meta name="theme-color" content="#ffffff" />
         <link rel="canonical" href={canonicalUrl} />
         {showAlternate && (
           <>

@@ -4,7 +4,7 @@ import { getLocale } from '../../lib/i18n';
 
 export default function PinterestImageDownloader({ locale, nav }) {
   return (
-    <Layout lang="en" nav={nav} currentRoute="/pinterest-image-downloader">
+    <Layout lang="en" nav={nav} currentRoute="/pinterest-image-downloader" meta={locale.meta}>
       <ImageDownloaderPage
         hero={locale.hero}
         form={locale.form}
