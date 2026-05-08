@@ -54,32 +54,32 @@
       {
         "title": "100% Percuma & Tanpa Had",
         "text": "Tiada yuran tersembunyi atau pelan premium, tiada had. Muat turun seberapa banyak imej Pinterest yang anda mahukan secara percuma. Tiada akaun Pinterest diperlukan. Alat Muat Turun Imej Pinterest kami adalah percuma untuk digunakan, tanpa had dan boleh diakses pada bila-bila masa.",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Berfungsi pada Semua Peranti",
         "text": "Sama ada anda menggunakan Android, iPhone, Windows atau Mac, pemuat turun berfungsi dengan lancar pada semua pelayar, termasuk Chrome, Safari, Edge dan Firefox.",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Pelbagai Pilihan Format",
         "text": "Alatan tertentu membolehkan anda memilih antara format (cth., JPG, PNG, WebP) atau memilih resolusi untuk dimuat turun.",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Tiada Pemasangan Perisian Diperlukan",
         "text": "Oleh kerana alat ini selalunya berasaskan web, anda boleh menggunakannya pada mana-mana peranti atau pelayar tanpa memasang apa-apa.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Sokongan untuk GIF / Pin Animasi",
         "text": "Sesetengah pemuat turun bukan sahaja mampu mengambil imej statik tetapi juga GIF atau animasi.",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "Muat turun satu klik",
         "text": "Hanya tampal pautan dan muat turun. Tiada iklan, tiada masa menunggu.",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

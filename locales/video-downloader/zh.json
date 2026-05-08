@@ -55,32 +55,32 @@
       {
         "title": "支援所有 Pinterest 媒體類型",
         "text": "Pinterest 影片下載器 可以使用 pinvideodown 儲存影片、GIF、故事圖釘，甚至是創意圖釘。",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "完全免費使用",
         "text": "我們的平台完全免費。我們秉持簡單透明的原則，沒有任何隱藏費用，也沒有付費會員等級。我們可能會展示少量廣告以維持運營，但您無需支付任何費用。",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "下載速度快",
         "text": "優質的工具應該能夠快速處理URL，並在幾秒鐘內保存視頻，無需長時間等待。",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "無需安裝軟體或註冊",
         "text": "您無需安裝任何軟體、擴充功能或外掛程式。下載 Pinterest 視頻工具完全在瀏覽器中運作。",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "跨平台支援",
         "text": "無論您使用的是 Chrome、Safari、Firefox 還是 Edge，PinVideoDown 都能在所有瀏覽器和裝置（如桌上型電腦、平板電腦和手機）上完美運作。",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "快速安全的處理",
         "text": "此工具可即時處理鏈接，且不會儲存您下載的檔案。您的隱私和瀏覽安全將受到全面保護。",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },

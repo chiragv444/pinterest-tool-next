@@ -54,32 +54,32 @@
       {
         "title": "100 % kostenlos und unbegrenzt",
         "text": "Keine versteckten Gebühren oder Premium-Abos, keine Einschränkungen. Laden Sie so viele Pinterest-Bilder herunter, wie Sie möchten – völlig kostenlos. Kein Pinterest-Konto erforderlich. Unser Tool zum Pinterest-Bilder herunterladen ist kostenlos, unbegrenzt und jederzeit verfügbar.",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Funktioniert auf allen Geräten",
         "text": "Egal ob Android, iPhone, Windows oder Mac – der Downloader funktioniert reibungslos auf allen Browsern, einschließlich Chrome, Safari, Edge und Firefox.",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Mehrere Formatoptionen",
         "text": "Bestimmte Tools ermöglichen es Ihnen, zwischen verschiedenen Formaten (z. B. JPG, PNG, WebP) zu wählen oder die gewünschte Auflösung für den Download auszuwählen.",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Keine Softwareinstallation erforderlich",
         "text": "Da diese Tools häufig webbasiert sind, können Sie sie auf jedem Gerät oder Browser nutzen, ohne etwas installieren zu müssen.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Unterstützung für GIFs / animierte Pins",
         "text": "Manche Downloader sind in der Lage, nicht nur statische Bilder, sondern auch GIFs oder Animationen abzurufen.",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "Download mit einem Klick",
         "text": "Einfach den Link einfügen und herunterladen. Keine Werbung, keine Wartezeit.",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

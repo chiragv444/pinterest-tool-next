@@ -56,32 +56,32 @@
       {
         "title": "Supports all Pinterest media types",
         "text": "Pinterest Video Downloader can save videos, GIFs, story pins, and even idea pins with pinvideodown.",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Absolutely Free to Use",
         "text": "Our platform is completely free. We keep things simple and transparent, there are no hidden fees for use, no premium tiers. We may display minimal ads to support costs, but you will never be asked to pay.",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Fast Download Speeds",
         "text": "A quality tool should process URLs quickly and save videos in seconds without long waits.",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "No Software or Signup Needed",
         "text": "You don't need to install any software, extensions, or plugins. The Download Pinterest video tool works all in your browser.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Cross-Platform Support",
         "text": "Whether you are using Chrome, Safari, Firefox, or Edge, PinVideoDown works perfectly across all browsers and devices like desktop, tablet, and mobile.",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Fast & Secure Processing",
         "text": "This tool processes links instantly and does not store your downloaded files. Your privacy and browsing security are completely protected.",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },

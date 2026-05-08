@@ -55,32 +55,32 @@
       {
         "title": "Hỗ trợ tất cả các loại phương tiện Pinterest",
         "text": "Trình tải xuống video Pinterest có thể lưu video, GIF, ghim câu chuyện và thậm chí cả ghim ý tưởng bằng pinvideodown.",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Hoàn toàn miễn phí sử dụng",
         "text": "Nền tảng của chúng tôi hoàn toàn miễn phí. Chúng tôi giữ mọi thứ đơn giản và minh bạch, không có phí ẩn khi sử dụng, không có gói cao cấp. Chúng tôi có thể hiển thị quảng cáo tối thiểu để hỗ trợ chi phí, nhưng bạn sẽ không bao giờ bị yêu cầu thanh toán.",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Tốc độ tải xuống nhanh",
         "text": "Một công cụ chất lượng phải xử lý URL nhanh chóng và lưu video trong vài giây mà không cần phải chờ đợi lâu.",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "Không cần phần mềm hoặc đăng ký",
         "text": "Bạn không cần cài đặt bất kỳ phần mềm, tiện ích mở rộng hay plugin nào. Công cụ Tải xuống video Pinterest hoạt động hoàn toàn trên trình duyệt của bạn.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Hỗ trợ đa nền tảng",
         "text": "Cho dù bạn đang sử dụng Chrome, Safari, Firefox hay Edge, PinVideoDown đều hoạt động hoàn hảo trên mọi trình duyệt và thiết bị như máy tính để bàn, máy tính bảng và thiết bị di động.",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Xử lý nhanh chóng và an toàn",
         "text": "Công cụ này xử lý liên kết ngay lập tức và không lưu trữ các tệp bạn đã tải xuống. Quyền riêng tư và bảo mật duyệt web của bạn được bảo vệ hoàn toàn.",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },

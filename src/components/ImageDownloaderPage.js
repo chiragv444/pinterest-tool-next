@@ -121,7 +121,7 @@ export default function ImageDownloaderPage({ hero, form, home_content, what_sec
                   <div className="mb-4 p-4 bg-[#fff3f5] rounded-lg" style={{ borderBottomLeftRadius: 0, borderBottomRightRadius: 0 }}>
                     <div className="mx-auto mb-4 w-16 h-16 flex items-center justify-center">
                       <img
-                        src={`/img/fetures-img/${item.icon || defaultIcons[idx % defaultIcons.length]}`}
+                        src={`/img/fetures-img/${defaultIcons[idx % defaultIcons.length]}`}
                         alt={item.alt || defaultAlts[idx % defaultAlts.length]}
                         className="w-12 h-12"
                       />

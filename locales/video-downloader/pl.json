@@ -55,32 +55,32 @@
       {
         "title": "Obsługuje wszystkie typy mediów Pinterest",
         "text": "Pobieranie filmów z Pinteresta może zapisywać filmy, pliki GIF, piny z historiami, a nawet piny pomysłów za pomocą pinvideodown.",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Całkowicie darmowe w użyciu",
         "text": "Nasza platforma jest całkowicie darmowa. Dbamy o prostotę i przejrzystość, nie ma ukrytych opłat za użytkowanie ani planów premium. Możemy wyświetlać minimalne reklamy, aby pokryć koszty, ale nigdy nie zostaniesz poproszony o zapłatę.",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Szybkie prędkości pobierania",
         "text": "Dobre narzędzie powinno szybko przetwarzać adresy URL i zapisywać filmy w ciągu kilku sekund, bez długiego oczekiwania.",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "Nie potrzeba oprogramowania ani rejestracji",
         "text": "Nie musisz instalować żadnego oprogramowania, rozszerzeń ani wtyczek. Narzędzie do pobierania filmów z Pinteresta działa w przeglądarce.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Cross-Platform Support",
         "text": "Niezależnie od tego, czy używasz przeglądarki Chrome, Safari, Firefox czy Edge, PinVideoDown działa doskonale we wszystkich przeglądarkach i urządzeniach, takich jak komputery stacjonarne, tablety i urządzenia mobilne.",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Szybkie i bezpieczne przetwarzanie",
         "text": "To narzędzie przetwarza linki natychmiast i nie przechowuje pobranych plików. Twoja prywatność i bezpieczeństwo przeglądania są w pełni chronione.",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },

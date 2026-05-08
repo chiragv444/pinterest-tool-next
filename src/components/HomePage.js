@@ -109,14 +109,16 @@ export default function HomePage({ hero, form, home_content, what_section, why_s
                   <div className="bg-[#fff3f5] p-4" style={{ borderBottomLeftRadius: 0, borderBottomRightRadius: 0 }}>
                     <div className="mx-auto mb-4 w-16 h-16 flex items-center justify-center">
                       <img
-                        src={`/img/fetures-img/${item.icon || defaultIcons[idx % defaultIcons.length]}`}
+                        src={`/img/fetures-img/${defaultIcons[idx % defaultIcons.length]}`}
                         alt={item.alt || defaultAlts[idx % defaultAlts.length]}
                         className="w-12 h-12"
                       />
                     </div>
                   </div>
                   <div className="p-4">
-                    <h3 className="text-xl font-bold mb-2 text-left">{item.title}</h3>
+                    <h3 className="text-xl font-bold mb-2" style={{ textAlign: 'left !important' }}>
+                      {item.title}
+                    </h3>
                     <p className="text-sm text-slate-600">{item.text}</p>
                   </div>
                 </div>

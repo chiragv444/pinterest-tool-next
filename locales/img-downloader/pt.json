@@ -54,32 +54,32 @@
       {
         "title": "100% Grátis e Ilimitado",
         "text": "Sem taxas ocultas ou planos premium, sem limites. Baixe quantas imagens do Pinterest quiser, totalmente grátis. Não é necessário ter uma conta no Pinterest. Nossa ferramenta de Baixar imagem do Pinterest é gratuita, ilimitada e acessível a qualquer momento.",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Funciona em todos os dispositivos",
         "text": "Independentemente de você usar Android, iPhone, Windows ou Mac, o programa de download funciona perfeitamente em todos os navegadores, incluindo Chrome, Safari, Edge e Firefox.",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Opções de formato múltiplo",
         "text": "Algumas ferramentas permitem escolher entre formatos (por exemplo, JPG, PNG, WebP) ou selecionar a resolução para download.",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Não é necessária a instalação de nenhum software",
         "text": "Como essas ferramentas geralmente são baseadas na web, você pode usá-las em qualquer dispositivo ou navegador sem precisar instalar nada.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Suporte para GIFs / Pins animados",
         "text": "Alguns programas de download são capazes de baixar não apenas imagens estáticas, mas também GIFs ou animações.",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "Download com um clique",
         "text": "Basta colar o link e baixar. Sem anúncios, sem tempo de espera.",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

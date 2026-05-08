@@ -54,32 +54,32 @@
       {
         "title": "100% miễn phí và không giới hạn",
         "text": "Không phí ẩn hay gói cao cấp, không giới hạn. Tải xuống bao nhiêu hình ảnh Pinterest tùy thích hoàn toàn miễn phí. Không cần tài khoản Pinterest. Công cụ Tải xuống hình ảnh Pinterest của chúng tôi hoàn toàn miễn phí, không giới hạn và có thể truy cập mọi lúc.",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Hoạt động trên mọi thiết bị",
         "text": "Cho dù bạn sử dụng Android, iPhone, Windows hay Mac, trình tải xuống đều hoạt động mượt mà trên mọi trình duyệt, bao gồm Chrome, Safari, Edge và Firefox.",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Nhiều tùy chọn định dạng",
         "text": "Một số công cụ cho phép bạn chọn giữa các định dạng (ví dụ: JPG, PNG, WebP) hoặc chọn độ phân giải để tải xuống.",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Không cần cài đặt phần mềm",
         "text": "Vì những công cụ này thường hoạt động trên nền tảng web nên bạn có thể sử dụng chúng trên bất kỳ thiết bị hoặc trình duyệt nào mà không cần cài đặt bất cứ thứ gì.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Hỗ trợ GIF / Ghim động",
         "text": "Một số trình tải xuống có khả năng tải không chỉ hình ảnh tĩnh mà còn cả ảnh GIF hoặc hình ảnh động.",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "Tải xuống chỉ bằng một cú nhấp chuột",
         "text": "Chỉ cần dán liên kết và tải xuống. Không quảng cáo, không cần chờ đợi.",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

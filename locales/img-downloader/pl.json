@@ -54,32 +54,32 @@
       {
         "title": "100% za darmo i bez ograniczeń",
         "text": "Bez ukrytych opłat i planów premium, bez limitów. Pobierz dowolną liczbę obrazów z Pinteresta całkowicie za darmo. Nie jest wymagane konto na Pintereście. Nasze narzędzie do pobierz obrazy z Pinteresta jest bezpłatne, nieograniczone i dostępne w dowolnym momencie.",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Działa na wszystkich urządzeniach",
         "text": "Niezależnie od tego, czy używasz systemu Android, iPhone'a, Windowsa czy komputera Mac, program do pobierania działa płynnie we wszystkich przeglądarkach, w tym Chrome, Safari, Edge i Firefox.",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Wiele opcji formatowania",
         "text": "Niektóre narzędzia umożliwiają wybór formatu (np. JPG, PNG, WebP) lub wybranie rozdzielczości, w jakiej chcesz pobrać plik.",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Instalacja oprogramowania nie jest wymagana",
         "text": "Ponieważ narzędzia te są często oparte na sieci, możesz z nich korzystać na dowolnym urządzeniu i w dowolnej przeglądarce, bez konieczności instalowania jakichkolwiek programów.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Obsługa plików GIF/animowanych pinów",
         "text": "Niektóre programy do pobierania potrafią pobierać nie tylko statyczne obrazy, ale także pliki GIF i animacje.",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "Pobieranie jednym kliknięciem",
         "text": "Wystarczy wkleić link i pobrać. Bez reklam i czekania.",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

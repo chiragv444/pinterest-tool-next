@@ -55,32 +55,32 @@
       {
         "title": "Compatible avec tous les types de médias Pinterest",
         "text": "Téléchargeur de vidéos Pinterest peut enregistrer des vidéos, des GIF, des épingles de story et même des épingles d'idées grâce à pinvideodown.",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Entièrement gratuit",
         "text": "Notre plateforme est entièrement gratuite. Nous privilégions la simplicité et la transparence, aucuns frais cachés, aucune formule premium. Nous pouvons afficher quelques publicités pour couvrir nos frais, mais vous n’aurez jamais à payer.",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Vitesses de téléchargement rapides",
         "text": "Un outil de qualité doit traiter les URL rapidement et enregistrer les vidéos en quelques secondes, sans longues attentes.",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "Aucun logiciel ni inscription requis",
         "text": "Vous n'avez besoin d'installer aucun logiciel, extension ou plugin. L'outil de télécharger la vidéo Pinterest fonctionne directement dans votre navigateur.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Prise en charge multiplateforme",
         "text": "Que vous utilisiez Chrome, Safari, Firefox ou Edge, PinVideoDown fonctionne parfaitement sur tous les navigateurs et appareils tels que les ordinateurs de bureau, les tablettes et les téléphones mobiles.",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Traitement rapide et sécurisé",
         "text": "Cet outil traite les liens instantanément et ne stocke pas vos fichiers téléchargés. Votre confidentialité et la sécurité de votre navigation sont entièrement protégées.",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },

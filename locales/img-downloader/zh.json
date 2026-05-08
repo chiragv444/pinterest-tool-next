@@ -54,32 +54,32 @@
       {
         "title": "100% 免費且無限制",
         "text": "沒有隱藏費用或高級套餐，也沒有數量限制。您可以完全免費下載任意數量的 Pinterest 圖片。無需 Pinterest 帳號。我們的 Pinterest 圖片下載工具免費使用，數量不限，隨時隨地可用。",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "適用於所有設備",
         "text": "無論你使用的是安卓、iPhone、Windows 還是 Mac 系統，這款下載器都能在所有瀏覽器上流暢運行，包括 Chrome、Safari、Edge 和 Firefox。",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "多種格式選項",
         "text": "某些工具可讓您選擇格式（例如 JPG、PNG、WebP）或選擇要下載的解析度。",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "無需安裝軟體",
         "text": "由於這些工具通常基於網絡，因此您可以在任何裝置或瀏覽器上使用它們，而無需安裝任何軟體。",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "支援 GIF / 動態圖釘",
         "text": "有些下載器不僅可以下載靜態圖像，還可以下載 GIF 或動畫。",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "一鍵下載",
         "text": "只需貼上連結即可下載。無廣告，無需等待。",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

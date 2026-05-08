@@ -55,32 +55,32 @@
       {
         "title": "Acceptă toate tipurile de media Pinterest",
         "text": "Descărcător de videoclipuri Pinterest poate salva videoclipuri, GIF-uri, pin-uri de povești și chiar pin-uri de idei cu pinvideodown.",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Absolut gratuit de utilizat",
         "text": "Platforma noastră este complet gratuită. Păstrăm lucrurile simple și transparente, nu există taxe ascunse pentru utilizare, nu există niveluri premium. Este posibil să afișăm reclame minime pentru a susține costurile, dar nu ți se va cere niciodată să plătești.",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Viteze mari de descărcare",
         "text": "Un instrument de calitate ar trebui să proceseze rapid adresele URL și să salveze videoclipurile în câteva secunde, fără așteptări lungi.",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "Nu este nevoie de software sau înregistrare",
         "text": "Nu trebuie să instalați niciun software, extensii sau pluginuri. Instrumentul Descărcați videoclipuri Pinterest funcționează complet în browserul dvs.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Suport multi-platformă",
         "text": "Indiferent dacă folosești Chrome, Safari, Firefox sau Edge, PinVideoDown funcționează perfect pe toate browserele și dispozitivele, cum ar fi desktop, tabletă și mobil.",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Procesare rapidă și sigură",
         "text": "Acest instrument procesează linkurile instantaneu și nu stochează fișierele descărcate. Confidențialitatea și securitatea navigării sunt complet protejate.",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },

@@ -54,32 +54,32 @@
       {
         "title": "100% Gratis & Tidak Terbatas",
         "text": "Tanpa biaya tersembunyi atau paket premium, tanpa batasan. Unduh gambar Pinterest sebanyak yang Anda inginkan, sepenuhnya gratis. Tidak perlu akun Pinterest. Alat Unduh Gambar Pinterest kami gratis, tanpa batas, dan dapat diakses kapan saja.",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Bekerja di Semua Perangkat",
         "text": "Baik Anda menggunakan Android, iPhone, Windows, atau Mac, pengunduh bekerja lancar di semua peramban, termasuk Chrome, Safari, Edge, dan Firefox.",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Berbagai Pilihan Format",
         "text": "Alat tertentu memungkinkan Anda memilih di antara format (misalnya, JPG, PNG, WebP) atau memilih resolusi yang akan diunduh.",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Tidak Perlu Instalasi Perangkat Lunak",
         "text": "Karena alat-alat ini sering kali berbasis web, Anda dapat menggunakannya di perangkat atau peramban apa pun tanpa menginstal apa pun.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Dukungan untuk GIF / Pin Animasi",
         "text": "Beberapa pengunduh tidak hanya mampu mengambil gambar statis tetapi juga GIF atau animasi.",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "Unduh satu klik",
         "text": "Cukup tempel tautan dan unduh. Tanpa iklan, tanpa waktu tunggu.",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

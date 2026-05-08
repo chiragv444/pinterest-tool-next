@@ -54,32 +54,32 @@
       {
         "title": "100%-ban ingyenes és korlátlan",
         "text": "Nincsenek rejtett költségek vagy prémium csomagok, nincsenek korlátok. Tölts le annyi Pinterest képet, amennyit csak szeretnél, teljesen ingyen. Nincs szükség Pinterest fiókra. A Pinterest képek letöltése eszközünk ingyenesen használható, korlátlanul használható és bármikor elérhető.",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Minden eszközön működik",
         "text": "Akár Androidot, iPhone-t, Windowst vagy Macet használsz, a letöltő zökkenőmentesen működik minden böngészőben, beleértve a Chrome-ot, a Safarit, az Edge-et és a Firefoxot is.",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Több formátumbeállítás",
         "text": "Bizonyos eszközök lehetővé teszik a formátumok (pl. JPG, PNG, WebP) közötti választást, vagy a letöltéshez szükséges felbontás kiválasztását.",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Nincs szükség szoftvertelepítésre",
         "text": "Mivel ezek az eszközök gyakran web alapúak, bármilyen eszközön vagy böngészőben használhatók telepítés nélkül.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "GIF-ek / animált pinek támogatása",
         "text": "Néhány letöltőprogram nemcsak statikus képeket, hanem GIF-eket vagy animációkat is képes letölteni.",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "Egy kattintásos letöltés",
         "text": "Csak másold be a linket és töltsd le. Nincsenek hirdetések, nincs várakozási idő.",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

@@ -54,32 +54,32 @@
       {
         "title": "100% Gratuit și Nelimitat",
         "text": "Fără taxe ascunse sau abonamente premium, fără limite. Descarcă oricâte imagini Pinterest dorești, absolut gratuit. Nu este necesar un cont Pinterest. Instrumentul nostru de descărcare a imaginilor Pinterest este gratuit, nelimitat și accesibil oricând.",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Funcționează pe toate dispozitivele",
         "text": "Indiferent dacă folosești Android, iPhone, Windows sau Mac, programul de descărcare funcționează fără probleme pe toate browserele, inclusiv Chrome, Safari, Edge și Firefox.",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Opțiuni multiple de format",
         "text": "Anumite instrumente vă permit să alegeți între formate (de exemplu, JPG, PNG, WebP) sau să selectați rezoluția de descărcare.",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Nu este necesară instalarea de software",
         "text": "Întrucât aceste instrumente sunt adesea bazate pe web, le puteți utiliza pe orice dispozitiv sau browser fără a instala nimic.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Suport pentru GIF-uri / Pin-uri animate",
         "text": "Unele programe de descărcare sunt capabile să preia nu doar imagini statice, ci și GIF-uri sau animații.",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "Descărcare cu un singur clic",
         "text": "Pur și simplu lipește linkul și descarcă. Fără reclame, fără timp de așteptare.",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

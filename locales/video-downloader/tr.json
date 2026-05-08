@@ -55,32 +55,32 @@
       {
         "title": "Tüm Pinterest medya türlerini destekler",
         "text": "Pinterest Video İndirici, pinvideodown ile videoları, GIF'leri, hikaye pinlerini ve hatta fikir pinlerini kaydedebilir.",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Kullanımı Tamamen Ücretsiz",
         "text": "Platformumuz tamamen ücretsizdir. Her şeyi basit ve şeffaf tutuyoruz; kullanım için gizli ücretler veya premium seviyeler yok. Maliyetleri karşılamak için minimum düzeyde reklam gösterebiliriz, ancak sizden asla ödeme yapmanız istenmez.",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Hızlı İndirme Hızları",
         "text": "Kaliteli bir araç, URL'leri hızlı bir şekilde işlemeli ve videoları uzun beklemelere yol açmadan saniyeler içinde kaydetmelidir.",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "Yazılım veya Kayıt Gerekmez",
         "text": "Herhangi bir yazılım, uzantı veya eklenti yüklemenize gerek yok. Pinterest videosunu indirin aracı tamamen tarayıcınızda çalışır.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Platformlar Arası Destek",
         "text": "Chrome, Safari, Firefox veya Edge kullanıyor olun, PinVideoDown masaüstü, tablet ve mobil gibi tüm tarayıcılarda ve cihazlarda mükemmel şekilde çalışır.",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Hızlı ve Güvenli İşlem",
         "text": "Bu araç, bağlantıları anında işler ve indirdiğiniz dosyaları saklamaz. Gizliliğiniz ve gezinme güvenliğiniz tamamen korunur.",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },

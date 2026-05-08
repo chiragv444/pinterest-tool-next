@@ -55,32 +55,32 @@
       {
         "title": "すべての Pinterest メディア タイプをサポート",
         "text": "Pinterest ビデオダウンローダーは、pinvideodown を使用してビデオ、GIF、ストーリー ピン、さらにはアイデア ピンを保存できます。",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "完全に無料でご利用いただけます",
         "text": "当社のプラットフォームは完全に無料です。シンプルで透明性のある運営を心がけており、利用料やプレミアムプランは一切ありません。費用を補うために最小限の広告を表示する場合がありますが、料金を請求されることは一切ありません。",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "高速ダウンロード速度",
         "text": "高品質なツールであれば、URL を素早く処理し、長時間待たされることなく数秒で動画を保存できます。",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "ソフトウェアやサインアップは不要",
         "text": "ソフトウェア、拡張機能、プラグインのインストールは不要です。Pinterest ビデオダウンローダールはブラウザ内で動作します。",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "クロスプラットフォームサポート",
         "text": "Chrome、Safari、Firefox、Edge のいずれを使用していても、PinVideoDown はデスクトップ、タブレット、モバイルなどのすべてのブラウザーとデバイスで完璧に動作します。",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "高速かつ安全な処理",
         "text": "このツールはリンクを瞬時に処理し、ダウンロードしたファイルを保存しません。プライバシーとブラウジングのセキュリティは完全に保護されます。",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },

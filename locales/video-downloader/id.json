@@ -55,32 +55,32 @@
       {
         "title": "Mendukung semua jenis media Pinterest",
         "text": "Pengunduh Video Pinterest dapat menyimpan video, GIF, pin cerita, dan bahkan pin ide dengan pinvideodown.",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Benar-benar Gratis untuk Digunakan",
         "text": "Platform kami sepenuhnya gratis. Kami menjaga semuanya tetap sederhana dan transparan, tanpa biaya tersembunyi, dan tanpa tingkatan premium. Kami mungkin menampilkan iklan minimal untuk menutupi biaya, tetapi Anda tidak akan pernah diminta membayar.",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Kecepatan Unduh Cepat",
         "text": "Alat yang berkualitas harus memproses URL dengan cepat dan menyimpan video dalam hitungan detik tanpa menunggu lama.",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "Tidak Perlu Perangkat Lunak atau Pendaftaran",
         "text": "Anda tidak perlu memasang perangkat lunak, ekstensi, atau plugin apa pun. Alat Unduh video Pinterest berfungsi sepenuhnya di peramban Anda.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Dukungan Lintas Platform",
         "text": "Baik Anda menggunakan Chrome, Safari, Firefox, atau Edge, PinVideoDown berfungsi sempurna di semua browser dan perangkat seperti desktop, tablet, dan seluler.",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Pemrosesan Cepat & Aman",
         "text": "Alat ini memproses tautan secara instan dan tidak menyimpan berkas unduhan Anda. Privasi dan keamanan penelusuran Anda sepenuhnya terlindungi.",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },

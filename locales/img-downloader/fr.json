@@ -54,32 +54,32 @@
       {
         "title": "100% gratuit et illimité",
         "text": "Aucun frais caché ni abonnement premium, aucune limite. Téléchargez gratuitement autant d'images Pinterest que vous le souhaitez. Aucun compte Pinterest n'est requis. Notre outil de Téléchargeur d'images Pinterest est gratuit, illimité et accessible à tout moment.",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Fonctionne sur tous les appareils",
         "text": "Que vous soyez sur Android, iPhone, Windows ou Mac, le téléchargeur fonctionne parfaitement sur tous les navigateurs, y compris Chrome, Safari, Edge et Firefox.",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Options de format multiples",
         "text": "Certains outils vous permettent de choisir parmi les formats (par exemple, JPG, PNG, WebP) ou de sélectionner la résolution à télécharger.",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Aucune installation de logiciel requise",
         "text": "Comme ces outils sont souvent basés sur le Web, vous pouvez les utiliser sur n'importe quel appareil ou navigateur sans rien installer.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Prise en charge des GIF / épingles animées",
         "text": "Certains logiciels de téléchargement sont capables de récupérer non seulement des images statiques, mais aussi des GIF ou des animations.",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "Téléchargement en un clic",
         "text": "Il suffit de coller le lien et de télécharger. Sans publicité, sans attente.",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

@@ -54,32 +54,32 @@
       {
         "title": "100% Ücretsiz ve Sınırsız",
         "text": "Gizli ücretler veya premium planlar yok, sınırlama yok. İstediğiniz kadar Pinterest görselini tamamen ücretsiz indirin. Pinterest hesabı gerekmez. Pinterest Görselini İndirin aracımız ücretsiz, sınırsız ve istediğiniz zaman erişilebilir.",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Tüm Cihazlarda Çalışır",
         "text": "Android, iPhone, Windows veya Mac'te olmanız fark etmeksizin, indirici Chrome, Safari, Edge ve Firefox dahil tüm tarayıcılarda sorunsuz çalışır.",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Çoklu Biçim Seçenekleri",
         "text": "Bazı araçlar, formatlar (örneğin JPG, PNG, WebP) arasından seçim yapmanıza veya hangi çözünürlüğün indirileceğini seçmenize olanak tanır.",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Yazılım Kurulumu Gerekmez",
         "text": "Bu araçlar çoğunlukla web tabanlı olduğundan, herhangi bir cihaz veya tarayıcıda hiçbir şey yüklemeden kullanabilirsiniz.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "GIF'ler / Animasyonlu Pinler için destek",
         "text": "Bazı indiriciler yalnızca statik resimleri değil aynı zamanda GIF'leri veya animasyonları da indirebilir.",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "Tek tıkla indirme",
         "text": "Sadece bağlantıyı yapıştırın ve indirin. Reklam yok, bekleme süresi yok.",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

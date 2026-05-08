@@ -54,32 +54,32 @@
       {
         "title": "100%無料＆無制限",
         "text": "隠れた料金やプレミアムプラン、制限はありません。Pinterest画像を好きなだけ無料でダウンロードできます。Pinterestアカウントは不要です。Pinterestの画像をダウンロードツールは無料で、無制限にご利用いただけます。いつでもご利用いただけます。",
-        "icon": "cloud-download.svg"
+        "icon": "free.svg"
       },
       {
         "title": "すべてのデバイスで動作",
         "text": "Android、iPhone、Windows、Mac のいずれを使用していても、ダウンローダーは Chrome、Safari、Edge、Firefox を含むすべてのブラウザーでスムーズに動作します。",
-        "icon": "mp3-audio.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "複数のフォーマットオプション",
         "text": "特定のツールでは、形式（JPG、PNG、WebP など）を選択したり、ダウンロードする解像度を選択したりできます。",
-        "icon": "multi-platform.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "ソフトウェアのインストールは不要",
         "text": "これらのツールは Web ベースであることが多いため、何もインストールせずにどのデバイスやブラウザでも使用できます。",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "GIF / アニメーションピンのサポート",
         "text": "一部のダウンローダーは、静止画像だけでなく、GIF やアニメーションも取得できます。",
-        "icon": "watch.svg"
+        "icon": "animated.svg"
       },
       {
         "title": "ワンクリックダウンロード",
         "text": "リンクを貼り付けてダウンロードするだけ。広告なし、待ち時間なし。",
-        "icon": "security.svg"
+        "icon": "one-click.svg"
       }
     ]
   },

@@ -55,32 +55,32 @@
       {
         "title": "Compatível com todos os tipos de mídia do Pinterest",
         "text": "O Baixar vídeos do Pinterest permite salvar vídeos, GIFs, pins de stories e até mesmo pins de ideias com o pinvideodown.",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Uso totalmente gratuito",
         "text": "Nossa plataforma é totalmente gratuita. Mantemos tudo simples e transparente, sem taxas ocultas de uso ou planos premium. Podemos exibir anúncios mínimos para cobrir os custos, mas você nunca será solicitado a pagar.",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Velocidades de download rápidas",
         "text": "Uma ferramenta de qualidade deve processar URLs rapidamente e salvar vídeos em segundos, sem longas esperas.",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "Não é necessário nenhum software ou cadastro",
         "text": "Você não precisa instalar nenhum software, extensão ou plugin. A ferramenta para baixar vídeo do Pinterest funciona diretamente no seu navegador.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Suporte multiplataforma",
         "text": "Independentemente de você usar o Chrome, Safari, Firefox ou Edge, o PinVideoDown funciona perfeitamente em todos os navegadores e dispositivos, como computadores, tablets e celulares.",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Processamento rápido e seguro",
         "text": "Esta ferramenta processa links instantaneamente e não armazena seus arquivos baixados. Sua privacidade e segurança de navegação estão totalmente protegidas.",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },

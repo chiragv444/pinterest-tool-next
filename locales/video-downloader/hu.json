@@ -55,32 +55,32 @@
       {
         "title": "Támogatja az összes Pinterest médiatípust",
         "text": "A Pinterest videóletöltő videókat, GIF-eket, történetpineket és akár ötletpineket is menthet a pinvideodown segítségével.",
-        "icon": "cloud-download.svg"
+        "icon": "all-media.svg"
       },
       {
         "title": "Teljesen ingyenesen használható",
         "text": "Platformunk teljesen ingyenes. Mindent egyszerűen és átláthatóan használunk, nincsenek rejtett használati költségek, nincsenek prémium csomagok. Előfordulhat, hogy minimális hirdetéseket jelenítünk meg a költségek fedezésére, de soha nem fogunk fizetni érte.",
-        "icon": "mp3-audio.svg"
+        "icon": "free.svg"
       },
       {
         "title": "Gyors letöltési sebesség",
         "text": "Egy minőségi eszköznek gyorsan kell feldolgoznia az URL-eket, és másodpercek alatt, hosszú várakozási idő nélkül kell mentenie a videókat.",
-        "icon": "multi-platform.svg"
+        "icon": "fast.svg"
       },
       {
         "title": "Nincs szükség szoftverre vagy regisztrációra",
         "text": "Nem kell semmilyen szoftvert, bővítményt vagy bővítményt telepítened. A Pinterest videó letöltése eszköz teljesen a böngésződben működik.",
-        "icon": "no-register.svg"
+        "icon": "signup.svg"
       },
       {
         "title": "Platformfüggetlen támogatás",
         "text": "Akár Chrome-ot, Safarit, Firefoxot vagy Edge-et használsz, a PinVideoDown tökéletesen működik minden böngészőben és eszközön, például asztali számítógépen, táblagépen és mobilon.",
-        "icon": "watch.svg"
+        "icon": "multi-platform.svg"
       },
       {
         "title": "Gyors és biztonságos feldolgozás",
         "text": "Ez az eszköz azonnal feldolgozza a linkeket, és nem tárolja a letöltött fájlokat. Az Ön adatainak védelme és böngészési biztonsága teljes mértékben biztosított.",
-        "icon": "security.svg"
+        "icon": "safe-secure.svg"
       }
     ]
   },
