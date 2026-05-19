@@ -38,7 +38,7 @@ function getBaseRoute(route) {
 export default function Layout({ children, lang = 'en', nav = defaultNav, currentRoute = '/', meta = defaultMeta }) {
   const supportedLanguages = getSupportedLanguages();
   const normalizedRoute = normalizeRoute(currentRoute);
-  const canonicalPath = normalizedRoute === '/' ? '/' : `${normalizedRoute}/`;
+  const canonicalPath = normalizedRoute === '/' ? 'https://pinvideodown.com/' : `https://pinvideodown.com${normalizedRoute}/`;
   const baseRoute = getBaseRoute(currentRoute);
   const showAlternate = TRANSLATABLE_ROUTES.has(baseRoute);
 
@@ -63,7 +63,7 @@ export default function Layout({ children, lang = 'en', nav = defaultNav, curren
           <>
             {supportedLanguages.map((language) => {
               const hrefLangPath = language === 'en' ? baseRoute : `/${language}${baseRoute === '/' ? '' : baseRoute}`;
-              const relativePath = hrefLangPath === '/' ? '/' : `${hrefLangPath}/`;
+              const relativePath = hrefLangPath === '/' ? 'https://pinvideodown.com/' : `https://pinvideodown.com${hrefLangPath}/`;
               return <link key={language} rel="alternate" hrefLang={language} href={relativePath} />;
             })}
             <link rel="alternate" hrefLang="x-default" href={canonicalPath} />
