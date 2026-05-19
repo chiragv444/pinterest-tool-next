@@ -10,29 +10,6 @@ class MyDocument extends Document {
           <Main />
           <NextScript />
           <Script
-            strategy="beforeInteractive"
-            dangerouslySetInnerHTML={{
-              __html: `
-                window.__fixAlternateLinks = function() {
-                  const siteUrl = window.location.origin.replace(/\\/$/, '');
-                  const alternateLinks = document.querySelectorAll('link[rel="alternate"][hrefLang]');
-                  alternateLinks.forEach(link => {
-                    const href = link.getAttribute('href');
-                    if (href && (href.startsWith('http://localhost') || href.startsWith('http://127.0.0.1'))) {
-                      const path = href.replace(/^https?:\\/\\/[^/]+/, '');
-                      link.setAttribute('href', siteUrl + path);
-                    }
-                  });
-                };
-                if (document.readyState === 'loading') {
-                  document.addEventListener('DOMContentLoaded', window.__fixAlternateLinks);
-                } else {
-                  window.__fixAlternateLinks();
-                }
-              `,
-            }}
-          />
-          <Script
             async
             src="https://www.googletagmanager.com/gtag/js?id=G-FFD45968XK"
             strategy="afterInteractive"

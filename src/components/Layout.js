@@ -3,7 +3,6 @@ import Script from 'next/script';
 import Header from './Header';
 import Footer from './Footer';
 import { getSupportedLanguages } from '../lib/i18n';
-import { useSiteUrl } from '../lib/siteUrlContext';
 
 const defaultNav = {
   video: 'Pinterest Video Downloader',
@@ -38,10 +37,8 @@ function getBaseRoute(route) {
 
 export default function Layout({ children, lang = 'en', nav = defaultNav, currentRoute = '/', meta = defaultMeta }) {
   const supportedLanguages = getSupportedLanguages();
-  const siteUrl = useSiteUrl();
   const normalizedRoute = normalizeRoute(currentRoute);
   const canonicalPath = normalizedRoute === '/' ? '/' : `${normalizedRoute}/`;
-  const canonicalUrl = `${siteUrl}${canonicalPath}`;
   const baseRoute = getBaseRoute(currentRoute);
   const showAlternate = TRANSLATABLE_ROUTES.has(baseRoute);
 
@@ -61,16 +58,15 @@ export default function Layout({ children, lang = 'en', nav = defaultNav, curren
         <meta name="author" content="pinvideodown.com" />
         <meta name="publisher" content="pinvideodown.com" />
         <meta name="theme-color" content="#ffffff" />
-        <link rel="canonical" href={canonicalUrl} />
+        <link rel="canonical" href={canonicalPath} />
         {showAlternate && (
           <>
             {supportedLanguages.map((language) => {
               const hrefLangPath = language === 'en' ? baseRoute : `/${language}${baseRoute === '/' ? '' : baseRoute}`;
               const relativePath = hrefLangPath === '/' ? '/' : `${hrefLangPath}/`;
-              const href = `${siteUrl}${relativePath}`;
-              return <link key={language} rel="alternate" hrefLang={language} href={href} />;
+              return <link key={language} rel="alternate" hrefLang={language} href={relativePath} />;
             })}
-            <link rel="alternate" hrefLang="x-default" href={canonicalUrl} />
+            <link rel="alternate" hrefLang="x-default" href={canonicalPath} />
           </>
         )}
         <Script 
