@@ -5,8 +5,12 @@ export function getSiteUrl(req) {
   }
 
   if (req?.headers) {
-    const protocol = (req.headers['x-forwarded-proto'] || req.headers['x-forwarded-protocol'] || 'http').split(',')[0].trim();
-    const host = req.headers.host || 'localhost:3000';
+    const forwardedProtoHeader = req.headers['x-forwarded-proto'] || req.headers['x-forwarded-protocol'];
+    const forwardedHeader = req.headers.forwarded;
+    const protocolFromForwarded = forwardedHeader?.split(';').find((part) => part.trim().startsWith('proto='))?.split('=')[1];
+    const protocol = (forwardedProtoHeader || protocolFromForwarded || 'http').split(',')[0].trim();
+
+    const host = req.headers['x-forwarded-host'] || req.headers.host || 'localhost:3000';
     return `${protocol}://${host}`.replace(/\/$/, '');
   }
 
