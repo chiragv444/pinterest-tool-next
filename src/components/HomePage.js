@@ -40,15 +40,15 @@ export default function HomePage({ hero, form, home_content, what_section, why_s
     <>
       <HeroSection hero={hero} form={form} />
 
-      <div className="home_content container px-5 mx-auto py-6">
+      <div className="home_content container px-5 mx-auto py-4">
         <HtmlBlock html={home_content?.text} />
       </div>
 
-      <div className="what_section container px-5 mx-auto py-6">
+      <div className="what_section container px-5 mx-auto py-4">
         <HtmlBlock html={what_section?.text} />
       </div>
 
-      <section id="why-section" className="py-6">
+      <section id="why-section" className="py-4">
         <div className="container px-5 mx-auto bg-[#fff3f5] py-12">
           <div className="mb-8 text-center">
             <h2 className="text-3xl font-semibold mb-3">{why_section?.title}</h2>
@@ -74,11 +74,11 @@ export default function HomePage({ hero, form, home_content, what_section, why_s
       </section>
 
       {how_section && (
-        <section id="how-section" className="py-12">
+        <section id="how-section" className="py-4">
           <div className="container mx-auto px-5">
             <div className="text-center mb-8">
               <h2 className="text-3xl font-semibold mb-3">{how_section.title}</h2>
-              {how_section.intro && <p className="max-w-3xl mx-auto text-slate-700">{how_section.intro}</p>}
+              {/* {how_section.intro && <p className="max-w-3xl mx-auto text-slate-700">{how_section.intro}</p>} */}
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-2">
@@ -96,7 +96,7 @@ export default function HomePage({ hero, form, home_content, what_section, why_s
       )}
 
       {features && featList.length > 0 && (
-        <section id="features-section" className="py-12">
+        <section id="features-section" className="py-4">
           <div className="container mx-auto px-5">
             <div className="text-center mb-8">
               <h2 className="text-3xl font-semibold mb-3">{features.title || 'Features'}</h2>
@@ -129,7 +129,7 @@ export default function HomePage({ hero, form, home_content, what_section, why_s
       )}
 
       {faq && faq.items && faq.items.length > 0 && (
-        <section id="faq-section" className="py-12">
+        <section id="faq-section" className="py-4">
           <div className="container px-5 mx-auto">
             <div className="text-center mb-6">
               <h2 className="text-3xl font-semibold">{faq.title}</h2>

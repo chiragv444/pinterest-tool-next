@@ -19,7 +19,7 @@
     "clear": "Clear"
   },
   "home_content": {
-    "text": "<h2>Pinterest 影片下載器 - Pinvideodown</h2><p><a href='/zh/' class='internal-link'>Pinterest 影片下載器</a> 是一個簡單、快速且可靠的平台。它旨在幫助用戶直接從 Pinterest 下載他們喜愛的影片、靈感圖片和 GIF 動圖。只需一個 Pinterest 鏈接，即可轉換並下載高清媒體文件，無需額外軟體或登入帳戶。</p><p>我們的 下載 Pinterest 視頻工具支援所有類型的 Pinterest 媒體，並可在所有裝置上運行，包括手機、平板電腦和桌上型電腦。無論您是想保存內容以供離線觀看、為個人專案尋找靈感，還是將影片用於教育用途，這款下載器都能讓整個過程變得輕鬆便捷。</p>"
+    "text": "<h2>Pinterest 影片下載器 - Pinvideodown</h2><p class='mb-3'><a href='/zh/' class='internal-link'>Pinterest 影片下載器</a> 是一個簡單、快速且可靠的平台。它旨在幫助用戶直接從 Pinterest 下載他們喜愛的影片、靈感圖片和 GIF 動圖。只需一個 Pinterest 鏈接，即可轉換並下載高清媒體文件，無需額外軟體或登入帳戶。</p><p>我們的 下載 Pinterest 視頻工具支援所有類型的 Pinterest 媒體，並可在所有裝置上運行，包括手機、平板電腦和桌上型電腦。無論您是想保存內容以供離線觀看、為個人專案尋找靈感，還是將影片用於教育用途，這款下載器都能讓整個過程變得輕鬆便捷。</p>"
   },
   "what_section": {
     "text": "<h2>什麼是Pinterest 影片下載器？</h2><p>Pinterest 影片下載器是一種工具、網站或應用程序，可讓用戶將 Pinterest 上的影片儲存到自己的裝置上。這些工具通常透過從 Pinterest 貼文 URL 中提取影片檔案並提供下載連結來運作。一些常用的方法包括使用線上下載網站、瀏覽器擴充功能和行動應用程式。</p>"

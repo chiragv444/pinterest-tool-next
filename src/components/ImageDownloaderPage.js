@@ -40,15 +40,15 @@ export default function ImageDownloaderPage({ hero, form, home_content, what_sec
     <>
       <HeroSection hero={hero} form={form} />
 
-      <div className="home_content container mx-auto py-6 px-5">
+      <div className="home_content container mx-auto py-4 px-5">
         <HtmlBlock html={home_content?.text} />
       </div>
 
-      <div className="what_section container px-5 mx-auto py-6">
+      <div className="what_section container px-5 mx-auto py-4">
         <HtmlBlock html={what_section?.text} />
       </div>
 
-      <section id="why-section" className="py-6">
+      <section id="why-section" className="py-4">
         <div className="container px-5 mx-auto bg-[#fff3f5] py-12">
           <div className="mb-8">
             <h2 className="text-3xl font-semibold mb-3 text-center">{why_section?.title}</h2>
@@ -84,13 +84,13 @@ export default function ImageDownloaderPage({ hero, form, home_content, what_sec
       </section>
 
       {how_section && (
-        <section id="how-section" className="py-12">
+        <section id="how-section" className="py-4">
           <div className="container px-5 mx-auto">
             <div className="text-center mb-8">
               <h2 className="text-3xl font-semibold mb-3">{how_section.title}</h2>
-              {how_section.intro && (
+              {/* {how_section.intro && (
                 <p className="max-w-3xl mx-auto">{how_section.intro}</p>
-              )}
+              )} */}
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
@@ -108,7 +108,7 @@ export default function ImageDownloaderPage({ hero, form, home_content, what_sec
       )}
 
       {features && featList.length > 0 && (
-        <section id="features-section" className="py-12 bg-white">
+        <section id="features-section" className="py-4 bg-white">
           <div className="container px-5 mx-auto">
             <div className="text-center mb-8">
               <h2 className="text-3xl font-semibold mb-3">{features.title || 'Features'}</h2>
@@ -141,7 +141,7 @@ export default function ImageDownloaderPage({ hero, form, home_content, what_sec
       )}
 
       {faq && Array.isArray(faq.items) && faq.items.length > 0 && (
-        <section id="faq-section" className="py-12">
+        <section id="faq-section" className="py-4">
           <div className="container px-5 mx-auto">
             <div className="text-center mb-6">
               <h2 className="text-3xl font-semibold">{faq.title || 'Frequently Asked Questions (FAQs)'}</h2>

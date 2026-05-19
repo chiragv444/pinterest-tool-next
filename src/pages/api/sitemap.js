@@ -1,8 +1,9 @@
 import { readFileSync } from 'fs';
 import { join } from 'path';
+import { getSiteUrl } from '../../lib/siteUrl';
 
 export default function handler(req, res) {
-  const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000').replace(/\/$/, '');
+  const siteUrl = getSiteUrl(req);
 
   try {
     // Read the static sitemap from public folder

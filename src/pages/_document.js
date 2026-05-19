@@ -4,7 +4,7 @@ import Script from 'next/script';
 class MyDocument extends Document {
   render() {
     return (
-      <Html>
+      <Html lang={this.props.__NEXT_DATA__.props?.pageProps?.lang || 'en'}>
         <Head />
         <body>
           <Main />

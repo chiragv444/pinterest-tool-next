@@ -19,7 +19,7 @@
     "clear": "Clear"
   },
   "home_content": {
-    "text": "<h2>Pinterest 圖片下載器 - Pinvideodown</h2><p>我們的 <a href='/zh/pinterest-image-downloader/' class='internal-link'>Pinterest 圖片下載器</a> 是一款簡單可靠的線上工具，旨在幫助您將任何 Pinterest 圖片直接儲存到您的裝置。無論您需要靈感照片、精美圖片、桌布、設計圖或創意圖釘，我們的下載器都能讓整個過程快速、輕鬆且無限。</p><p>Pinterest 圖片下載器工具是基於網頁的實用程式或軟體，讓使用者可以將 Pinterest 上的圖片（或 GIF）儲存到自己的裝置上。雖然 Pinterest 本身提供了一些保存 Pin 圖的有限選項，但下載工具可以輕鬆提取高品質媒體，通常無需手動截圖或進行複雜的操作。這些工具對於設計師、部落客、研究人員或任何想要創建個人離線視覺靈感庫的人來說都特別有用。</p>"
+    "text": "<h2>Pinterest 圖片下載器 - Pinvideodown</h2><p class='mb-3'>我們的 <a href='/zh/pinterest-image-downloader/' class='internal-link'>Pinterest 圖片下載器</a> 是一款簡單可靠的線上工具，旨在幫助您將任何 Pinterest 圖片直接儲存到您的裝置。無論您需要靈感照片、精美圖片、桌布、設計圖或創意圖釘，我們的下載器都能讓整個過程快速、輕鬆且無限。</p><p>Pinterest 圖片下載器工具是基於網頁的實用程式或軟體，讓使用者可以將 Pinterest 上的圖片（或 GIF）儲存到自己的裝置上。雖然 Pinterest 本身提供了一些保存 Pin 圖的有限選項，但下載工具可以輕鬆提取高品質媒體，通常無需手動截圖或進行複雜的操作。這些工具對於設計師、部落客、研究人員或任何想要創建個人離線視覺靈感庫的人來說都特別有用。</p>"
   },
   "what_section": {
     "text": "<h2>什麼是Pinterest 圖片下載器？</h2><p>PinVideoDown 出品的 Pinterest 圖片下載器是一款線上工具，旨在從 Pinterest 提取並保存高清、全高清和 4K 畫質的圖片。無論您需要靈感板、旅行照片、藝術作品、食譜或產品圖片，我們的下載器都能快速安全地保存它們。</p>"
