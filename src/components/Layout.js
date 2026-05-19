@@ -4,6 +4,7 @@ import Header from './Header';
 import Footer from './Footer';
 import { getSupportedLanguages } from '../lib/i18n';
 import { getSiteUrl } from '../lib/siteUrl';
+import { useSiteUrl } from '../lib/siteUrlContext';
 
 const defaultNav = {
   video: 'Pinterest Video Downloader',
@@ -36,9 +37,10 @@ function getBaseRoute(route) {
   return normalized;
 }
 
-export default function Layout({ children, lang = 'en', nav = defaultNav, currentRoute = '/', meta = defaultMeta }) {
+export default function Layout({ children, lang = 'en', nav = defaultNav, currentRoute = '/', meta = defaultMeta, siteUrl: siteUrlProp }) {
   const supportedLanguages = getSupportedLanguages();
-  const siteUrl = getSiteUrl();
+  const siteUrlContext = useSiteUrl();
+  const siteUrl = siteUrlProp || siteUrlContext || getSiteUrl();
   const normalizedRoute = normalizeRoute(currentRoute);
   const canonicalPath = normalizedRoute === '/' ? '/' : `${normalizedRoute}/`;
   const canonicalUrl = `${siteUrl}${canonicalPath}`;
