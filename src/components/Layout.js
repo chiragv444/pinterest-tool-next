@@ -3,7 +3,6 @@ import Script from 'next/script';
 import Header from './Header';
 import Footer from './Footer';
 import { getSupportedLanguages } from '../lib/i18n';
-import { getSiteUrl } from '../lib/siteUrl';
 import { useSiteUrl } from '../lib/siteUrlContext';
 
 const defaultNav = {
@@ -37,10 +36,9 @@ function getBaseRoute(route) {
   return normalized;
 }
 
-export default function Layout({ children, lang = 'en', nav = defaultNav, currentRoute = '/', meta = defaultMeta, siteUrl: siteUrlProp }) {
+export default function Layout({ children, lang = 'en', nav = defaultNav, currentRoute = '/', meta = defaultMeta }) {
   const supportedLanguages = getSupportedLanguages();
-  const siteUrlContext = useSiteUrl();
-  const siteUrl = siteUrlProp || siteUrlContext || getSiteUrl();
+  const siteUrl = useSiteUrl();
   const normalizedRoute = normalizeRoute(currentRoute);
   const canonicalPath = normalizedRoute === '/' ? '/' : `${normalizedRoute}/`;
   const canonicalUrl = `${siteUrl}${canonicalPath}`;
