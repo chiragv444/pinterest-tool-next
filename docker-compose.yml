@@ -1,0 +1,9 @@
+services:
+  pinvideodown:
+    build: .
+    container_name: pinvideodown
+    restart: unless-stopped
+    ports:
+      - "3002:3002"
+    env_file:
+      - .env

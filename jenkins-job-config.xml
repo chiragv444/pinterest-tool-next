@@ -1,0 +1,67 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<project>
+  <actions/>
+  <description>pinvideodown.com — Pinterest Video Downloader (Next.js + Docker)</description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <scm class="hudson.scm.NullSCM"/>
+  <canRoam>true</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <triggers/>
+  <concurrentBuild>false</concurrentBuild>
+  <builders>
+    <hudson.tasks.Shell>
+      <command>#!/bin/bash
+set -e
+
+PROJECT_DIR=&quot;/var/www/pinterest-tool-next&quot;
+
+cd &quot;$PROJECT_DIR&quot; || { echo &quot;❌ Directory not found&quot;; exit 1; }
+
+echo &quot;&gt;&gt;&gt; Pulling latest code&quot;
+git pull
+
+echo &quot;&gt;&gt;&gt; Rebuilding &amp; restarting Docker container&quot;
+docker compose up -d --build
+
+echo &quot;&gt;&gt;&gt; Verifying container is healthy&quot;
+sleep 5
+if curl -sf -o /dev/null http://localhost:3002/; then
+  echo &quot;✅ App is up and responding on :3002&quot;
+else
+  echo &quot;❌ App failed health check&quot;
+  docker compose logs --tail 30
+  exit 1
+fi
+
+echo &quot;&gt;&gt;&gt; Purging Cloudflare cache for: ${SUBDOMAIN}&quot;
+curl -X POST &quot;https://api.cloudflare.com/client/v4/zones/${CLOUDFLARE_ZONE_ID}/purge_cache&quot; \
+  -H &quot;Authorization: Bearer ${CLOUDFLARE_API_TOKEN}&quot; \
+  -H &quot;Content-Type: application/json&quot; \
+  --data &quot;{
+    \&quot;files\&quot;: [
+      \&quot;https://${SUBDOMAIN}/*\&quot;
+    ]
+  }&quot;
+
+echo &quot;✅ Deploy complete&quot;
+</command>
+      <configuredLocalRules/>
+    </hudson.tasks.Shell>
+  </builders>
+  <publishers/>
+  <buildWrappers>
+    <EnvInjectBuildWrapper plugin="envinject@2.926.v69c9b_3896a_96">
+      <info>
+        <propertiesFilePath>/var/www/pinterest-tool-next/.env</propertiesFilePath>
+        <secureGroovyScript plugin="script-security@1378.vf25626395f49">
+          <script></script>
+          <sandbox>true</sandbox>
+        </secureGroovyScript>
+        <loadFilesFromMaster>false</loadFilesFromMaster>
+      </info>
+    </EnvInjectBuildWrapper>
+  </buildWrappers>
+</project>
