@@ -8,7 +8,7 @@ Disallow: /api/
 Disallow: /uploads/
 Allow: /
 
-Sitemap: ${siteUrl}/api/sitemap
+Sitemap: ${siteUrl}/sitemap.xml
 `;
 
   res.setHeader('Content-Type', 'text/plain');
