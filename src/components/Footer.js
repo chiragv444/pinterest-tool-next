@@ -13,6 +13,11 @@ export default function Footer({lang = 'en'}) {
 
           <ul className="flex flex-wrap gap-4 md:gap-6 font-bold text-sm md:text-base items-center justify-center">
             <li className="hover:text-[#cb2444] whitespace-nowrap">
+              <Link href="/blogs/" className="text-decoration-none" itemProp="name">
+                Blogs
+              </Link>
+            </li>
+            <li className="hover:text-[#cb2444] whitespace-nowrap">
               <Link href="/privacy-policy/" className="text-decoration-none" itemProp="name">
                 Privacy Policy
               </Link>
