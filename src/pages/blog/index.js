@@ -1,12 +1,22 @@
 import Link from "next/link";
+import { useState } from "react";
 import Layout from "../../components/Layout";
 import { getAllBlogs } from "../../data/blogs";
+import { getBlogImageSrc } from "../../lib/blogImages";
 import Image from "next/image";
 
+const BLOGS_PER_PAGE = 9;
+
 export default function BlogsPage({ blogs }) {
-  const blogsToShow = [...blogs].sort(
+  const [currentPage, setCurrentPage] = useState(1);
+  const sortedBlogs = [...blogs].sort(
     (a, b) => Number(b.blog_id) - Number(a.blog_id),
   );
+  const totalPages = Math.max(1, Math.ceil(sortedBlogs.length / BLOGS_PER_PAGE));
+  const safePage = Math.min(Math.max(currentPage, 1), totalPages);
+  const startIndex = (safePage - 1) * BLOGS_PER_PAGE;
+  const blogsToShow = sortedBlogs.slice(startIndex, startIndex + BLOGS_PER_PAGE);
+  const pageNumbers = Array.from({ length: totalPages }, (_, index) => index + 1);
 
   return (
     <Layout
@@ -34,20 +44,18 @@ export default function BlogsPage({ blogs }) {
           <div className=" w-full flex flex-wrap gap-[3%]">
             {blogsToShow.map((blog) => (
               <article
-                key={blog.slug}
+                key={`${blog.slug}-${blog.blog_id}`}
                 className="overflow-hidden rounded-xl w-full sm:w-[48.5%] lg:w-[31.33%] border border-slate-200 bg-white shadow-sm hover:shadow-md mb-8"
               >
                 <Link href={`/blog/${blog.slug}/`} className="block group">
                   <div className="relative overflow-hidden bg-slate-100 group-hover:scale-105 transition-transform duration-700">
                     <Image
-                      src={`/src/assets/${blog.image}.png`}
-                      alt={blog.title}
+                      src={getBlogImageSrc(blog)}
+                      // alt={blog.title}
+                      alt={"Pinterest video downloader"}
                       width={460}
                       height={208}
                       className="h-auto w-[1280px] object-cover"
-                      onError={(event) => {
-                        event.currentTarget.src = "/img/PinVideoDown.webp";
-                      }}
                     />
                   </div>
                   <div className="p-5">
@@ -81,29 +89,52 @@ export default function BlogsPage({ blogs }) {
             ))}
           </div>
 
-          {/* Sidebar */}
-          {/* <aside className="order-first lg:order-last">
-            <div className="sticky top-8 space-y-6">
-              <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-                <span className="mb-4 text-lg font-bold">Popular Posts</span>
-                <ul className="space-y-4">
-                  {popularPosts.map((p) => (
-                    <li key={p.slug} className="flex items-start gap-3">
-                      <div>
-                        <Link
-                          href={`/blog/${p.slug}/`}
-                          className="font-semibold text-slate-900"
-                        >
-                          {p.title}
-                        </Link>
-                        <p className="mt-1 text-xs text-slate-500">{p.date}</p>
-                      </div>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-          </aside> */}
+          <div className="mt-4 flex flex-wrap items-center justify-center gap-3">
+            <button
+              type="button"
+              onClick={() => setCurrentPage((page) => Math.max(page - 1, 1))}
+              className={`rounded-full border px-4 py-2 text-sm font-semibold ${
+                safePage === 1
+                  ? "cursor-not-allowed border-slate-200 text-slate-400"
+                  : "border-slate-300 text-slate-700 hover:bg-slate-100"
+              }`}
+              disabled={safePage === 1}
+            >
+              Previous
+            </button>
+
+            {pageNumbers.map((page) => {
+              const isActive = page === safePage;
+
+              return (
+                <button
+                  key={page}
+                  type="button"
+                  onClick={() => setCurrentPage(page)}
+                  className={`rounded-full px-4 py-2 text-sm font-semibold ${
+                    isActive
+                      ? "bg-[#cb2444] text-white"
+                      : "border border-slate-300 text-slate-700 hover:bg-slate-100"
+                  }`}
+                >
+                  {page}
+                </button>
+              );
+            })}
+
+            <button
+              type="button"
+              onClick={() => setCurrentPage((page) => Math.min(page + 1, totalPages))}
+              className={`rounded-full border px-4 py-2 text-sm font-semibold ${
+                safePage === totalPages
+                  ? "cursor-not-allowed border-slate-200 text-slate-400"
+                  : "border-slate-300 text-slate-700 hover:bg-slate-100"
+              }`}
+              disabled={safePage === totalPages}
+            >
+              Next
+            </button>
+          </div>
         </div>
       </section>
     </Layout>
