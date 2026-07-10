@@ -1,23 +1,38 @@
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
+import { useRef } from 'react';
 import { useRouter } from 'next/router';
 import Layout from '../../components/Layout';
 import { getAllBlogs } from '../../data/blogs';
 
+const BLOG_PAGE_STORAGE_KEY = 'blog-page-number';
+
 export default function BlogsPage({ blogs }) {
   const router = useRouter();
-  const pageSize = 2; // items per page
+  const pageSize = 10; // items per page
   const [currentPage, setCurrentPage] = useState(1);
+  const hasLoadedSavedPage = useRef(false);
 
   useEffect(() => {
-    const q = router.query.page;
-    if (q) {
-      const p = parseInt(Array.isArray(q) ? q[0] : q, 10);
-      if (!isNaN(p) && p > 0) setCurrentPage(p);
-    }
-  }, [router.query.page]);
+    if (typeof window !== 'undefined') {
+      if (!hasLoadedSavedPage.current) {
+        hasLoadedSavedPage.current = true;
+        const savedPage = window.localStorage.getItem(BLOG_PAGE_STORAGE_KEY);
+        const parsedPage = parseInt(savedPage || '1', 10);
 
-  const totalPages = Math.max(1, Math.ceil(blogs.length / pageSize));
+        if (!isNaN(parsedPage) && parsedPage > 0) {
+          setCurrentPage(parsedPage);
+        }
+
+        return;
+      }
+
+      window.localStorage.setItem(BLOG_PAGE_STORAGE_KEY, String(currentPage));
+    }
+  }, []);
+
+  const sortedBlogs = [...blogs].sort((a, b) => Number(b.blog_id) - Number(a.blog_id));
+  const totalPages = Math.max(1, Math.ceil(sortedBlogs.length / pageSize));
 
   useEffect(() => {
     if (currentPage > totalPages) {
@@ -25,17 +40,22 @@ export default function BlogsPage({ blogs }) {
     }
   }, [totalPages]);
 
+  useEffect(() => {
+    if (typeof window !== 'undefined' && hasLoadedSavedPage.current) {
+      window.localStorage.setItem(BLOG_PAGE_STORAGE_KEY, String(currentPage));
+    }
+  }, [currentPage]);
+
   function changePage(page) {
     if (page < 1 || page > totalPages) return;
     setCurrentPage(page);
-    // update URL query without full reload
-    router.push(`/blogs/?page=${page}`, undefined, { shallow: true });
+    router.replace('/blogs/', undefined, { shallow: true });
     if (typeof window !== 'undefined') window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
   const start = (currentPage - 1) * pageSize;
-  const blogsToShow = blogs.slice(start, start + pageSize);
-  const popularPosts = blogs.slice(0, 4);
+  const blogsToShow = sortedBlogs.slice(start, start + pageSize);
+  const popularPosts = sortedBlogs.slice(0, 4);
 
   return (
     <Layout currentRoute="/blogs" meta={{ title: 'Pinterest Video Downloader- Download HD Videos', description: 'Easily download Pinterest videos in high quality. Convert videos with our fast, free online Pinterest downloader.'}}>
@@ -52,7 +72,7 @@ export default function BlogsPage({ blogs }) {
             <div className="grid gap-6 md:grid-cols-2">
               {blogsToShow.map((blog) => (
                 <article key={blog.slug} className="overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
-                  <Link href={`/blogs/${blog.slug}/`} className="block">
+                  <Link href={`/blog/${blog.slug}/`} className="block">
                     <div className="relative h-52 overflow-hidden bg-slate-100">
                       <img
                         src={`/src/assets/${blog.image}.webp`}
@@ -81,7 +101,8 @@ export default function BlogsPage({ blogs }) {
             </div>
 
             {/* Pagination controls */}
-            <div className="mt-8 flex items-center justify-center gap-3">
+            {totalPages > 1 && (
+              <div className="mt-8 flex items-center justify-center gap-3">
               <button
                 className="rounded-full border px-4 py-2 text-sm hover:bg-slate-50"
                 onClick={() => changePage(currentPage - 1)}
@@ -110,7 +131,8 @@ export default function BlogsPage({ blogs }) {
               >
                 Next
               </button>
-            </div>
+              </div>
+            )}
           </div>
 
           {/* Sidebar */}
@@ -123,7 +145,7 @@ export default function BlogsPage({ blogs }) {
                     <li key={p.slug} className="flex items-start gap-3">
                       <img src={`/img/${p.image}.webp`} alt={p.title} className="h-12 w-12 flex-none rounded-lg object-cover" onError={(e)=>{e.currentTarget.src='/img/PinVideoDown.webp'}} />
                       <div>
-                        <Link href={`/blogs/${p.slug}/`} className="font-semibold text-slate-900">{p.title}</Link>
+                        <Link href={`/blog/${p.slug}/`} className="font-semibold text-slate-900">{p.title}</Link>
                         <p className="mt-1 text-xs text-slate-500">{p.date}</p>
                       </div>
                     </li>

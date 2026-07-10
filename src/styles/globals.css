@@ -14,10 +14,15 @@ body {
 * {
   box-sizing: border-box;
 }
-
+#blog-title {
+  text-align: center !important;
+}
 .container {
   max-width: 1150px;
   margin: 0 auto;
+}
+.blog h1, .blog h2, .blog h3 {
+  text-align: left !important;
 }
 h1 {
   font-size: 26px !important;

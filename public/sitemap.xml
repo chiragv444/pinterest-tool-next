@@ -148,8 +148,12 @@
         <loc>http://pinvideodown.com/zh/</loc>
         <changefreq>daily</changefreq>
   </url>
-    <url>
+  <url>
         <loc>http://pinvideodown.com/zh/pinterest-image-downloader/</loc>
+        <changefreq>daily</changefreq>
+  </url>
+  <url>
+        <loc>http://pinvideodown.com/blog/</loc>
         <changefreq>daily</changefreq>
   </url>
 </urlset>
