@@ -54,7 +54,7 @@ export default function BlogsPage({ blogs }) {
     <Layout
       currentRoute="/blogs"
       meta={{
-        title: "Pinterest Video Downloader- Download HD Videos",
+        title: "Download Videos, Idea Pins, and GIFs from Pinterest",
         description:
           "Easily download Pinterest videos in high quality. Convert videos with our fast, free online Pinterest downloader.",
       }}

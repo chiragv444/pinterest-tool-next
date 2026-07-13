@@ -32,18 +32,16 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
       </Layout>
     );
   }
-
   return (
     <Layout
       currentRoute={`/blog/${blog.slug}`}
       meta={{
-        title: `${blog.title} - PinVideoDown`,
+        title: `${blog.title}`,
         description: blog.description,
         // keywords: 'blog, youtube downloader, mp3, mp4, yt1s, offline'
       }}
     >
       <section className="container blog px-5 py-10" id='blog-detail'>
-
         <div className="mb-8 mt-2 text-[16px] font-bold bg-[#fff3f5] rounded p-3">
           {/* breadcrumb here */}
           🏠︎{" "}
@@ -59,7 +57,6 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
             {blog?.title}
           </Link>
         </div>
-
         <div className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
           <Image
             src={getBlogImageSrc(blog)}
@@ -73,30 +70,6 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
             <div dangerouslySetInnerHTML={{ __html: blog.content }} />
           </div>
         </div>
-
-        {/* <div className="mt-8 flex flex-col gap-3 border-t border-slate-200 pt-6 sm:flex-row sm:items-center sm:justify-between">
-          {previousBlog ? (
-            <Link
-              href={`/blog/${previousBlog.slug}/`}
-              className="inline-flex items-center justify-start rounded-full border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-100"
-            >
-              ← Previous Post
-            </Link>
-          ) : (
-            <span className="text-sm text-slate-400">← Previous Post</span>
-          )}
-
-          {nextBlog ? (
-            <Link
-              href={`/blog/${nextBlog.slug}/`}
-              className="inline-flex items-center justify-end rounded-full border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-100"
-            >
-              Next Post →
-            </Link>
-          ) : (
-            <span className="text-sm text-slate-400">Next Post →</span>
-          )}
-        </div> */}
       </section>
     </Layout>
   );
