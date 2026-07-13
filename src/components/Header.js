@@ -13,12 +13,14 @@ export default function Header({ lang = 'en', nav = { video: 'Pinterest Video Do
   const isRoot = normalizedRoute === '/';
   const isLangOnly = /^\/[a-z]{2}$/.test(normalizedRoute);
   const isFooterPage = ['/privacy-policy', '/contact-us', '/terms-of-service', '/about-us'].includes(routeWithoutLocale);
-  const routePath = isRoot || isLangOnly || isFooterPage ? '' : routeWithoutLocale;
+  const isBlogRoute = routeWithoutLocale === '/blog' || routeWithoutLocale.startsWith('/blog/');
+  const routePath = isRoot || isLangOnly || isFooterPage || isBlogRoute ? '' : routeWithoutLocale;
 
   const makeHref = (langCode) => {
     const prefix = langCode === 'en' ? '' : '/' + langCode;
     const tail = (routePath || '').replace(/^\/+|\/+$/g, '');
-    let href = `${prefix}/${tail}`.replace(/\/{2,}/g, '/');
+    let href = tail ? `${prefix}/${tail}` : prefix || '/';
+    href = href.replace(/\/\/{2,}/g, '/');
     if (href !== '/' && !href.endsWith('/')) href += '/';
     return href === '//' ? '/' : href;
   };
