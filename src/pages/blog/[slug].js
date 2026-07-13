@@ -52,10 +52,10 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
           <Link href="/blog/" className="hover:text-red-600">
             Blog
           </Link>{" "}
-          /{" "}
+          {/* /{" "}
           <Link href={`/blog/${blog?.slug}/`} className="hover:text-red-600">
             {blog?.title}
-          </Link>
+          </Link> */}
         </div>
         <div className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
           <Image
