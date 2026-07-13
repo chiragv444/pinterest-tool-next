@@ -42,35 +42,9 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
         // keywords: 'blog, youtube downloader, mp3, mp4, yt1s, offline'
       }}
     >
-      <section className="container blog px-5 py-10">
-        {/* <div className="mb-10 overflow-hidden rounded-[2rem] border border-slate-200 bg-white shadow-sm">
-          <div className="relative h-[320px] sm:h-[420px] lg:h-[520px]">
-            <Image
-              src={`/src/assets/${blog.image}.png`}
-              alt={blog.title}
-              fill
-              className="object-cover"
-              onError={(event) => {
-                event.currentTarget.src = "/img/PinVideoDown.webp";
-              }}
-            />
-            <div className="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-slate-950/20 to-transparent" />
-            <div className="absolute inset-x-0 bottom-0 p-6 sm:p-10">
-              <p className="text-sm text-white/80">
-                <Link href="/" className="underline-offset-4 hover:underline">
-                  Home
-                </Link>{' '}
-                / {blog.title}
-              </p>
-              <h1 className="mt-4 text-3xl sm:text-4xl lg:text-5xl font-bold text-white">
-                {blog.title}
-              </h1>
-              <p className="mt-3 text-sm text-white/80">{blog.date}</p>
-            </div>
-          </div>
-        </div> */}
+      <section className="container blog px-5 py-10" id='blog-detail'>
 
-        <div className="mb-6 mt-2 text-[16px] font-bold bg-gray-50 rounded p-3">
+        <div className="mb-8 mt-2 text-[16px] font-bold bg-[#fff3f5] rounded p-3">
           {/* breadcrumb here */}
           🏠︎{" "}
           <Link href="/" className="hover:text-red-600">
@@ -86,23 +60,7 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
           </Link>
         </div>
 
-        <div className="mb-10 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
-          <div>
-            <p className="text-sm uppercase tracking-[0.28em] text-[#cb2444]">
-              Blog post
-            </p>
-            {/* <h1 className="mt-3 max-w-3xl text-4xl font-bold leading-tight">{blog.title}</h1> */}
-            <p className="mt-3 text-slate-600">{blog.date}</p>
-          </div>
-          <Link
-            href="/blog/"
-            className="inline-flex items-center rounded-full border border-slate-200 bg-white px-5 py-3 text-sm font-semibold text-slate-900 shadow-sm hover:border-slate-300 hover:bg-slate-50"
-          >
-            ← Back to blogs
-          </Link>
-        </div>
-
-        <div className="overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm">
+        <div className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
           <Image
             src={getBlogImageSrc(blog)}
             // alt={blog.title}

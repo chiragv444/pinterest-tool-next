@@ -21,6 +21,10 @@ body {
   max-width: 1150px;
   margin: 0 auto;
 }
+#blog-detail ul {
+  list-style: disc !important;
+  padding-left: 20px !important;
+}
 .blog h1, .blog h2, .blog h3 {
   text-align: left !important;
 }
