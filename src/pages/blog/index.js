@@ -52,7 +52,7 @@ export default function BlogsPage({ blogs }) {
 
   return (
     <Layout
-      currentRoute="/blogs"
+      currentRoute="/blog"
       meta={{
         title: "Download Videos, Idea Pins, and GIFs from Pinterest",
         description:
