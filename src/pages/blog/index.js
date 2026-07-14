@@ -116,17 +116,15 @@ export default function BlogsPage({ blogs }) {
           </div>
 
           <div className="mt-4 flex flex-wrap items-center justify-center gap-3">
-            <button
-              onClick={() => setCurrentPage((p) => Math.max(p - 1, 1))}
-              disabled={currentPage === 1}
-              className={`rounded-full border px-4 py-2 text-sm font-semibold ${
-                currentPage === 1
-                  ? "cursor-not-allowed border-slate-200 text-slate-400"
-                  : "border-slate-300 text-slate-700 hover:bg-slate-100"
-              }`}
-            >
-              Previous
-            </button>
+            {/* Hide Previous only on first page */}
+            {currentPage > 1 && (
+              <button
+                onClick={() => setCurrentPage((p) => Math.max(p - 1, 1))}
+                className="rounded-full border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-100"
+              >
+                Previous
+              </button>
+            )}
 
             {pageNumbers.map((page) => (
               <button
@@ -142,17 +140,22 @@ export default function BlogsPage({ blogs }) {
               </button>
             ))}
 
-            <button
-              onClick={() => setCurrentPage((p) => Math.min(p + 1, totalPages))}
-              disabled={currentPage === totalPages}
-              className={`rounded-full border px-4 py-2 text-sm font-semibold ${
-                currentPage === totalPages
-                  ? "cursor-not-allowed border-slate-200 text-slate-400"
-                  : "border-slate-300 text-slate-700 hover:bg-slate-100"
-              }`}
-            >
-              Next
-            </button>
+            {/* Hide Next only on last page EXCEPT when there's only one page */}
+            {(currentPage < totalPages || totalPages === 1) && (
+              <button
+                onClick={() =>
+                  setCurrentPage((p) => Math.min(p + 1, totalPages))
+                }
+                disabled={currentPage === totalPages}
+                className={`rounded-full border px-4 py-2 text-sm font-semibold ${
+                  currentPage === totalPages
+                    ? "cursor-not-allowed border-slate-200 text-slate-400"
+                    : "border-slate-300 text-slate-700 hover:bg-slate-100"
+                }`}
+              >
+                Next
+              </button>
+            )}
           </div>
         </div>
       </section>

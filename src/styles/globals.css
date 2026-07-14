@@ -28,6 +28,9 @@ body {
 .blog h1, .blog h2, .blog h3 {
   text-align: left !important;
 }
+.blog p, .blog h1, .blog h2, .blog h3{
+  margin-bottom: 12px !important;
+}
 h1 {
   font-size: 26px !important;
   text-align: center !important;
