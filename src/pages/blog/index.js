@@ -76,7 +76,7 @@ export default function BlogsPage({ blogs }) {
             {blogsToShow.map((blog) => (
               <article
                 key={`${blog.slug}-${blog.blog_id}`}
-                className="overflow-hidden rounded-xl w-full sm:w-[48.5%] lg:w-[31.33%] border border-slate-200 bg-white shadow-sm hover:shadow-md mb-8"
+                className="overflow-hidden rounded-xl w-full sm:w-[48.5%] border border-slate-200 bg-white shadow-sm hover:shadow-md mb-8"
               >
                 <Link href={`/blog/${blog.slug}/`} className="block group">
                   <div className="relative overflow-hidden bg-slate-100 group-hover:scale-105 transition-transform duration-700">
