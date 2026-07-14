@@ -15,7 +15,10 @@ const defaultMeta = {
   keywords: 'Pinterest, video, downloader, HD, download'
 };
 
-const TRANSLATABLE_ROUTES = new Set(['/', '/pinterest-image-downloader']);
+const TRANSLATABLE_ROUTES = new Set(['/', '/pinterest-image-downloader', '/blog']);
+const ALTERNATE_ROUTE_OVERRIDE = {
+  '/blog': '/',
+};
 
 function normalizeRoute(route) {
   if (!route || route === '/') {
@@ -32,6 +35,9 @@ function getBaseRoute(route) {
   if (parts.length > 0 && getSupportedLanguages().includes(parts[0])) {
     return parts.length === 1 ? '/' : `/${parts.slice(1).join('/')}`;
   }
+  if (normalized.startsWith('/blog')) {
+    return '/blog';
+  }
   return normalized;
 }
 
@@ -41,16 +47,21 @@ export default function Layout({ children, lang = 'en', nav = defaultNav, curren
   const canonicalPath = normalizedRoute === '/' ? 'https://pinvideodown.com/' : `https://pinvideodown.com${normalizedRoute}/`;
   const baseRoute = getBaseRoute(currentRoute);
   const showAlternate = TRANSLATABLE_ROUTES.has(baseRoute);
+  const effectiveMeta = {
+    title: meta.title || defaultMeta.title,
+    description: meta.description || defaultMeta.description,
+    keywords: meta.keywords || defaultMeta.keywords,
+  };
 
   return (
     <>
       <Head>
-        <title>{meta.title}</title>
-        <meta name="description" content={meta.description} />
-        <meta property="og:title" content={meta.title} />
-        <meta property="og:description" content={meta.description} />
+        <title>{effectiveMeta.title}</title>
+        <meta name="description" content={effectiveMeta.description} />
+        <meta property="og:title" content={effectiveMeta.title} />
+        <meta property="og:description" content={effectiveMeta.description} />
         <meta name="robots" content="index, follow" />
-        <meta name="keywords" content={meta.keywords} />
+        <meta name="keywords" content={effectiveMeta.keywords} />
         <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png" />
@@ -62,7 +73,8 @@ export default function Layout({ children, lang = 'en', nav = defaultNav, curren
         {showAlternate && (
           <>
             {supportedLanguages.map((language) => {
-              const hrefLangPath = language === 'en' ? baseRoute : `/${language}${baseRoute === '/' ? '' : baseRoute}`;
+              const effectiveBaseRoute = ALTERNATE_ROUTE_OVERRIDE[baseRoute] || baseRoute;
+              const hrefLangPath = language === 'en' ? effectiveBaseRoute : `/${language}${effectiveBaseRoute === '/' ? '' : effectiveBaseRoute}`;
               const relativePath = hrefLangPath === '/' ? 'https://pinvideodown.com/' : `https://pinvideodown.com${hrefLangPath}/`;
               return <link key={language} rel="alternate" hrefLang={language} href={relativePath} />;
             })}

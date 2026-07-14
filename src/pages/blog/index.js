@@ -39,9 +39,6 @@ export default function BlogsPage({ blogs }) {
     localStorage.setItem("blogsCurrentPage", currentPage);
   }, [currentPage, mounted]);
 
-  // Don't render until localStorage has been read
-  if (!mounted) return null;
-
   const startIndex = (currentPage - 1) * BLOGS_PER_PAGE;
   const blogsToShow = sortedBlogs.slice(
     startIndex,
@@ -57,6 +54,8 @@ export default function BlogsPage({ blogs }) {
         title: "Download Videos, Idea Pins, and GIFs from Pinterest",
         description:
           "Easily download Pinterest videos in high quality. Convert videos with our fast, free online Pinterest downloader.",
+        keywords:
+          "Pinterest video downloader blog, Pinterest downloader tips, download Pinterest videos, Pinterest video download",
       }}
     >
       <section className="py-10 blog">
