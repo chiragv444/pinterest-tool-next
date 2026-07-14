@@ -49,9 +49,10 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
             Home
           </Link>{" "}
           /{" "}
-          <Link href="/blog/" className="hover:text-red-600">
+          {/* <Link href="/blog/" className="hover:text-red-600"> */}
             Blog
-          </Link>{" "}
+          {/* </Link> */}
+          {" "}
           {/* /{" "}
           <Link href={`/blog/${blog?.slug}/`} className="hover:text-red-600">
             {blog?.title}
