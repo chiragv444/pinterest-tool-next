@@ -41,22 +41,19 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
         // keywords: 'blog, youtube downloader, mp3, mp4, yt1s, offline'
       }}
     >
-      <section className="container blog px-5 py-10" id='blog-detail'>
+      <section className="container blog px-5 py-10" id="blog-detail">
         <div className="mb-8 mt-2 text-[16px] font-bold bg-[#fff3f5] rounded p-3">
           {/* breadcrumb here */}
           🏠︎{" "}
           <Link href="/" className="hover:text-red-600">
             Home
           </Link>{" "}
-          /{" "}
-          {/* <Link href="/blog/" className="hover:text-red-600"> */}
-            Blog
+          / {/* <Link href="/blog/" className="hover:text-red-600"> */}
+          Blog
+          {/* </Link> */} /{" "}
+          {/* <Link href={`/blog/${blog?.slug}/`} className="hover:text-red-600"> */}
+          {blog?.title}
           {/* </Link> */}
-          {" "}
-          {/* /{" "}
-          <Link href={`/blog/${blog?.slug}/`} className="hover:text-red-600">
-            {blog?.title}
-          </Link> */}
         </div>
         <div className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
           <Image
@@ -98,7 +95,10 @@ export async function getStaticProps({ params }) {
 
   const currentIndex = sortedBlogs.findIndex((item) => item.slug === blog.slug);
   const previousBlog = currentIndex > 0 ? sortedBlogs[currentIndex - 1] : null;
-  const nextBlog = currentIndex >= 0 && currentIndex < sortedBlogs.length - 1 ? sortedBlogs[currentIndex + 1] : null;
+  const nextBlog =
+    currentIndex >= 0 && currentIndex < sortedBlogs.length - 1
+      ? sortedBlogs[currentIndex + 1]
+      : null;
 
   return {
     props: {
