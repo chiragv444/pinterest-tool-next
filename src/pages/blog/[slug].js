@@ -41,7 +41,7 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
         // keywords: 'blog, youtube downloader, mp3, mp4, yt1s, offline'
       }}
     >
-      <section className="container blog px-5 py-10" id="blog-detail">
+      <section className="container blog px-5 pb-10" id="blog-detail">
         <div className="mb-8 mt-2 text-[16px] font-bold bg-[#fff3f5] rounded p-3">
           {/* breadcrumb here */}
           🏠︎{" "}
@@ -58,8 +58,8 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
         <div className="overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
           <Image
             src={getBlogImageSrc(blog)}
-            // alt={blog.title}
-            alt="Pinterest video downloader"
+            alt={blog.imagealt}
+            // alt="Pinterest video downloader"
             width={1280}
             height={720}
             className="w-full max-w-[1280px] object-contain rounded mb-6"

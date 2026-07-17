@@ -82,8 +82,8 @@ export default function BlogsPage({ blogs }) {
                   <div className="relative overflow-hidden bg-slate-100 group-hover:scale-105 transition-transform duration-700">
                     <Image
                       src={getBlogImageSrc(blog)}
-                      // alt={blog.title}
-                      alt={"Pinterest video downloader"}
+                      alt={blog.imagealt}
+                      // alt={"Pinterest video downloader"}
                       width={460}
                       height={208}
                       className="h-auto w-[1280px] object-cover"
