@@ -58,7 +58,7 @@ export default function BlogsPage({ blogs }) {
           "Pinterest video downloader blog, Pinterest downloader tips, download Pinterest videos, Pinterest video download",
       }}
     >
-      <section className="py-10 blog">
+      <section className="pb-10 blog">
         <div className="mb-10 text-center border border-red-600 p-10 bg-[#cb2444] text-white">
           {/* <p className="text-sm uppercase tracking-[0.28em] text-[#cb2444]">Latest articles</p> */}
           <h1 className="mt-3 text-3xl font-bold" id="blog-title">
