@@ -156,6 +156,21 @@ export default function BlogsPage({ blogs }) {
               </button>
             )}
           </div>
+          <div className="max-w-[700px] mt-8 mx-auto border border-[#dfdfdf] bg-[#f5f5f577] rounded-2xl p-8 text-center">
+            <h3 className="text-2xl font-bold mb-3 inline-block">
+              Need to download Pinterest videos & Images?
+            </h3>
+            <p className="text-[15px] leading-6 !mb-6">
+              Download Pinterest videos and images instantly with the Pinterest
+              Downloader. No installation required.
+            </p>
+            <a
+              className="inline-flex items-center justify-center rounded-lg bg-[#cb2444] text-white text-[15px] font-semibold h-12 px-8 shadow-[0_4px_10px_rgba(255,0,0,0.22)] hover:bg-[#df2849] hover:shadow-none transition-all"
+              href="/"
+            >
+              Go to Downloader →
+            </a>
+          </div>
         </div>
       </section>
     </Layout>
