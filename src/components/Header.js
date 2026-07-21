@@ -37,7 +37,7 @@ export default function Header({ lang = 'en', nav = { video: 'Pinterest Video Do
       <div className="container flex items-center justify-between py-3 px-5">
         <div className="flex items-center gap-4">
           <Link href="/" className="text-xl font-bold flex items-center gap-2">
-            <img src="/img/PinVideoDown.webp" alt="PinVideoDown Logo" className="h-[18px] w-[144px]" />
+            <img src="/img/PinVideoDown.webp" alt="PinVideoDown" className="h-[18px] w-[144px]" />
           </Link>
         </div>
 

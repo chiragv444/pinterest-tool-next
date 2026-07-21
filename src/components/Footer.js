@@ -7,7 +7,7 @@ export default function Footer({lang = 'en'}) {
         <div className="flex flex-col md:flex-row flex-wrap justify-between items-center gap-6">
           <div className="flex items-center gap-4 group">
             <Link href={lang === 'en' ? '/' : `/${lang}/`} className="text-xl font-bold flex items-center gap-2">
-              <img src="/img/PinVideoDown.webp" alt="PinVideoDown Logo" className="h-[18px] w-[144px]" />
+              <img src="/img/PinVideoDown.webp" alt="PinVideoDown" className="h-[18px] w-[144px]" />
             </Link>
           </div>
 

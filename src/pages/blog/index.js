@@ -51,11 +51,11 @@ export default function BlogsPage({ blogs }) {
     <Layout
       currentRoute="/blog"
       meta={{
-        title: "Download Videos, Idea Pins, and GIFs from Pinterest",
+        title: "Download Videos, Idea Pins, and GIFs from Pinterest - PinVideoDown",
         description:
           "Easily download Pinterest videos in high quality. Convert videos with our fast, free online Pinterest downloader.",
         keywords:
-          "Pinterest video downloader blog, Pinterest downloader tips, download Pinterest videos, Pinterest video download",
+          "Instagram Downloader",
       }}
     >
       <section className="pb-10 blog">

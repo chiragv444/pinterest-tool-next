@@ -38,7 +38,7 @@ export default function BlogDetailPage({ blog, previousBlog, nextBlog }) {
       meta={{
         title: `${blog.title}`,
         description: blog.description,
-        // keywords: 'blog, youtube downloader, mp3, mp4, yt1s, offline'
+        keywords: blog.keywords
       }}
     >
       <section className="container blog px-5 pb-10" id="blog-detail">
