@@ -55,7 +55,7 @@ export default function BlogsPage({ blogs }) {
         description:
           "Easily download Pinterest videos in high quality. Convert videos with our fast, free online Pinterest downloader.",
         keywords:
-          "Instagram Downloader",
+          "Pinterest Video Downloader Blogs, Pinterest Downloader Tips, Pinvideodown",
       }}
     >
       <section className="pb-10 blog">
