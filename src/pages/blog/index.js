@@ -157,9 +157,9 @@ export default function BlogsPage({ blogs }) {
             )}
           </div>
           <div className="max-w-[700px] mt-8 mx-auto border border-[#dfdfdf] bg-[#f5f5f577] rounded-2xl p-8 text-center">
-            <h3 className="text-2xl font-bold mb-3 inline-block">
+            <span className="text-2xl font-bold mb-3 inline-block">
               Need to download Pinterest videos & Images?
-            </h3>
+            </span>
             <p className="text-[15px] leading-6 !mb-6">
               Download Pinterest videos and images instantly with the Pinterest
               Downloader. No installation required.
