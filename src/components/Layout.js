@@ -15,10 +15,7 @@ const defaultMeta = {
   keywords: 'Pinterest, video, downloader, HD, download'
 };
 
-const TRANSLATABLE_ROUTES = new Set(['/', '/pinterest-image-downloader', '/blog']);
-const ALTERNATE_ROUTE_OVERRIDE = {
-  '/blog': '/',
-};
+const TRANSLATABLE_ROUTES = new Set(['/', '/pinterest-image-downloader']);
 
 function normalizeRoute(route) {
   if (!route || route === '/') {
@@ -73,8 +70,7 @@ export default function Layout({ children, lang = 'en', nav = defaultNav, curren
         {showAlternate && (
           <>
             {supportedLanguages.map((language) => {
-              const effectiveBaseRoute = ALTERNATE_ROUTE_OVERRIDE[baseRoute] || baseRoute;
-              const hrefLangPath = language === 'en' ? effectiveBaseRoute : `/${language}${effectiveBaseRoute === '/' ? '' : effectiveBaseRoute}`;
+              const hrefLangPath = language === 'en' ? baseRoute : `/${language}${baseRoute === '/' ? '' : baseRoute}`;
               const relativePath = hrefLangPath === '/' ? 'https://pinvideodown.com/' : `https://pinvideodown.com${hrefLangPath}/`;
               return <link key={language} rel="alternate" hrefLang={language} href={relativePath} />;
             })}
