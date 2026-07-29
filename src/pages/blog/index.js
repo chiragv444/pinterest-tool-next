@@ -5,7 +5,7 @@ import { getAllBlogs } from "../../data/blogs";
 import { getBlogImageSrc } from "../../lib/blogImages";
 import Image from "next/image";
 
-const BLOGS_PER_PAGE = 9;
+const BLOGS_PER_PAGE = 10;
 
 export default function BlogsPage({ blogs }) {
   const sortedBlogs = [...blogs].sort(
