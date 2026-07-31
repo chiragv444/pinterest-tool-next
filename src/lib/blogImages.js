@@ -10,7 +10,7 @@ import blogImage09 from '../assets/9th-blog-webp.webp';
 import blogImage10 from '../assets/10th-blog-webp.webp';
 import blogImage11 from '../assets/11th-blog-webp.webp';
 import blogImage12 from '../assets/12th-blog-webp.webp';
-// import blogImage13 from '../assets/13th-blog-webp.webp';
+import blogImage13 from '../assets/13th-blog-webp.webp';
 // import blogImage14 from '../assets/14th-blog-webp.webp';
 // import blogImage15 from '../assets/15th-blog-webp.webp';
 // import blogImage16 from '../assets/16th-blog-webp.webp';
@@ -48,7 +48,7 @@ const blogImageMap = {
   '10': blogImage10,
   '11': blogImage11,
   '12': blogImage12,
-  // '13': blogImage13,
+  '13': blogImage13,
   // '14': blogImage14,
   // '15': blogImage15,
   // '16': blogImage16,
