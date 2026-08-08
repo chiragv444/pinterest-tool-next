@@ -116,7 +116,7 @@ export default function HomePage({ hero, form, home_content, what_section, why_s
                     </div>
                   </div>
                   <div className="p-4">
-                    <h3 className="text-xl font-bold mb-2" style={{ textAlign: 'left !important' }}>
+                    <h3 className="text-xl font-bold mb-2" style={{ textAlign: 'center !important' }}>
                       {item.title}
                     </h3>
                     <p className="text-sm text-slate-600">{item.text}</p>

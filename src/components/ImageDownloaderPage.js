@@ -128,7 +128,7 @@ export default function ImageDownloaderPage({ hero, form, home_content, what_sec
                     </div>
                   </div>
                   <div className="p-4">
-                    <h3 className="text-xl font-bold mb-2" style={{ textAlign: 'left' }}>
+                    <h3 className="text-xl font-bold mb-2" style={{ textAlign: 'center' }}>
                       {item.title}
                     </h3>
                     <p className="text-sm text-justify">{item.text}</p>
