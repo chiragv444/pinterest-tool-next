@@ -52,7 +52,12 @@ export default function Header({ lang = 'en', nav = { video: 'Pinterest Video Do
           </div>
 
           <div className="flex items-center gap-4">
-            <div id="lang-dropdown" className="relative">
+            <div
+              id="lang-dropdown"
+              className="relative"
+              onMouseEnter={() => setLangDropdownOpen(true)}
+              onMouseLeave={() => setLangDropdownOpen(false)}
+            >
               <button
                 type="button"
                 id="lang-dropdown-trigger"
@@ -81,97 +86,97 @@ export default function Header({ lang = 'en', nav = { video: 'Pinterest Video Do
               >
                 <ul className="list-none">
                   <li>
-                    <Link href={makeHref('en')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('en')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       English
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('id')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('id')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Bahasa Indonesia
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('vi')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('vi')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Tiếng Việt
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('ms')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('ms')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Bahasa Malaysia
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('es')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('es')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Español
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('fr')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('fr')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Français
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('de')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('de')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       German
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('hu')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('hu')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Hungary
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('it')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('it')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Italian
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('pl')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('pl')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Polish
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('pt')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('pt')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Português
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('ro')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('ro')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Romanian
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('th')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('th')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Thai
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('tr')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('tr')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Turkish
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('ru')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('ru')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       Русский
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('hi')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('hi')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       हिंदी
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('zh')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('zh')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       中文(简体)
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('ja')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('ja')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       日本語
                     </Link>
                   </li>
                   <li>
-                    <Link href={makeHref('ar')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item" onClick={() => setLangDropdownOpen(false)}>
+                    <Link href={makeHref('ar')} className="block px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 lang-item">
                       عربي
                     </Link>
                   </li>
