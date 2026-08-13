@@ -19,8 +19,8 @@ import blogImage18 from '../assets/18th-blog-webp.webp';
 import blogImage19 from '../assets/19th-blog-webp.webp';
 import blogImage20 from '../assets/20th-blog-webp.webp';
 import blogImage21 from '../assets/21th-blog-webp.webp';
-// import blogImage22 from '../assets/22nd-blog-webp.webp';
-// import blogImage23 from '../assets/23rd-blog-webp.webp';
+import blogImage22 from '../assets/22th-blog-webp.webp';
+// import blogImage23 from '../assets/23th-blog-webp.webp';
 // import blogImage24 from '../assets/24th-blog-webp.webp';
 // import blogImage25 from '../assets/25th-blog-webp.webp';
 // import blogImage26 from '../assets/26th-blog-webp.webp';
@@ -29,8 +29,8 @@ import blogImage21 from '../assets/21th-blog-webp.webp';
 // import blogImage29 from '../assets/29th-blog-webp.webp';
 // import blogImage30 from '../assets/30th-blog-webp.webp';
 // import blogImage31 from '../assets/31st-blog-webp.webp';
-// import blogImage32 from '../assets/32nd-blog-webp.webp';
-// import blogImage33 from '../assets/33rd-blog-webp.webp';
+// import blogImage32 from '../assets/32th-blog-webp.webp';
+// import blogImage33 from '../assets/33th-blog-webp.webp';
 // import blogImage34 from '../assets/34th-blog-webp.webp';
 // import blogImage35 from '../assets/35th-blog-webp.webp';
 // import blogImage36 from '../assets/36th-blog-webp.webp';
@@ -57,7 +57,7 @@ const blogImageMap = {
   '19': blogImage19,
   '20': blogImage20,
   '21': blogImage21,
-  // '22': blogImage22,
+  '22': blogImage22,
   // '23': blogImage23,
   // '24': blogImage24,
   // '25': blogImage25,
