@@ -1,6 +1,6 @@
 import crypto from 'crypto';
 
-export const PINTEREST_URL_PATTERN = /^https?:\/\/(www\.)?(pinterest\.(com|co\.uk|ca|de|fr|es|it|nl|ru|jp|au|nz|ie|at|ch|se|no|dk|fi|pl|pt|br|mx|in|kr|tr|cz|hu|ro|gr|co|cl|ar|pe|ph|id|my|sg|th|vn|ae|il|za|co\.za|co\.ke|co\.ug|co\.tz|co\.zw|co\.bw|co\.gh|co\.mu|co\.mw|co\.na|co\.sz|co\.zm)|pin\.it)\/.+/i;
+export const PINTEREST_URL_PATTERN = /^https?:\/\/((www\.)?([a-z0-9-]+\.)?pinterest\.(com|co\.uk|ca|de|fr|es|it|nl|ru|jp|au|nz|ie|at|ch|se|no|dk|fi|pl|pt|br|mx|in|kr|tr|cz|hu|ro|gr|co|cl|ar|pe|ph|id|my|sg|th|vn|ae|il|za|co\.za|co\.ke|co\.ug|co\.tz|co\.zw|co\.bw|co\.gh|co\.mu|co\.mw|co\.na|co\.sz|co\.zm)|pin\.it)\/.+/i;
 const TOKEN_TTL_MS = 5 * 60 * 1000;
 
 const getSecret = () => {
